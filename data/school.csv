@@ -1,0 +1,1753 @@
+county_code,county_name,district_code,district_name,school_code,school_name,gradespan,rating
+01,ATLANTIC,0010,Absecon Public Schools District,050,Emma C Attales,05-08,40.5
+01,ATLANTIC,0010,Absecon Public Schools District,060,H Ashton Marsh,PK-04,37.75
+01,ATLANTIC,0110,Atlantic City School District,030,Sovereign Avenue School,PK-08,52.25
+01,ATLANTIC,0110,Atlantic City School District,050,Chelsea Heights School,PK-08,55.25
+01,ATLANTIC,0110,Atlantic City School District,060,Texas Avenue School,KG-08,46.0
+01,ATLANTIC,0110,Atlantic City School District,070,New York Avenue School,PK-08,45.5
+01,ATLANTIC,0110,Atlantic City School District,080,Uptown School Complex,PK-08,38.0
+01,ATLANTIC,0110,Atlantic City School District,100,Pennsylvania Ave School,PK-08,43.75
+01,ATLANTIC,0110,Atlantic City School District,120,Richmond Avenue School,PK-08,48.25
+01,ATLANTIC,0110,Atlantic City School District,140,Dr Martin Luther King Jr School Complex,PK-08,47.75
+01,ATLANTIC,0110,Atlantic City School District,300,Brighton Avenue School,PK-05,45.0
+01,ATLANTIC,0570,Brigantine Public School District,010,Brigantine Elementary School,PK-04,48.25
+01,ATLANTIC,0570,Brigantine Public School District,030,Brigantine North Middle School,05-08,53.5
+01,ATLANTIC,0590,Buena Regional School District,030,Buena Regional Middle School,06-08,46.5
+01,ATLANTIC,0590,Buena Regional School District,300,Dr. J.P. Cleary Elementary School,03-05,35.0
+01,ATLANTIC,1300,Egg Harbor City School District,030,Egg Harbor City Community School,04-08,42.5
+01,ATLANTIC,1310,Egg Harbor Township School District,038,Alder Avenue Middle School,06-08,48.0
+01,ATLANTIC,1310,Egg Harbor Township School District,039,Fernwood Avenue Middle School,06-08,51.0
+01,ATLANTIC,1310,Egg Harbor Township School District,045,Dr. Joyanne D. Miller Elementary School,04-05,34.5
+01,ATLANTIC,1410,Estell Manor School District,050,Estell Manor Elementary School,KG-08,52.25
+01,ATLANTIC,1540,Folsom Borough School District,050,Folsom Elementary School,PK-08,54.5
+01,ATLANTIC,1690,Galloway Township Public Schools,015,Arthur Rann Elementary School,PK-06,48.0
+01,ATLANTIC,1690,Galloway Township Public Schools,016,Galloway Township Middle School,07-08,44.75
+01,ATLANTIC,1690,Galloway Township Public Schools,045,Reeds Road Elementary School,KG-06,57.0
+01,ATLANTIC,1690,Galloway Township Public Schools,046,Roland Rogers Elementary School,PK-06,53.0
+01,ATLANTIC,1690,Galloway Township Public Schools,048,Smithville Elementary School,KG-06,55.0
+01,ATLANTIC,1940,Hamilton Township School District,055,George L. Hess Educational Complex,PK-05,53.75
+01,ATLANTIC,1940,Hamilton Township School District,120,William Davies Middle School,06-08,39.75
+01,ATLANTIC,1960,Hammonton School District,055,Warren E. Sooy Jr. Elementary School,PK-05,46.5
+01,ATLANTIC,1960,Hammonton School District,060,Hammonton Middle School,06-08,41.5
+01,ATLANTIC,2680,Linwood City School District,020,Belhaven Middle School,05-08,63.5
+01,ATLANTIC,2680,Linwood City School District,050,Seaview Elementary School,PK-05,46.5
+01,ATLANTIC,3020,Margate City School District,010,Eugene A. Tighe Middle School,05-08,61.5
+01,ATLANTIC,3020,Margate City School District,025,William H. Ross III School,PK-04,64.5
+01,ATLANTIC,3480,Mullica Township School District,020,Mullica Township Primary School,PK-04,42.0
+01,ATLANTIC,3480,Mullica Township School District,025,Mullica Township Middle School,05-08,47.0
+01,ATLANTIC,3720,Northfield City School District,056,Northfield Community Middle School,05-08,46.0
+01,ATLANTIC,3720,Northfield City School District,057,Northfield Community Elementary School,PK-04,51.75
+01,ATLANTIC,4180,Pleasantville Public School District,055,Pleasantville Middle School,06-08,29.0
+01,ATLANTIC,4180,Pleasantville Public School District,060,Washington Avenue Elementary School,KG-05,43.75
+01,ATLANTIC,4180,Pleasantville Public School District,080,Leeds Avenue Elementary School,PK-05,45.25
+01,ATLANTIC,4180,Pleasantville Public School District,085,North Main Street Elementary School,PK-05,65.25
+01,ATLANTIC,4180,Pleasantville Public School District,095,South Main Street Elementary School,PK-05,45.5
+01,ATLANTIC,4240,Port Republic School District,050,Port Republic Elementary School,KG-08,38.75
+01,ATLANTIC,4800,Somers Point School District,055,Jordan Road Elementary School,04-08,48.5
+01,ATLANTIC,5350,Ventnor City School District,040,Ventnor Middle School,05-08,60.5
+01,ATLANTIC,5350,Ventnor City School District,045,Ventnor Elementary School,PK-04,52.0
+01,ATLANTIC,5760,Weymouth Township School District,020,Weymouth Township Elementary School,PK-08,70.75
+03,BERGEN,0040,Allendale Public School District,010,Brookside School,04-08,61.0
+03,BERGEN,0080,Alpine School District,010,Alpine Elementary School,KG-08,59.5
+03,BERGEN,0300,Bergenfield Borough School District,040,Franklin Elementary School,PK-05,50.5
+03,BERGEN,0300,Bergenfield Borough School District,050,Hoover Elementary School,PK-05,53.25
+03,BERGEN,0300,Bergenfield Borough School District,060,Jefferson Elementary School,KG-05,75.75
+03,BERGEN,0300,Bergenfield Borough School District,070,Lincoln Elementary School,PK-05,57.5
+03,BERGEN,0300,Bergenfield Borough School District,075,Roy W. Brown Middle School,06-08,40.0
+03,BERGEN,0300,Bergenfield Borough School District,080,Washington Elementary School,KG-05,47.0
+03,BERGEN,0440,Bogota Public School District,020,Bogota Jr./Sr. High School,07-12,26.0
+03,BERGEN,0440,Bogota Public School District,030,E. Roy Bixby,PK-06,59.5
+03,BERGEN,0440,Bogota Public School District,050,Lillian M. Steen,PK-06,65.0
+03,BERGEN,0740,Carlstadt PublicSchool District,050,Carlstadt Public School,PK-08,48.0
+03,BERGEN,0890,Cliffside Park School District,050,School #3,01-06,50.25
+03,BERGEN,0890,Cliffside Park School District,060,School #4,KG-06,67.5
+03,BERGEN,0890,Cliffside Park School District,070,School #5,PK-06,55.5
+03,BERGEN,0890,Cliffside Park School District,080,School #6/Middle School,01-08,46.5
+03,BERGEN,0930,Closter Public School District,050,Hillside Elementary School,PK-04,79.5
+03,BERGEN,0930,Closter Public School District,060,Tenakill Middle School,05-08,56.5
+03,BERGEN,0990,Cresskill Public School District,045,Cresskill Middle School,06-08,39.5
+03,BERGEN,0990,Cresskill Public School District,050,Edward H. Bryan,KG-05,66.0
+03,BERGEN,0990,Cresskill Public School District,060,Merritt Memorial,KG-05,71.5
+03,BERGEN,1070,Demarest School District,040,Demarest Middle School,05-08,60.5
+03,BERGEN,1070,Demarest School District,050,Luther Lee Emerson School,02-04,58.5
+03,BERGEN,1130,Dumont Public School District,050,Grant Elementary School,KG-05,46.5
+03,BERGEN,1130,Dumont Public School District,060,Honiss Elementary\Middle School,KG-08,53.0
+03,BERGEN,1130,Dumont Public School District,070,Lincoln Elementary School,KG-05,40.5
+03,BERGEN,1130,Dumont Public School District,080,Selzer Elementary\Middle School,PK-08,50.0
+03,BERGEN,1230,East Rutherford School District,040,Alfred S. Faust,05-08,50.5
+03,BERGEN,1230,East Rutherford School District,080,McKenzie School,PK-04,53.25
+03,BERGEN,1270,Edgewater School District,050,Eleanor Van Gelder,03-06,53.25
+03,BERGEN,1345,Elmwood Park School District,060,Memorial Middle School,06-08,49.75
+03,BERGEN,1345,Elmwood Park School District,070,Gantner Avenue School,KG-05,52.0
+03,BERGEN,1345,Elmwood Park School District,080,Gilbert Avenue School,PK-05,44.75
+03,BERGEN,1345,Elmwood Park School District,090,Sixteenth Avenue School,PK-05,41.0
+03,BERGEN,1360,Emerson Public School District,050,Emerson Jr Sr High,07-12,56.75
+03,BERGEN,1360,Emerson Public School District,060,Patrick M Villano School,03-06,48.5
+03,BERGEN,1370,Englewood Public School District,060,Dr. Leroy McCloud Elementary School,03-05,27.0
+03,BERGEN,1370,Englewood Public School District,076,Janis E. Dismus Middle School,06-08,37.0
+03,BERGEN,1380,Englewood Cliffs School District,060,Upper School,03-08,68.25
+03,BERGEN,1450,Fair Lawn Public School District,060,Thomas Jefferson Middle School,06-08,48.0
+03,BERGEN,1450,Fair Lawn Public School District,070,Memorial Middle School,06-08,46.5
+03,BERGEN,1450,Fair Lawn Public School District,080,Henry B. Milnes Elementary School,KG-05,65.25
+03,BERGEN,1450,Fair Lawn Public School District,085,John A. Forrest Elementary School,KG-05,54.75
+03,BERGEN,1450,Fair Lawn Public School District,100,Lyncrest Elementary School,KG-05,57.0
+03,BERGEN,1450,Fair Lawn Public School District,110,Radburn Elementary School,KG-05,62.0
+03,BERGEN,1450,Fair Lawn Public School District,140,Warren Point Elementary School,KG-05,64.5
+03,BERGEN,1450,Fair Lawn Public School District,160,Westmoreland Elementary School,PK-05,55.0
+03,BERGEN,1470,Fairview Public School District,060,Lincoln School,04-08,42.0
+03,BERGEN,1550,Fort Lee School District,060,School No. 1,KG-06,72.25
+03,BERGEN,1550,Fort Lee School District,070,School No. 2,PK-06,60.75
+03,BERGEN,1550,Fort Lee School District,080,School No. 3,KG-06,65.5
+03,BERGEN,1550,Fort Lee School District,090,School No. 4,KG-06,64.0
+03,BERGEN,1550,Fort Lee School District,100,Lewis F. Cole Middle School,07-08,33.5
+03,BERGEN,1580,Franklin Lakes School District,015,Franklin Avenue Middle School,06-08,44.5
+03,BERGEN,1580,Franklin Lakes School District,020,High Mountain Road School,PK-05,49.75
+03,BERGEN,1580,Franklin Lakes School District,030,Woodside Avenue School,KG-05,62.0
+03,BERGEN,1580,Franklin Lakes School District,040,Colonial Road School,PK-05,55.5
+03,BERGEN,1700,Garfield Public School District,060,Christopher Columbus School #8,PK-05,34.75
+03,BERGEN,1700,Garfield Public School District,070,Garfield Middle School,06-08,39.5
+03,BERGEN,1700,Garfield Public School District,080,Abraham Lincoln School #6,PK-05,39.25
+03,BERGEN,1700,Garfield Public School District,100,Roosevelt School #7,PK-05,45.75
+03,BERGEN,1700,Garfield Public School District,120,Washington Irving School #4,PK-05,55.5
+03,BERGEN,1700,Garfield Public School District,130,Woodrow Wilson School #5,PK-05,57.5
+03,BERGEN,1700,Garfield Public School District,205,James Madison School #10,PK-05,47.0
+03,BERGEN,1700,Garfield Public School District,300,Thomas Jefferson School #9,PK-05,55.5
+03,BERGEN,1760,Glen Rock Public School District,060,Glen Rock Middle School,06-08,56.0
+03,BERGEN,1760,Glen Rock Public School District,065,Alexander Hamilton School,KG-05,70.5
+03,BERGEN,1760,Glen Rock Public School District,070,Richard Byrd,KG-05,53.0
+03,BERGEN,1760,Glen Rock Public School District,080,Central School,KG-05,60.75
+03,BERGEN,1760,Glen Rock Public School District,090,Clara E Coleman School,PK-05,57.0
+03,BERGEN,1860,Hackensack School District,090,Nellie K. Parker,PK-04,51.0
+03,BERGEN,1860,Hackensack School District,100,Fairmount,PK-04,49.75
+03,BERGEN,1860,Hackensack School District,110,Fanny Meyer Hillers,PK-04,48.0
+03,BERGEN,1860,Hackensack School District,120,Jackson Avenue,PK-04,43.75
+03,BERGEN,1860,Hackensack School District,300,Hackensack Middle School,05-08,44.0
+03,BERGEN,2050,Harrington Park School District,050,Harrington Park School,PK-08,55.0
+03,BERGEN,2080,Hasbrouck Heights School District,055,Hasbrouck Heights Middle School,06-08,52.25
+03,BERGEN,2080,Hasbrouck Heights School District,060,Euclid Elementary School,PK-05,60.5
+03,BERGEN,2080,Hasbrouck Heights School District,080,Lincoln Elementary School,PK-05,52.75
+03,BERGEN,2090,Haworth Public School District,050,Haworth Public School,KG-08,59.75
+03,BERGEN,2180,Hillsdale School District,010,Ann Blanche Smith,KG-04,75.25
+03,BERGEN,2180,Hillsdale School District,020,George G White,05-08,69.0
+03,BERGEN,2180,Hillsdale School District,030,Meadowbrook,PK-04,54.75
+03,BERGEN,2200,Ho-Ho-Kus School District,050,Ho-Ho-Kus Public School,PK-08,53.5
+03,BERGEN,2620,Leonia Public School District,055,Leonia Middle School,06-08,51.25
+03,BERGEN,2620,Leonia Public School District,060,Anna C. Scott Elementary School,PK-05,63.0
+03,BERGEN,2710,Little Ferry Public School District,030,Memorial Elementary School,05-08,47.25
+03,BERGEN,2710,Little Ferry Public School District,050,Washington Elementary School,PK-04,31.25
+03,BERGEN,2740,Lodi School District,060,Columbus School,KG-05,70.25
+03,BERGEN,2740,Lodi School District,065,Hilltop School,PK-05,49.0
+03,BERGEN,2740,Lodi School District,067,Thomas Jefferson Middle School,06-08,72.0
+03,BERGEN,2740,Lodi School District,080,Roosevelt School,PK-05,42.25
+03,BERGEN,2740,Lodi School District,090,Washington School,PK-05,20.5
+03,BERGEN,2740,Lodi School District,100,Wilson School,PK-05,37.25
+03,BERGEN,2860,Lyndhurst School District,080,Jefferson School,04-08,64.0
+03,BERGEN,2860,Lyndhurst School District,090,Lincoln School,04-08,56.5
+03,BERGEN,2860,Lyndhurst School District,110,Roosevelt School,04-08,63.5
+03,BERGEN,2900,Mahwah Township Public School District,075,Joyce Kilmer School,04-05,55.5
+03,BERGEN,2900,Mahwah Township Public School District,076,Ramapo Ridge,06-08,47.0
+03,BERGEN,3060,Maywood School District,060,Maywood Avenue School,PK-08,64.75
+03,BERGEN,3170,Midland Park School District,050,Midland Park Jr./Sr. High School,07-12,44.0
+03,BERGEN,3170,Midland Park School District,070,Highland Elementary School,03-06,61.5
+03,BERGEN,3330,Montvale Board of Education School District,020,Fieldstone Middle School,05-08,59.5
+03,BERGEN,3330,Montvale Board of Education School District,030,Memorial Elementary School,PK-04,59.0
+03,BERGEN,3350,Moonachie School District,060,Robert L. Craig School,PK-08,62.0
+03,BERGEN,3550,New Milford Public School District,060,Berkley Street School,KG-05,63.5
+03,BERGEN,3550,New Milford Public School District,070,Bertrand F. Gibbs Elementary School,KG-05,53.5
+03,BERGEN,3550,New Milford Public School District,085,David E. Owens Middle School,PK-08,53.0
+03,BERGEN,3600,North Arlington School District,060,Jefferson Elementary School,KG-05,52.25
+03,BERGEN,3600,North Arlington School District,070,Roosevelt Elementary School,KG-05,63.25
+03,BERGEN,3600,North Arlington School District,080,Washington Elementary School,PK-05,53.75
+03,BERGEN,3600,North Arlington School District,090,North Arlington Middle School,06-08,48.75
+03,BERGEN,3730,Northvale Public School District,050,Northvale Public School,KG-08,50.5
+03,BERGEN,3740,Norwood Public School District,020,Norwood Public School,KG-08,54.25
+03,BERGEN,3760,Oakland Public School District,040,Dogwood Hill Elementary School,KG-05,41.75
+03,BERGEN,3760,Oakland Public School District,050,Heights Elementary School,PK-05,56.0
+03,BERGEN,3760,Oakland Public School District,060,Manito Elementary School,KG-05,28.25
+03,BERGEN,3760,Oakland Public School District,080,Valley Middle School,06-08,53.75
+03,BERGEN,3850,Old Tappan Public School District,030,Charles DeWolf Middle School,05-08,64.0
+03,BERGEN,3850,Old Tappan Public School District,060,T. Baldwin Demarest Elementary School,KG-04,59.5
+03,BERGEN,3870,Oradell Public School District,050,Oradell Public School,PK-06,67.25
+03,BERGEN,3910,Palisades Park School District,050,Palisades Park Jr-Sr High School,07-12,47.5
+03,BERGEN,3910,Palisades Park School District,070,Lindbergh Elementary School,01-06,48.5
+03,BERGEN,3930,Paramus Public School District,060,West Brook Middle School,05-08,44.5
+03,BERGEN,3930,Paramus Public School District,065,East Brook Middle School,05-08,51.0
+03,BERGEN,3930,Paramus Public School District,080,Memorial Elementary School,KG-04,53.25
+03,BERGEN,3930,Paramus Public School District,090,Midland Elementary School,KG-04,59.5
+03,BERGEN,3930,Paramus Public School District,100,Parkway Elementary School,PK-04,50.5
+03,BERGEN,3930,Paramus Public School District,110,Ridge Ranch Elementary School,KG-04,53.25
+03,BERGEN,3930,Paramus Public School District,130,Stony Lane Elementary School,KG-04,60.5
+03,BERGEN,3940,Park Ridge School District,050,Park Ridge High School,07-12,42.0
+03,BERGEN,3940,Park Ridge School District,060,East Brook Elementary School,KG-06,64.5
+03,BERGEN,3940,Park Ridge School District,070,West Ridge Elementary School,PK-06,46.0
+03,BERGEN,4310,Ramsey School District,055,Eric S. Smith Middle School,06-08,46.5
+03,BERGEN,4310,Ramsey School District,060,John Y Dater Elementary School,04-05,60.5
+03,BERGEN,4370,Ridgefield School District,065,Bergen Boulevard School,01-05,52.5
+03,BERGEN,4370,Ridgefield School District,100,Slocum Skewes School,01-12,52.5
+03,BERGEN,4380,Ridgefield Park Public School District,050,Ridgefield Park Jr Sr High School,07-12,51.5
+03,BERGEN,4380,Ridgefield Park Public School District,060,Grant Elementary School,KG-06,65.0
+03,BERGEN,4380,Ridgefield Park Public School District,070,Lincoln Elementary School,PK-06,50.75
+03,BERGEN,4380,Ridgefield Park Public School District,080,Roosevelt  Elementary School,KG-06,49.5
+03,BERGEN,4390,Ridgewood Public School District,060,Benjamin Franklin Middle School,06-08,47.75
+03,BERGEN,4390,Ridgewood Public School District,070,George Washington Middle School,06-08,45.0
+03,BERGEN,4390,Ridgewood Public School District,085,Hawes Elementary School,KG-05,55.5
+03,BERGEN,4390,Ridgewood Public School District,090,Ridge Elementary School,KG-05,52.75
+03,BERGEN,4390,Ridgewood Public School District,100,Somerville Elementary School,PK-05,52.0
+03,BERGEN,4390,Ridgewood Public School District,110,Travell Elementary School,KG-05,56.0
+03,BERGEN,4390,Ridgewood Public School District,120,Orchard Elementary School,KG-05,67.0
+03,BERGEN,4390,Ridgewood Public School District,130,Willard Elementary School,KG-05,60.0
+03,BERGEN,4405,River Dell Regional School District,060,River Dell Middle School,07-08,42.5
+03,BERGEN,4410,River Edge School District,030,Cherry Hill School,PK-06,64.0
+03,BERGEN,4410,River Edge School District,050,Roosevelt School,KG-06,67.5
+03,BERGEN,4430,River Vale Public School District,050,Holdrum Middle School,06-08,47.0
+03,BERGEN,4430,River Vale Public School District,060,Roberge Elementary School,KG-05,42.0
+03,BERGEN,4430,River Vale Public School District,070,Woodside Elementary School,PK-05,39.5
+03,BERGEN,4470,Rochelle Park School District,050,Midland School #1,PK-08,56.5
+03,BERGEN,4600,Rutherford School District,080,Pierrepont School,04-06,61.25
+03,BERGEN,4600,Rutherford School District,100,Union School,07-08,52.5
+03,BERGEN,4610,Saddle Brook School District,050,Saddle Brook Middle/High School,07-12,51.0
+03,BERGEN,4610,Saddle Brook School District,080,Franklin School,KG-06,45.5
+03,BERGEN,4610,Saddle Brook School District,085,Helen I. Smith School,KG-06,49.5
+03,BERGEN,4610,Saddle Brook School District,090,Salome H. Long Memorial School,KG-06,44.75
+03,BERGEN,4620,Saddle River School District,050,Wandell School,PK-05,34.5
+03,BERGEN,4870,South Hackensack School District,050,Memorial School,PK-08,55.5
+03,BERGEN,5150,Teaneck School District,060,Benjamin Franklin Middle School,05-08,49.0
+03,BERGEN,5150,Teaneck School District,070,Thomas Jefferson Middle School,05-08,48.5
+03,BERGEN,5150,Teaneck School District,110,Nathaniel Hawthorne Elementary School,KG-04,55.5
+03,BERGEN,5150,Teaneck School District,130,James Russell Lowell Elementary School,KG-04,50.5
+03,BERGEN,5150,Teaneck School District,150,John Greenleaf Whittier Elementary School,KG-04,68.0
+03,BERGEN,5160,Tenafly Public School District,070,J Spencer Smith School,KG-05,68.5
+03,BERGEN,5160,Tenafly Public School District,080,Malcolm S Mackay School,KG-05,63.5
+03,BERGEN,5160,Tenafly Public School District,090,Ralph S Maugham School,KG-05,64.25
+03,BERGEN,5160,Tenafly Public School District,095,Tenafly Middle School,06-08,60.5
+03,BERGEN,5160,Tenafly Public School District,100,Walter Stillman School,PK-05,61.25
+03,BERGEN,5330,Upper Saddle River School District,050,Emil A. Cavallini Middle School,06-08,55.75
+03,BERGEN,5330,Upper Saddle River School District,060,Edith A. Bogert Elementary School,03-05,64.25
+03,BERGEN,5410,Waldwick School District,040,Crescent Elementary School,KG-05,50.5
+03,BERGEN,5410,Waldwick School District,050,Julia A Traphagen School,PK-05,40.5
+03,BERGEN,5410,Waldwick School District,070,Waldwick Middle School,06-08,58.5
+03,BERGEN,5430,Wallington Boro School District,050,Wallington Junior Senior High School,07-12,35.25
+03,BERGEN,5430,Wallington Boro School District,055,Frank W. Gavlak Elementary School,KG-06,53.0
+03,BERGEN,5755,Westwood Regional School District,050,Westwood Junior/Senior High School,PK-12,45.5
+03,BERGEN,5755,Westwood Regional School District,060,Berkeley Elementary,KG-05,64.25
+03,BERGEN,5755,Westwood Regional School District,062,Westwood Regional Middle School,06-07,41.5
+03,BERGEN,5755,Westwood Regional School District,065,Jessie F. George Elementary,KG-05,62.5
+03,BERGEN,5755,Westwood Regional School District,070,Brookside Elementary School,KG-05,77.5
+03,BERGEN,5755,Westwood Regional School District,080,Washington Elementary School,KG-05,55.5
+03,BERGEN,5830,Wood-Ridge School District,050,Wood-Ridge Jr/Sr High School,07-12,30.5
+03,BERGEN,5830,Wood-Ridge School District,300,Wood-Ridge Intermediate School,04-06,40.5
+03,BERGEN,5880,Woodcliff Lake School District,030,Dorchester Elementary School,PK-05,56.0
+03,BERGEN,5880,Woodcliff Lake School District,050,Woodcliff Middle School,06-08,61.5
+03,BERGEN,5920,Wyckoff Township Public School District,010,Abraham Lincoln Elementary School,KG-05,57.25
+03,BERGEN,5920,Wyckoff Township Public School District,020,Calvin Coolidge Elementary School,KG-05,39.0
+03,BERGEN,5920,Wyckoff Township Public School District,025,Dwight D. Eisenhower Middle School,06-08,49.0
+03,BERGEN,5920,Wyckoff Township Public School District,030,George Washington Elementary School,KG-05,50.75
+03,BERGEN,5920,Wyckoff Township Public School District,050,Sicomac Elementary School,PK-05,57.5
+05,BURLINGTON,0200,Bass River Township Board of Education,050,Bass River Township Elementary School,PK-06,53.5
+05,BURLINGTON,0380,Beverly City School,025,Beverly City School District,PK-08,57.0
+05,BURLINGTON,0475,Bordentown Regional School District,055,Bordentown Regional Middle School,06-08,38.5
+05,BURLINGTON,0475,Bordentown Regional School District,090,Mac Farland Intermediate,03-05,54.0
+05,BURLINGTON,0475,Bordentown Regional School District,100,Peter Muschal Elementary,PK-05,47.0
+05,BURLINGTON,0600,Burlington City Public School District,020,Burlington City High School,07-12,40.25
+05,BURLINGTON,0600,Burlington City Public School District,085,Wilbur Watts Intermediate School,03-06,39.0
+05,BURLINGTON,0620,Burlington Township School District,037,Fountain Woods Elementary School,03-05,47.0
+05,BURLINGTON,0620,Burlington Township School District,051,Burlington Township Middle School at Springside,06-08,46.5
+05,BURLINGTON,0830,Chesterfield Township School District,025,Chesterfield Township Elementary School,PK-06,47.5
+05,BURLINGTON,0840,Cinnaminson Township School District,053,Cinnaminson Middle School,06-08,49.0
+05,BURLINGTON,0840,Cinnaminson Township School District,060,Eleanor Rush Intermediate School,03-05,53.5
+05,BURLINGTON,1030,Delanco Township School District,030,M. Joan Pearson Elementary School,KG-05,29.0
+05,BURLINGTON,1030,Delanco Township School District,060,Walnut Street School,06-08,34.25
+05,BURLINGTON,1060,Delran Township School District,007,Delran Middle School,06-08,54.25
+05,BURLINGTON,1060,Delran Township School District,015,Delran Intermediate School,03-05,52.0
+05,BURLINGTON,1250,Eastampton Township School District,060,Eastampton Township Community School,KG-08,47.5
+05,BURLINGTON,1280,Edgewater Park Township School District,050,Mildred Magowan Elementary School,PK-04,53.5
+05,BURLINGTON,1280,Edgewater Park Township School District,070,Samuel M Ridgway Middle School,05-08,43.5
+05,BURLINGTON,1420,Evesham Township School District,030,Frances DeMasi Elementary School,KG-05,57.0
+05,BURLINGTON,1420,Evesham Township School District,040,Frances DeMasi Middle School,06-08,57.0
+05,BURLINGTON,1420,Evesham Township School District,055,Helen L Beeler,KG-05,48.5
+05,BURLINGTON,1420,Evesham Township School District,057,J Harold Van Zant,KG-05,40.0
+05,BURLINGTON,1420,Evesham Township School District,058,Marlton Elementary,KG-05,45.5
+05,BURLINGTON,1420,Evesham Township School District,060,Marlton Middle,06-08,56.0
+05,BURLINGTON,1420,Evesham Township School District,065,Richard L Rice School,PK-05,53.0
+05,BURLINGTON,1420,Evesham Township School District,070,Robert B Jaggard School,KG-05,54.75
+05,BURLINGTON,1520,Florence Township School District,055,Florence Riverfront School,04-08,46.0
+05,BURLINGTON,1910,Hainesport Township School District,050,Hainesport Township School,PK-08,60.5
+05,BURLINGTON,2850,Lumberton Township Board of Education,020,Bobby's Run Elementary School,04-05,60.5
+05,BURLINGTON,2850,Lumberton Township Board of Education,060,Lumberton Middle School,06-08,46.25
+05,BURLINGTON,2960,Mansfield Township School District,040,Mansfield Township Elementary School,PK-06,57.5
+05,BURLINGTON,3010,Maple Shade School District,030,Maple Shade High School,07-12,37.0
+05,BURLINGTON,3010,Maple Shade School District,080,Maude M. Wilkins Elementary School,PK-04,44.75
+05,BURLINGTON,3010,Maple Shade School District,100,Ralph J. Steinhauer Elementary School,PK-06,43.5
+05,BURLINGTON,3070,Medford Lakes School District,040,Neeta School,03-08,61.5
+05,BURLINGTON,3080,Medford Township School District,030,Chairville Elementary School,KG-05,48.5
+05,BURLINGTON,3080,Medford Township School District,040,Cranberry Pines Elementary,KG-05,51.5
+05,BURLINGTON,3080,Medford Township School District,045,Kirby's Mill Elementary School,PK-05,59.0
+05,BURLINGTON,3080,Medford Township School District,050,Haines Sixth Grade Center,06-06,51.5
+05,BURLINGTON,3080,Medford Township School District,055,Medford Memorial Middle School,07-08,41.25
+05,BURLINGTON,3080,Medford Township School District,060,Milton H. Allen Elementary School,KG-05,48.25
+05,BURLINGTON,3080,Medford Township School District,070,Taunton Forge Elementary School,KG-05,60.5
+05,BURLINGTON,3360,Moorestown Township Public School District,110,William Allen Middle School,07-08,55.25
+05,BURLINGTON,3360,Moorestown Township Public School District,115,Moorestown Upper Elementary School,04-06,47.0
+05,BURLINGTON,3430,Mount Holly Township Public School District,050,Gertrude C. Folwell Elementary School,03-05,44.75
+05,BURLINGTON,3430,Mount Holly Township Public School District,060,F. W. Holbein Middle School,06-08,46.0
+05,BURLINGTON,3440,Mount Laurel Township School District,010,Countryside Elementary School,PK-04,45.5
+05,BURLINGTON,3440,Mount Laurel Township School District,045,Fleetwood Elementary School,KG-04,51.0
+05,BURLINGTON,3440,Mount Laurel Township School District,047,Hartford Upper Elementary School,05-06,48.0
+05,BURLINGTON,3440,Mount Laurel Township School District,050,Hillside Elementary School,PK-04,55.5
+05,BURLINGTON,3440,Mount Laurel Township School District,055,Larchmont Elementary School,PK-04,42.25
+05,BURLINGTON,3440,Mount Laurel Township School District,060,T. E. Harrington Middle School,07-08,40.75
+05,BURLINGTON,3440,Mount Laurel Township School District,065,Parkway Elementary School,KG-04,42.25
+05,BURLINGTON,3440,Mount Laurel Township School District,075,Springville Elementary School,PK-04,66.75
+05,BURLINGTON,3540,New Hanover Township,050,New Hanover Township School,PK-08,58.0
+05,BURLINGTON,3650,North Hanover Township School District,036,North Hanover Township Upper Elementary School,05-06,50.0
+05,BURLINGTON,3650,North Hanover Township School District,040,Clarence B. Lamb Elementary School,01-04,64.5
+05,BURLINGTON,3690,Northern Burlington County Regional School District,060,Northern Burlington County Regional Middle School,07-08,42.75
+05,BURLINGTON,3920,Palmyra Public School District,050,Palmyra High School,07-12,49.5
+05,BURLINGTON,3920,Palmyra Public School District,060,Charles Street School,PK-06,64.5
+05,BURLINGTON,4050,Pemberton Township School District,050,Helen A. Fort Middle School,07-08,49.5
+05,BURLINGTON,4050,Pemberton Township School District,110,Fort Dix Elementary School,PK-05,60.0
+05,BURLINGTON,4050,Pemberton Township School District,130,Alexander Denbo,03-05,47.5
+05,BURLINGTON,4050,Pemberton Township School District,135,Samuel T. Busansky School,03-05,49.25
+05,BURLINGTON,4050,Pemberton Township School District,140,Joseph S. Stackhouse School,03-05,43.0
+05,BURLINGTON,4050,Pemberton Township School District,302,Marcus Newcomb Middle School,06-06,38.5
+05,BURLINGTON,4450,Riverside Township School District,060,Riverside Elementary School,PK-05,49.75
+05,BURLINGTON,4450,Riverside Township School District,070,Riverside Middle School,06-08,36.25
+05,BURLINGTON,4460,Riverton School District,050,Riverton School District,PK-08,43.75
+05,BURLINGTON,4740,Shamong Township School District,050,Indian Mills Elementary School,PK-04,39.5
+05,BURLINGTON,4740,Shamong Township School District,055,Indian Mills Memorial School,05-08,59.5
+05,BURLINGTON,4930,Southampton Township School District,060,Southampton Township School #2,03-05,57.75
+05,BURLINGTON,4930,Southampton Township School District,070,Southampton Township School #3,06-08,55.5
+05,BURLINGTON,5010,Springfield Township School District,050,Springfield Township School,PK-06,65.0
+05,BURLINGTON,5130,Tabernacle Township School District,040,Kenneth R. Olson Middle School,05-08,40.75
+05,BURLINGTON,5130,Tabernacle Township School District,060,Tabernacle Elementary School,PK-04,42.25
+05,BURLINGTON,5720,Westampton Township Public School District,050,Westampton Township Middle School,04-08,48.0
+05,BURLINGTON,5805,Willingboro Public School District,057,Willingboro Memorial Middle School,07-08,52.0
+05,BURLINGTON,5805,Willingboro Public School District,065,Hawthorne Park Elementary School,01-04,51.25
+05,BURLINGTON,5805,Willingboro Public School District,080,W. R. James Sr. Elementary School,01-04,52.25
+05,BURLINGTON,5805,Willingboro Public School District,120,Twin Hills Elementary School,01-04,63.0
+05,BURLINGTON,5805,Willingboro Public School District,301,Levitt Intermediate School,05-06,34.0
+05,BURLINGTON,5890,Woodland Township School District,030,Chatsworth Elementary School,PK-08,58.75
+07,CAMDEN,0150,Audubon Public School Disrict,010,Audubon Junior/Senior High School,07-12,50.0
+07,CAMDEN,0150,Audubon Public School Disrict,050,Mansion Avenue School,03-06,59.5
+07,CAMDEN,0190,Barrington School District,010,Avon Elementary School,PK-04,66.75
+07,CAMDEN,0190,Barrington School District,030,Woodland Middle School,05-08,49.0
+07,CAMDEN,0260,Bellmawr Public School District,015,Bell Oaks Upper Elementary School,05-08,50.5
+07,CAMDEN,0260,Bellmawr Public School District,020,Bellmawr Park Elementary School,PK-04,46.25
+07,CAMDEN,0260,Bellmawr Public School District,030,Ethel M Burke Elementary School,KG-04,36.0
+07,CAMDEN,0330,Berlin Borough School District,020,Berlin Community School,PK-08,56.5
+07,CAMDEN,0340,Berlin Township School District,030,Dwight D Eisenhower Middle School,04-08,53.0
+07,CAMDEN,0580,Brooklawn Public School District,010,Alice Costello Elementary School,PK-08,45.5
+07,CAMDEN,0680,Camden City School District,080,Veterans Memorial Family School,PK-08,40.0
+07,CAMDEN,0680,Camden City School District,145,Octavio V. Catto Community Family School,PK-08,57.25
+07,CAMDEN,0680,Camden City School District,165,Cooper's Poynt Family School,PK-08,41.0
+07,CAMDEN,0680,Camden City School District,170,Alfred Cramer College Preparatory Lab School,PK-06,31.75
+07,CAMDEN,0680,Camden City School District,175,Riletta Twyne Cream Family School,PK-08,37.5
+07,CAMDEN,0680,Camden City School District,180,Dr. Henry H. Davis Elementary School,PK-08,49.0
+07,CAMDEN,0680,Camden City School District,190,Thomas H. Dudley Family School,PK-08,44.0
+07,CAMDEN,0680,Camden City School District,205,Forest Hill School,KG-05,33.5
+07,CAMDEN,0680,Camden City School District,245,Creative Arts Morgan Village Academy,06-12,61.0
+07,CAMDEN,0680,Camden City School District,300,Harry C. Sharp Elementary School,PK-08,45.25
+07,CAMDEN,0680,Camden City School District,305,Camden Big Picture Learning Academy,06-12,27.5
+07,CAMDEN,0680,Camden City School District,320,Dr. Ulysses S. Wiggins College Preparatory Lab School,PK-08,53.5
+07,CAMDEN,0680,Camden City School District,350,Henry B. Wilson Family School,PK-08,32.5
+07,CAMDEN,0680,Camden City School District,360,Yorkship Elementary School,PK-08,38.0
+07,CAMDEN,0800,Cherry Hill School District,058,A. Russell Knight Elementary School,KG-05,55.0
+07,CAMDEN,0800,Cherry Hill School District,067,John A. Carusi Middle School,06-08,48.0
+07,CAMDEN,0800,Cherry Hill School District,068,Bret Harte Elementary School,KG-05,49.5
+07,CAMDEN,0800,Cherry Hill School District,069,Clara Barton Elementary School,KG-05,40.25
+07,CAMDEN,0800,Cherry Hill School District,073,Henry C. Beck Middle School,06-08,56.75
+07,CAMDEN,0800,Cherry Hill School District,074,Rosa International Middle School,06-08,51.5
+07,CAMDEN,0800,Cherry Hill School District,075,Horace Mann Elementary School,KG-05,42.25
+07,CAMDEN,0800,Cherry Hill School District,083,James F. Cooper Elementary School,KG-05,41.5
+07,CAMDEN,0800,Cherry Hill School District,085,James Johnson Elementary School,KG-05,45.75
+07,CAMDEN,0800,Cherry Hill School District,100,Joseph D. Sharp Elementary School,KG-05,66.0
+07,CAMDEN,0800,Cherry Hill School District,105,Joyce Kilmer Elementary School,KG-05,47.0
+07,CAMDEN,0800,Cherry Hill School District,110,Kingston Elementary School,KG-05,40.5
+07,CAMDEN,0800,Cherry Hill School District,113,Richard Stockton Elementary School,KG-05,50.0
+07,CAMDEN,0800,Cherry Hill School District,115,Thomas Paine Elementary School,KG-05,45.5
+07,CAMDEN,0800,Cherry Hill School District,130,Woodcrest Elementary School,KG-05,49.5
+07,CAMDEN,0880,Clementon Elementary School District,010,Clementon Elementary School,PK-08,56.25
+07,CAMDEN,0940,Collingswood Public School District,040,Collingswood Middle School,06-08,43.0
+07,CAMDEN,0940,Collingswood Public School District,050,James A. Garfield Elementary School,KG-05,62.25
+07,CAMDEN,0940,Collingswood Public School District,060,Mark Newbie Elementary School,KG-05,43.0
+07,CAMDEN,0940,Collingswood Public School District,070,Thomas Sharp Elementary School,PK-05,51.75
+07,CAMDEN,0940,Collingswood Public School District,080,William P Tatem Elementary School,KG-05,66.75
+07,CAMDEN,0940,Collingswood Public School District,090,Zane North Elementary School,PK-05,69.0
+07,CAMDEN,1720,Gibbsboro Elementary School District,020,Gibbsboro Elementary School,PK-08,59.25
+07,CAMDEN,1770,Gloucester City Public School District,050,Gloucester City Jr. Sr. High School,07-12,44.0
+07,CAMDEN,1770,Gloucester City Public School District,300,Gloucester City Middle School,04-08,44.0
+07,CAMDEN,1780,Gloucester Township Public Schools,020,Blackwood Elementary School,PK-05,41.25
+07,CAMDEN,1780,Gloucester Township Public Schools,035,Charles W. Lewis Middle School,06-08,47.25
+07,CAMDEN,1780,Gloucester Township Public Schools,040,Chews Elementary School,PK-05,49.0
+07,CAMDEN,1780,Gloucester Township Public Schools,050,Erial Elementary School,PK-05,43.25
+07,CAMDEN,1780,Gloucester Township Public Schools,055,Glen Landing Middle School,06-08,48.0
+07,CAMDEN,1780,Gloucester Township Public Schools,060,Glendora Elementary School,KG-05,66.0
+07,CAMDEN,1780,Gloucester Township Public Schools,070,Gloucester Township Elementary School,KG-05,45.0
+07,CAMDEN,1780,Gloucester Township Public Schools,085,"James W. Lilley, Jr. Elementary School",PK-05,50.75
+07,CAMDEN,1780,Gloucester Township Public Schools,090,Loring Flemming Elementary School,KG-05,56.5
+07,CAMDEN,1780,Gloucester Township Public Schools,100,Ann A. Mullen Middle School,06-08,46.0
+07,CAMDEN,1780,Gloucester Township Public Schools,180,Union Valley Elementary School,PK-05,53.25
+07,CAMDEN,1799,"KIPP: Cooper Norcross, A New Jersey Nonprofit Corporation",111,"KIPP: Cooper Norcross, A New Jersey Nonprofit Corporation",KG-08,50.5
+07,CAMDEN,1801,"Camden Prep, Inc.",113,"Camden Prep, Inc.",KG-07,51.0
+07,CAMDEN,1802,"Mastery Schools of Camden, Inc.",112,"Mastery Schools of Camden, Inc.",KG-11,60.0
+07,CAMDEN,1880,HADDON HEIGHTS School District,050,Haddon Heights Jr./Sr. High School,07-12,35.0
+07,CAMDEN,1880,HADDON HEIGHTS School District,060,Glenview Avenue,KG-06,51.75
+07,CAMDEN,1880,HADDON HEIGHTS School District,080,Atlantic Avenue,PK-06,62.5
+07,CAMDEN,1880,HADDON HEIGHTS School District,090,Seventh Avenue,KG-06,58.5
+07,CAMDEN,1890,Haddon Township School District,060,Thomas A. Edison Elementary School,PK-05,53.75
+07,CAMDEN,1890,Haddon Township School District,070,Clyde S. Jennings Elementary School,KG-05,56.0
+07,CAMDEN,1890,Haddon Township School District,080,Stoy Elementary School,PK-05,45.5
+07,CAMDEN,1890,Haddon Township School District,090,Strawbridge Elementary School,KG-05,43.5
+07,CAMDEN,1890,Haddon Township School District,100,Van Sciver Elementary School,PK-05,65.75
+07,CAMDEN,1890,Haddon Township School District,110,William G. Rohrer Middle School,06-08,53.0
+07,CAMDEN,1900,Haddonfield School District,060,Central School,PK-05,52.5
+07,CAMDEN,1900,Haddonfield School District,070,Haddonfield Middle School,06-08,49.0
+07,CAMDEN,1900,Haddonfield School District,080,Elizabeth Haddon School,PK-05,54.5
+07,CAMDEN,1900,Haddonfield School District,090,J. Fithian Tatem School,PK-05,56.25
+07,CAMDEN,2540,Laurel Springs School District,050,Laurel Springs School,PK-06,61.0
+07,CAMDEN,2560,Lawnside School Distric,060,Lawnside School,PK-08,41.0
+07,CAMDEN,2670,Lindenwold Public School District,040,Lindenwold School Four,KG-04,38.75
+07,CAMDEN,2670,Lindenwold Public School District,050,Lindenwold School Five,KG-04,38.0
+07,CAMDEN,2670,Lindenwold Public School District,090,Lindenwold Middle School,05-08,35.0
+07,CAMDEN,2890,Magnolia School District,050,Magnolia,PK-08,45.5
+07,CAMDEN,3110,Merchantville School District,060,Merchantville Elementary School,PK-08,46.75
+07,CAMDEN,3420,Mt. Ephraim School District,020,Raymond W. Kershaw School,05-08,34.5
+07,CAMDEN,3420,Mt. Ephraim School District,030,Mary Bray Elementary School,PK-04,41.0
+07,CAMDEN,3770,Oaklyn Public School District,050,Oaklyn Public School,PK-05,49.75
+07,CAMDEN,4060,Pennsauken Township Board of Education School District,055,Howard M. Phifer Middle School,06-08,42.0
+07,CAMDEN,4060,Pennsauken Township Board of Education School District,175,Pennsauken Intermediate School,04-05,47.5
+07,CAMDEN,4110,Pine Hill School District,060,Dr. Albert M. Bean School,PK-05,48.5
+07,CAMDEN,4110,Pine Hill School District,070,John H. Glenn School,PK-05,55.0
+07,CAMDEN,4110,Pine Hill School District,100,Pine Hill Middle School,06-08,47.75
+07,CAMDEN,4590,Runnemede Public School District,040,Mary E. Volz Elementary School,PK-08,42.0
+07,CAMDEN,4790,Somerdale School District,020,Somerdale Park School,PK-08,47.5
+07,CAMDEN,5080,Stratford School District,060,Samuel S. Yellin Elementary School,04-08,52.5
+07,CAMDEN,5400,Voorhees Township School District,020,Edward T. Hamilton,KG-05,54.0
+07,CAMDEN,5400,Voorhees Township School District,055,Kresson School,KG-05,49.0
+07,CAMDEN,5400,Voorhees Township School District,090,Osage School,KG-05,55.0
+07,CAMDEN,5400,Voorhees Township School District,095,Signal Hill School,PK-05,53.75
+07,CAMDEN,5400,Voorhees Township School District,100,Voorhees Middle School,06-08,45.5
+07,CAMDEN,5560,Waterford Township School District,100,Waterford Elementary School,PK-06,56.0
+07,CAMDEN,5820,Winslow Township School District,020,Winslow Township Middle School,07-08,38.0
+07,CAMDEN,5820,Winslow Township School District,070,Winslow Township Elementary School Five,04-06,45.5
+07,CAMDEN,5820,Winslow Township School District,080,Winslow Township Elementary School Six,04-06,36.0
+07,CAMDEN,5900,Woodlynne School District,050,Woodlynne Boro Public School,PK-08,35.5
+09,CAPE MAY,0170,Avalon School District,010,Avalon Elementary School,PK-08,48.25
+09,CAPE MAY,0710,Cape May City School District,050,Cape May City Elementary School,PK-06,60.5
+09,CAPE MAY,1080,Dennis Township School District,050,Dennis Township Elementary/Middle Schools,04-08,36.75
+09,CAPE MAY,2820,Lower Cape May Regional School District,060,Richard M. Teitelman Middle School,07-08,44.0
+09,CAPE MAY,2840,Lower Township Elementary School District,050,Sandman Consolidated School,05-06,49.0
+09,CAPE MAY,2840,Lower Township Elementary School District,060,Maud Abrams School,03-04,46.0
+09,CAPE MAY,3130,Middle Township Public School District,085,Middle Township Elementary #2,03-05,59.0
+09,CAPE MAY,3130,Middle Township Public School District,091,Middle Township Elementary #4,06-08,46.75
+09,CAPE MAY,3680,North Wildwood School District,060,Margaret Mace Elementary School,PK-08,40.0
+09,CAPE MAY,3780,Ocean City School District,060,Ocean City Intermediate School,04-08,49.5
+09,CAPE MAY,5060,Stone Harbor School District,050,Stone Harbor Elementary School,KG-04,58.5
+09,CAPE MAY,5340,Upper Township School District,030,Upper Township Middle School,06-08,55.0
+09,CAPE MAY,5340,Upper Township School District,050,Upper Township Elementary School,03-05,58.0
+09,CAPE MAY,5610,West Cape May Elementary School District,050,West Cape May Elementary School,PK-06,66.75
+09,CAPE MAY,5790,Wildwood City School District,060,Glenwood Avenue Elementary School,PK-05,38.0
+09,CAPE MAY,5790,Wildwood City School District,070,Wildwood Middle School,06-08,58.75
+09,CAPE MAY,5800,Wildwood Crest Borough School District,030,Crest Memorial School,PK-08,48.5
+09,CAPE MAY,5840,Woodbine School District,050,Woodbine Elementary School,PK-08,58.0
+11,CUMBERLAND,0540,Bridgeton City School District,030,Broad Street School,KG-08,41.5
+11,CUMBERLAND,0540,Bridgeton City School District,050,Buckshutem Road School,KG-08,34.5
+11,CUMBERLAND,0540,Bridgeton City School District,055,Cherry Street School,KG-08,41.5
+11,CUMBERLAND,0540,Bridgeton City School District,060,Indian Ave School,KG-08,37.5
+11,CUMBERLAND,0540,Bridgeton City School District,100,Quarter Mile Lane School,PK-08,37.75
+11,CUMBERLAND,0540,Bridgeton City School District,130,West Avenue School,KG-08,47.5
+11,CUMBERLAND,0950,Commercial Township School District,025,Haleyville-Mauricetown Elementary School,PK-05,43.0
+11,CUMBERLAND,0950,Commercial Township School District,050,Port Norris Middle School,06-08,47.5
+11,CUMBERLAND,1020,Deerfield Township School District,040,Deerfield Township School District,PK-08,50.5
+11,CUMBERLAND,1120,Downe Township School District,045,Downe Township Elementary School,PK-08,50.5
+11,CUMBERLAND,1460,Fairfield Township School District,070,Fairfield Township School,PK-08,49.5
+11,CUMBERLAND,1820,Greenwich Township School District,060,Morris Goodwin School,KG-08,58.25
+11,CUMBERLAND,2270,Hopewell Township School District,060,Hopewell Crest,PK-08,41.0
+11,CUMBERLAND,2570,Lawrence Township School District,030,Myron L. Powell Elementary School,PK-08,50.5
+11,CUMBERLAND,3050,Maurice River Township School District,065,Maurice River Township School,PK-08,53.5
+11,CUMBERLAND,3230,Millville School District,065,R. M. Bacon Elementary School,KG-05,36.0
+11,CUMBERLAND,3230,Millville School District,075,Holly Heights Elementary School,KG-05,38.0
+11,CUMBERLAND,3230,Millville School District,077,Lakeside Middle School,06-08,38.5
+11,CUMBERLAND,3230,Millville School District,080,Mount Pleasant Elementary School,KG-05,42.75
+11,CUMBERLAND,3230,Millville School District,085,Rieck Avenue Elementary School,KG-05,47.25
+11,CUMBERLAND,3230,Millville School District,100,Silver Run Elementary School,KG-05,39.0
+11,CUMBERLAND,5070,Stow Creek Township School District,050,Stow Creek Township School,PK-08,46.5
+11,CUMBERLAND,5300,Upper Deerfield Township School District,060,Elizabeth F. Moore School,04-05,45.25
+11,CUMBERLAND,5300,Upper Deerfield Township School District,070,Woodruff Middle School,06-08,63.5
+11,CUMBERLAND,5390,Vineland Public School District,060,Veterans Memorial Middle,06-08,47.5
+11,CUMBERLAND,5390,Vineland Public School District,065,Anthony Rossi Elementary School,KG-05,38.25
+11,CUMBERLAND,5390,Vineland Public School District,075,Gloria M Sabater Elementary School,KG-05,42.5
+11,CUMBERLAND,5390,Vineland Public School District,095,Dane Barse Elementary School,KG-05,43.0
+11,CUMBERLAND,5390,Vineland Public School District,115,John H. Winslow Elementary School,KG-05,41.5
+11,CUMBERLAND,5390,Vineland Public School District,120,Johnstone Elementary School,05-08,38.5
+11,CUMBERLAND,5390,Vineland Public School District,135,Marie Durand Elementary School,KG-05,47.75
+11,CUMBERLAND,5390,Vineland Public School District,230,Solve D'Ippolito Elementary School,KG-05,44.5
+11,CUMBERLAND,5390,Vineland Public School District,260,Dr. William Mennies Elementary School,KG-05,41.75
+11,CUMBERLAND,5390,Vineland Public School District,270,Pauline J. Petway Elementary School,KG-05,39.0
+11,CUMBERLAND,5390,Vineland Public School District,280,Thomas W. Wallace Jr. Middle School,06-08,41.0
+11,CUMBERLAND,5390,Vineland Public School District,301,Sgt. Dominick Pilla Middle School,06-08,41.0
+13,ESSEX,0250,Belleville Public School District,025,Belleville Middle School,07-08,44.0
+13,ESSEX,0250,Belleville Public School District,050,Belleville PS3,PK-06,48.5
+13,ESSEX,0250,Belleville Public School District,055,Belleville PS4,PK-06,54.5
+13,ESSEX,0250,Belleville Public School District,060,Belleville PS5,KG-06,52.0
+13,ESSEX,0250,Belleville Public School District,070,Belleville PS7,PK-06,55.0
+13,ESSEX,0250,Belleville Public School District,080,Belleville PS8,KG-06,43.0
+13,ESSEX,0250,Belleville Public School District,090,Belleville PS9,KG-06,57.75
+13,ESSEX,0250,Belleville Public School District,100,Belleville PS10,KG-06,44.75
+13,ESSEX,0410,Bloomfield Township School District,030,Bloomfield Middle School,07-08,48.5
+13,ESSEX,0410,Bloomfield Township School District,050,Berkeley Elementary School,KG-06,53.5
+13,ESSEX,0410,Bloomfield Township School District,060,Brookdale Elementary School,KG-06,56.75
+13,ESSEX,0410,Bloomfield Township School District,080,Carteret Elementary School,KG-06,61.0
+13,ESSEX,0410,Bloomfield Township School District,100,Demarest Elementary School,KG-06,50.5
+13,ESSEX,0410,Bloomfield Township School District,110,Fairview Elementary School,KG-06,46.75
+13,ESSEX,0410,Bloomfield Township School District,130,Franklin Elementary School,KG-06,52.5
+13,ESSEX,0410,Bloomfield Township School District,140,Oak View Elementary School,PK-06,62.5
+13,ESSEX,0410,Bloomfield Township School District,150,Watsessing Elementary School,KG-06,58.75
+13,ESSEX,0660,Caldwell-West Caldwell School District,060,Grover Cleveland Middle School,06-08,44.0
+13,ESSEX,0660,Caldwell-West Caldwell School District,070,Jefferson Elementary School,KG-05,38.0
+13,ESSEX,0660,Caldwell-West Caldwell School District,080,Lincoln Elementary School,KG-05,50.0
+13,ESSEX,0660,Caldwell-West Caldwell School District,110,Washington Elementary School,KG-05,57.25
+13,ESSEX,0660,Caldwell-West Caldwell School District,120,Wilson Elementary School,KG-05,52.0
+13,ESSEX,0760,Cedar Grove Township School District,058,Memorial Middle School,05-08,50.0
+13,ESSEX,0760,Cedar Grove Township School District,060,North End Elementary School,PK-04,72.5
+13,ESSEX,0760,Cedar Grove Township School District,090,South End Elementary School,PK-04,70.25
+13,ESSEX,1210,East Orange School District,030,East Orange STEM Academy High School,06-12,46.5
+13,ESSEX,1210,East Orange School District,050,"Edward T. Bowser, Sr. School of Excellence",PK-05,32.75
+13,ESSEX,1210,East Orange School District,060,George Washington Carver Institute,PK-05,30.5
+13,ESSEX,1210,East Orange School District,070,John L. Costley Middle School,06-08,42.5
+13,ESSEX,1210,East Orange School District,080,Langston Hughes Elementary School,PK-05,46.5
+13,ESSEX,1210,East Orange School District,090,Whitney E. Houston Academy,PK-08,40.25
+13,ESSEX,1210,East Orange School District,093,Benjamin Banneker Academy,PK-05,49.25
+13,ESSEX,1210,East Orange School District,095,Patrick F. Healy Middle School,06-08,40.5
+13,ESSEX,1210,East Orange School District,100,Mildred Barry Garvin Elementary,PK-05,34.0
+13,ESSEX,1210,East Orange School District,110,Dionne Warwick Institute,PK-05,52.0
+13,ESSEX,1210,East Orange School District,120,Ecole Toussaint Louverture,PK-05,48.25
+13,ESSEX,1210,East Orange School District,130,Gordon Parks Academy,PK-05,44.5
+13,ESSEX,1210,East Orange School District,135,Sojourner Truth Middle School,06-08,39.0
+13,ESSEX,1210,East Orange School District,140,Cicely L. Tyson Community Elementary School,PK-05,47.75
+13,ESSEX,1210,East Orange School District,150,Cicely L. Tyson Community Middle/High School,06-12,36.5
+13,ESSEX,1210,East Orange School District,170,J. Garfield Jackson Sr. Academy,PK-05,49.0
+13,ESSEX,1210,East Orange School District,190,Johnnie L. Cochran Jr. Academy,KG-05,46.0
+13,ESSEX,1400,Essex Fells School District,050,Essex Fells Elementary School,PK-06,66.0
+13,ESSEX,1465,Fairfield Public Schools School District,030,Winston Churchill,04-06,44.5
+13,ESSEX,1750,Glen Ridge Public School District,050,Glen Ridge High School,07-12,35.0
+13,ESSEX,1750,Glen Ridge Public School District,075,Ridgewood Avenue School,03-06,60.5
+13,ESSEX,2330,Irvington Public School District,080,Berkeley Terrace Elementary School,PK-05,36.75
+13,ESSEX,2330,Irvington Public School District,090,Chancellor Avenue Elementary School,KG-05,36.5
+13,ESSEX,2330,Irvington Public School District,100,Florence Avenue Elementary School,KG-05,42.0
+13,ESSEX,2330,Irvington Public School District,110,Grove Street Elementary School,PK-05,45.5
+13,ESSEX,2330,Irvington Public School District,120,Madison Avenue,PK-05,47.75
+13,ESSEX,2330,Irvington Public School District,125,Thurgood Marshall Elementary School,PK-05,51.5
+13,ESSEX,2330,Irvington Public School District,131,Mt. Vernon Avenue Elementary School,PK-05,42.0
+13,ESSEX,2330,Irvington Public School District,135,University Middle School,06-08,47.0
+13,ESSEX,2330,Irvington Public School District,136,University Elementary School,KG-05,40.75
+13,ESSEX,2330,Irvington Public School District,140,Union Avenue Middle School,06-08,52.0
+13,ESSEX,2730,Livingston Board of Education School District,055,Heritage Middle School,07-08,59.5
+13,ESSEX,2730,Livingston Board of Education School District,060,Mount Pleasant Middle School,06-06,59.0
+13,ESSEX,2730,Livingston Board of Education School District,070,Burnet Hill Elementary School,PK-05,56.25
+13,ESSEX,2730,Livingston Board of Education School District,080,Collins Elementary School,KG-05,52.75
+13,ESSEX,2730,Livingston Board of Education School District,090,Harrison Elementary School,KG-05,50.5
+13,ESSEX,2730,Livingston Board of Education School District,100,Hillside Elementary School,KG-05,57.0
+13,ESSEX,2730,Livingston Board of Education School District,110,Mount Pleasant Elementary School,KG-05,55.5
+13,ESSEX,2730,Livingston Board of Education School District,118,Riker Hill Elementary School,KG-05,44.25
+13,ESSEX,3190,Millburn Township School District,060,Millburn Middle School,06-08,57.25
+13,ESSEX,3190,Millburn Township School District,065,Deerfield School,KG-04,62.5
+13,ESSEX,3190,Millburn Township School District,070,Glenwood School,KG-04,58.75
+13,ESSEX,3190,Millburn Township School District,080,Hartshorn School,KG-04,47.5
+13,ESSEX,3190,Millburn Township School District,100,South Mountain School,PK-04,60.25
+13,ESSEX,3190,Millburn Township School District,120,Wyoming School,KG-04,67.5
+13,ESSEX,3190,Millburn Township School District,300,Washington School,05-05,49.5
+13,ESSEX,3310,Montclair Public School District,060,Charles H. Bullock School,KG-05,44.5
+13,ESSEX,3310,Montclair Public School District,100,Bradford Elementary School,PK-05,56.75
+13,ESSEX,3310,Montclair Public School District,110,Edgemont Elementary School,KG-05,55.0
+13,ESSEX,3310,Montclair Public School District,116,Glenfield Middle School,06-08,38.75
+13,ESSEX,3310,Montclair Public School District,123,Hillside Elementary School,PK-05,66.5
+13,ESSEX,3310,Montclair Public School District,127,Buzz Aldrin Middle School,06-08,53.5
+13,ESSEX,3310,Montclair Public School District,140,Northeast Elementary School,KG-05,46.0
+13,ESSEX,3310,Montclair Public School District,165,Renaissance Middle School at the Rand Building,06-08,46.25
+13,ESSEX,3310,Montclair Public School District,170,Watchung Elementary School,KG-05,47.75
+13,ESSEX,3570,Newark Public School District,010,Arts High School,08-12,48.75
+13,ESSEX,3570,Newark Public School District,055,Science Park High School,07-12,42.75
+13,ESSEX,3570,Newark Public School District,057,University High School,07-12,23.0
+13,ESSEX,3570,Newark Public School District,080,West Side High School,08-12,48.0
+13,ESSEX,3570,Newark Public School District,087,American History High School,08-12,46.5
+13,ESSEX,3570,Newark Public School District,170,Abington Avenue School,PK-08,50.5
+13,ESSEX,3570,Newark Public School District,200,Ann Street School,PK-08,46.0
+13,ESSEX,3570,Newark Public School District,220,Avon Avenue School,PK-08,40.5
+13,ESSEX,3570,Newark Public School District,225,Belmont Runyon Elementary School,PK-08,44.5
+13,ESSEX,3570,Newark Public School District,270,Branch Brook School,PK-04,40.75
+13,ESSEX,3570,Newark Public School District,301,Luis Muñoz Marin Elementary School,PK-08,36.5
+13,ESSEX,3570,Newark Public School District,303,East Ward Elementary School,PK-08,48.0
+13,ESSEX,3570,Newark Public School District,307,Eagle Academy for Young Men of Newark,05-12,32.0
+13,ESSEX,3570,Newark Public School District,310,Camden Street Elementary School,PK-08,44.25
+13,ESSEX,3570,Newark Public School District,317,Salome Ureña Elementary School,PK-04,70.5
+13,ESSEX,3570,Newark Public School District,330,Chancellor Avenue School,PK-08,47.5
+13,ESSEX,3570,Newark Public School District,350,Cleveland Avenue School,PK-08,36.5
+13,ESSEX,3570,Newark Public School District,370,Peshine Avenue School,PK-08,42.75
+13,ESSEX,3570,Newark Public School District,390,Elliott Street Elementary School,PK-06,37.75
+13,ESSEX,3570,Newark Public School District,410,First Avenue School,PK-08,56.0
+13,ESSEX,3570,Newark Public School District,415,Dr. E. Alma Flagg School,PK-08,53.25
+13,ESSEX,3570,Newark Public School District,430,Benjamin Franklin Elementary School,PK-04,45.25
+13,ESSEX,3570,Newark Public School District,435,George Washington Carver Elementary School,PK-08,42.5
+13,ESSEX,3570,Newark Public School District,440,Dr William H. Horton Elementary School,PK-08,45.5
+13,ESSEX,3570,Newark Public School District,455,Harriet Tubman Elementary School,PK-06,50.0
+13,ESSEX,3570,Newark Public School District,460,Hawkins Street School,PK-08,55.0
+13,ESSEX,3570,Newark Public School District,470,Hawthorne Avenue School,PK-08,42.75
+13,ESSEX,3570,Newark Public School District,480,Lafayette Street School,PK-08,47.5
+13,ESSEX,3570,Newark Public School District,490,Lincoln,PK-08,42.25
+13,ESSEX,3570,Newark Public School District,495,Louise A. Spencer Elementary School,PK-08,38.5
+13,ESSEX,3570,Newark Public School District,520,McKinley Elementary School,PK-08,47.0
+13,ESSEX,3570,Newark Public School District,565,Ivy Hill Elementary School,PK-08,42.0
+13,ESSEX,3570,Newark Public School District,570,Mt Vernon Place School,PK-08,54.0
+13,ESSEX,3570,Newark Public School District,575,Rafael Hernandez School,PK-08,43.25
+13,ESSEX,3570,Newark Public School District,581,Park Elementary School,PK-08,60.0
+13,ESSEX,3570,Newark Public School District,590,Oliver Street School,PK-08,55.25
+13,ESSEX,3570,Newark Public School District,605,Quitman Street School,PK-08,39.75
+13,ESSEX,3570,Newark Public School District,610,Ridge Street School,PK-08,55.0
+13,ESSEX,3570,Newark Public School District,615,Roberto Clemente Elementary School,PK-04,57.0
+13,ESSEX,3570,Newark Public School District,640,South Street Elementary School,PK-07,61.0
+13,ESSEX,3570,Newark Public School District,670,South Seventeenth Street School,PK-08,35.0
+13,ESSEX,3570,Newark Public School District,690,Speedway Avenue School,PK-08,40.25
+13,ESSEX,3570,Newark Public School District,710,Sussex Avenue School,PK-08,47.5
+13,ESSEX,3570,Newark Public School District,715,Thirteenth Avenue School,PK-08,36.5
+13,ESSEX,3570,Newark Public School District,750,Wilson Avenue School,PK-08,61.5
+13,ESSEX,3630,North Caldwell School District,050,Gould/Mountain Elementary School,04-06,65.0
+13,ESSEX,3750,Nutley Public School District,060,John H. Walker Middle School,07-08,52.0
+13,ESSEX,3750,Nutley Public School District,070,Lincoln School,KG-06,47.5
+13,ESSEX,3750,Nutley Public School District,080,Radcliffe School,PK-06,62.25
+13,ESSEX,3750,Nutley Public School District,090,Spring Garden School,PK-06,67.0
+13,ESSEX,3750,Nutley Public School District,100,Washington School,KG-06,64.0
+13,ESSEX,3750,Nutley Public School District,110,Yantacaw School,KG-06,63.0
+13,ESSEX,3880,ORANGE BOARD OF EDUCATION School District,070,Cleveland Street Elementary School,PK-07,43.0
+13,ESSEX,3880,ORANGE BOARD OF EDUCATION School District,080,Forest Street Elementary School,PK-07,69.0
+13,ESSEX,3880,ORANGE BOARD OF EDUCATION School District,090,Heywood Avenue Elementary School,PK-07,51.75
+13,ESSEX,3880,ORANGE BOARD OF EDUCATION School District,100,Lincoln Avenue Elementary School,PK-07,63.5
+13,ESSEX,3880,ORANGE BOARD OF EDUCATION School District,105,Rosa Parks/Central Community School,PK-07,64.5
+13,ESSEX,3880,ORANGE BOARD OF EDUCATION School District,110,Oakwood Avenue Elementary School,PK-07,44.25
+13,ESSEX,3880,ORANGE BOARD OF EDUCATION School District,115,Orange Preparatory Academy,08-09,47.5
+13,ESSEX,3880,ORANGE BOARD OF EDUCATION School District,120,Park Avenue Elementary School,PK-08,48.0
+13,ESSEX,4530,Roseland School District,020,Lester C Noecker,PK-06,75.5
+13,ESSEX,4900,South Orange-Maplewood School District,040,Maplewood Middle School,06-08,46.0
+13,ESSEX,4900,South Orange-Maplewood School District,050,South Orange Middle School,06-08,57.0
+13,ESSEX,4900,South Orange-Maplewood School District,060,Clinton Elementary School,KG-05,50.5
+13,ESSEX,4900,South Orange-Maplewood School District,090,Jefferson Elementary School,03-05,41.5
+13,ESSEX,4900,South Orange-Maplewood School District,130,Seth Boyden Elementary Demonstration School,KG-05,49.0
+13,ESSEX,4900,South Orange-Maplewood School District,140,South Mountain Elementary School,PK-05,57.0
+13,ESSEX,4900,South Orange-Maplewood School District,150,Tuscan Elementary School,KG-05,48.25
+13,ESSEX,5370,Verona Public School District,070,Brookdale Avenue School,KG-04,64.0
+13,ESSEX,5370,Verona Public School District,080,Frederic N. Brown Elementary School,KG-04,49.5
+13,ESSEX,5370,Verona Public School District,090,Forest Avenue School,KG-04,32.0
+13,ESSEX,5370,Verona Public School District,095,Henry B. Whitehorne Middle School,05-08,48.0
+13,ESSEX,5370,Verona Public School District,100,Laning Avenue School,PK-04,37.5
+13,ESSEX,5630,West Essex Regional School District,070,West Essex Middle School,07-08,40.5
+13,ESSEX,5680,West Orange Public Schools,070,Edison Middle School,06-06,39.0
+13,ESSEX,5680,West Orange Public Schools,090,Roosevelt Middle School,07-08,34.75
+13,ESSEX,5680,West Orange Public Schools,120,Gregory Elementary School,KG-05,45.25
+13,ESSEX,5680,West Orange Public Schools,130,Hazel Avenue Elementary School,KG-05,68.75
+13,ESSEX,5680,West Orange Public Schools,135,Liberty Middle School,07-08,42.25
+13,ESSEX,5680,West Orange Public Schools,140,Mount Pleasant Elementary School,KG-05,55.0
+13,ESSEX,5680,West Orange Public Schools,150,Kelly Elementary School,PK-05,55.75
+13,ESSEX,5680,West Orange Public Schools,160,Redwood Elementary School,KG-05,63.0
+13,ESSEX,5680,West Orange Public Schools,170,St. Cloud Elementary School,KG-05,62.5
+13,ESSEX,5680,West Orange Public Schools,180,Washington Elementary School,KG-05,53.25
+15,GLOUCESTER,0860,Clayton Public School District,040,Herma S. Simmons Elementary School,PK-05,47.5
+15,GLOUCESTER,0860,Clayton Public School District,045,Clayton Middle School,06-08,47.75
+15,GLOUCESTER,0870,Clearview Regional High School District,030,Clearview Regional Middle School,07-08,44.0
+15,GLOUCESTER,1100,Deptford Township Public School District,045,Monongahela Middle School,07-08,61.0
+15,GLOUCESTER,1100,Deptford Township Public School District,090,Good Intent Elementary School,02-06,50.5
+15,GLOUCESTER,1100,Deptford Township Public School District,105,Lake Tract Elementary School,02-06,55.25
+15,GLOUCESTER,1100,Deptford Township Public School District,120,Oak Valley Elementary School,02-06,44.5
+15,GLOUCESTER,1100,Deptford Township Public School District,140,Shady Lane Elementary School,02-06,45.5
+15,GLOUCESTER,1180,East Greenwich Township School District,045,Samuel Mickle School,03-06,61.0
+15,GLOUCESTER,1330,Elk Township School District,010,Aura Elementary School,PK-06,53.0
+15,GLOUCESTER,1590,Township of Franklin School District,070,Caroline L. Reutter School,05-06,58.0
+15,GLOUCESTER,1590,Township of Franklin School District,095,Main Road School,03-04,41.5
+15,GLOUCESTER,1715,Gateway Regional High School District,050,Gateway Regional High School,07-12,34.75
+15,GLOUCESTER,1730,Glassboro School District,078,Glassboro Intermediate School,07-08,48.75
+15,GLOUCESTER,1730,Glassboro School District,090,Thomas E. Bowe School,04-06,49.5
+15,GLOUCESTER,1830,Greenwich Township School District,050,Broad Street Elementary School,KG-05,66.75
+15,GLOUCESTER,1830,Greenwich Township School District,060,Nehaunsey Middle School,06-08,40.25
+15,GLOUCESTER,2070,Harrison Township School District,080,Pleasant Valley School,04-06,59.5
+15,GLOUCESTER,2440,Kingsway Regional School District,060,Kingsway Regional Middle School,07-08,45.0
+15,GLOUCESTER,2750,Logan Township School District,040,Logan Township Elementary School,02-05,53.75
+15,GLOUCESTER,2750,Logan Township School District,300,Logan Middle School,06-08,39.75
+15,GLOUCESTER,2990,Mantua Township School District,040,J. Mason Tomlin Elementary School,04-06,44.0
+15,GLOUCESTER,3280,Monroe Township Public School District,075,Holly Glen Elementary School,PK-04,41.5
+15,GLOUCESTER,3280,Monroe Township Public School District,090,Oak Knoll Elementary School,KG-04,39.0
+15,GLOUCESTER,3280,Monroe Township Public School District,095,Radix Elementary,PK-04,49.5
+15,GLOUCESTER,3280,Monroe Township Public School District,100,Whitehall Elementary School,KG-04,58.0
+15,GLOUCESTER,3280,Monroe Township Public School District,110,Williamstown Middle School,05-08,45.0
+15,GLOUCESTER,3490,National Park Boro School District,050,National Park School,PK-06,43.0
+15,GLOUCESTER,4020,Paulsboro School District,070,Loudenslager Elementary School,03-06,51.5
+15,GLOUCESTER,4020,Paulsboro School District,300,Paulsboro Junior High School,07-08,37.0
+15,GLOUCESTER,4140,Pitman Boro School District,060,Elwood Kindle Elementary School,KG-05,57.0
+15,GLOUCESTER,4140,Pitman Boro School District,065,Memorial Elementary School,PK-05,44.25
+15,GLOUCESTER,4140,Pitman Boro School District,075,Pitman Middle School,06-08,34.0
+15,GLOUCESTER,4140,Pitman Boro School District,080,W.C.K. Walls Elementary School,PK-05,48.5
+15,GLOUCESTER,4880,South Harrison Township School District,050,South Harrison Elementary School,PK-06,49.0
+15,GLOUCESTER,4940,Delsea Regional High School District,060,Delsea Regional Middle School,07-08,59.0
+15,GLOUCESTER,5120,Swedesboro-Woolwich School District,060,Walter Hill School,06-06,55.75
+15,GLOUCESTER,5120,Swedesboro-Woolwich School District,080,General Charles G. Harker School,03-05,48.5
+15,GLOUCESTER,5500,Washington Township School District,020,Bunker Hill Middle School,06-08,37.5
+15,GLOUCESTER,5500,Washington Township School District,025,Bells Elementary School,01-05,50.5
+15,GLOUCESTER,5500,Washington Township School District,026,Chestnut Ridge Middle School,06-08,41.5
+15,GLOUCESTER,5500,Washington Township School District,027,Birches Elementary School,KG-05,55.0
+15,GLOUCESTER,5500,Washington Township School District,028,Thomas Jefferson Elementary School,KG-05,56.5
+15,GLOUCESTER,5500,Washington Township School District,040,Hurffville Elementary School,KG-05,54.25
+15,GLOUCESTER,5500,Washington Township School District,050,Orchard Valley Middle School,06-08,37.25
+15,GLOUCESTER,5500,Washington Township School District,060,Wedgwood Elementary School,01-05,52.25
+15,GLOUCESTER,5500,Washington Township School District,070,Whitman Elementary School,KG-05,49.0
+15,GLOUCESTER,5590,Wenonah  Boro School District,050,Wenonah Elementary School,PK-06,42.25
+15,GLOUCESTER,5620,West Deptford Township School District,070,Green-Fields Elementary School,PK-04,50.5
+15,GLOUCESTER,5620,West Deptford Township School District,130,West Deptford Middle School,05-08,50.5
+15,GLOUCESTER,5740,Westville Boro Public School District,040,Parkview Elementary School,PK-06,57.0
+15,GLOUCESTER,5860,Woodbury City Public School District,050,Woodbury Jr-Sr High School,06-12,39.75
+15,GLOUCESTER,5860,Woodbury City Public School District,090,Evergreen Avenue Elementary School,PK-05,44.0
+15,GLOUCESTER,5860,Woodbury City Public School District,100,Walnut Street School,PK-05,35.25
+15,GLOUCESTER,5860,Woodbury City Public School District,110,West End Memorial Elementary School,PK-05,38.75
+15,GLOUCESTER,5870,Woodbury Heights Public School District,050,Woodbury Heights Elementary,PK-06,55.5
+17,HUDSON,0220,Bayonne School District,030,Walter F. Robinson Community School,PK-08,57.0
+17,HUDSON,0220,Bayonne School District,040,John M. Bailey Community School,PK-08,46.75
+17,HUDSON,0220,Bayonne School District,050,Henry E. Harris Community School,PK-08,46.0
+17,HUDSON,0220,Bayonne School District,060,Horace Mann Community School,PK-08,51.0
+17,HUDSON,0220,Bayonne School District,070,Lincoln Community School #5,PK-08,44.5
+17,HUDSON,0220,Bayonne School District,080,Mary J Donohoe Community School,PK-08,54.0
+17,HUDSON,0220,Bayonne School District,085,Midtown Community School #8,PK-08,55.0
+17,HUDSON,0220,Bayonne School District,090,Philip G. Vroom Community School,PK-08,57.0
+17,HUDSON,0220,Bayonne School District,120,Washington Community School #9,PK-08,50.25
+17,HUDSON,0220,Bayonne School District,130,Woodrow Wilson Community School,PK-08,53.5
+17,HUDSON,0220,Bayonne School District,140,Nicholas Oresko Community School,PK-08,60.75
+17,HUDSON,1200,East Newark School District,050,East Newark Public School,PK-08,63.75
+17,HUDSON,1850,Guttenberg School District,050,Anna L. Klein,PK-08,58.5
+17,HUDSON,2060,Harrison Public Schools,061,Hamilton Intermediate School,04-05,56.75
+17,HUDSON,2060,Harrison Public Schools,070,Washington Middle School,06-08,66.0
+17,HUDSON,2210,Hoboken Public School District,063,Early Childhood Learning Center at Calabro School,KG-06,54.25
+17,HUDSON,2210,Hoboken Public School District,065,Thomas G. Connors Elementary School,KG-06,51.75
+17,HUDSON,2210,Hoboken Public School District,070,Wallace Elementary School,PK-06,40.5
+17,HUDSON,2210,Hoboken Public School District,300,Hoboken Middle School,07-08,36.5
+17,HUDSON,2295,Hudson County Schools of Technology School District,090,Explore Middle School,06-08,42.25
+17,HUDSON,2390,Jersey City Public Schools,002,Infinity Institute,06-12,57.25
+17,HUDSON,2390,Jersey City Public Schools,095,Academy I,06-08,57.5
+17,HUDSON,2390,Jersey City Public Schools,100,Frank R Conwell School,PK-05,48.25
+17,HUDSON,2390,Jersey City Public Schools,105,Middle School # 4,06-08,42.5
+17,HUDSON,2390,Jersey City Public Schools,110,Dr. Michael Conti School,PK-08,51.0
+17,HUDSON,2390,Jersey City Public Schools,120,Charles E. Trefurt School,PK-05,47.5
+17,HUDSON,2390,Jersey City Public Schools,140,"Martin Luther King, Jr. School",PK-08,52.5
+17,HUDSON,2390,Jersey City Public Schools,150,Julia A. Barnes School,PK-08,59.5
+17,HUDSON,2390,Jersey City Public Schools,155,Franklin L. Williams School,06-08,50.0
+17,HUDSON,2390,Jersey City Public Schools,160,"Ollie Culbreth, Jr. School",PK-08,52.5
+17,HUDSON,2390,Jersey City Public Schools,170,"Whitney M. Young, Jr. School",PK-08,45.5
+17,HUDSON,2390,Jersey City Public Schools,190,Dr. Maya Angelou Elementary School,PK-05,52.5
+17,HUDSON,2390,Jersey City Public Schools,200,Rev. Dr. Ercel F. Webb School,PK-05,53.25
+17,HUDSON,2390,Jersey City Public Schools,210,Mahatma K. Gandhi School,PK-08,50.5
+17,HUDSON,2390,Jersey City Public Schools,220,Chaplain Charles Watters School,PK-08,37.75
+17,HUDSON,2390,Jersey City Public Schools,230,Nicolaus Copernicus School,PK-05,50.75
+17,HUDSON,2390,Jersey City Public Schools,240,Alfred Zampella School,PK-08,52.5
+17,HUDSON,2390,Jersey City Public Schools,250,Christa McAuliffe School,PK-08,53.0
+17,HUDSON,2390,Jersey City Public Schools,260,Gladys Nunery School,PK-05,50.75
+17,HUDSON,2390,Jersey City Public Schools,270,Dr. Paul Rafalides School,PK-04,34.75
+17,HUDSON,2390,Jersey City Public Schools,280,President Barack Obama Elementary School,PK-08,43.0
+17,HUDSON,2390,Jersey City Public Schools,300,Rafael Cordero y Molina,PK-08,50.0
+17,HUDSON,2390,Jersey City Public Schools,302,"Patricia M. Noonan School, PS #26",PK-05,46.25
+17,HUDSON,2390,Jersey City Public Schools,320,Alexander D. Sullivan School,PK-05,53.0
+17,HUDSON,2390,Jersey City Public Schools,330,Dr. Charles P. DeFuccio School,PK-08,52.75
+17,HUDSON,2390,Jersey City Public Schools,340,Cornelia F. Bradford School,PK-05,69.0
+17,HUDSON,2390,Jersey City Public Schools,345,Ezra L. Nolan School,06-08,31.5
+17,HUDSON,2390,Jersey City Public Schools,347,Martin Center for the Arts,PK-08,49.0
+17,HUDSON,2390,Jersey City Public Schools,350,James F. Murray School,PK-08,50.0
+17,HUDSON,2390,Jersey City Public Schools,360,Joseph H. Brensinger School,PK-08,49.5
+17,HUDSON,2390,Jersey City Public Schools,370,Jotham W. Wakeman School,PK-05,55.0
+17,HUDSON,2410,Kearny,070,Franklin Elementary School,PK-06,54.5
+17,HUDSON,2410,Kearny,080,Garfield Elementary School,PK-06,52.5
+17,HUDSON,2410,Kearny,090,Lincoln Middle School,07-08,40.0
+17,HUDSON,2410,Kearny,100,Roosevelt Elementary School,PK-06,48.0
+17,HUDSON,2410,Kearny,110,Schuyler Elementary School,PK-06,44.5
+17,HUDSON,2410,Kearny,120,Washington Elementary School,PK-06,47.25
+17,HUDSON,3610,North Bergen School District,060,Franklin Elementary School,01-08,46.0
+17,HUDSON,3610,North Bergen School District,070,Horace Mann Elementary School,01-08,53.0
+17,HUDSON,3610,North Bergen School District,080,John F Kennedy Elementary School,01-08,44.0
+17,HUDSON,3610,North Bergen School District,090,Lincoln Elementary School,PK-08,45.5
+17,HUDSON,3610,North Bergen School District,100,McKinley Elementary School,KG-08,51.5
+17,HUDSON,3610,North Bergen School District,110,Robert Fulton Elementary School,KG-08,47.5
+17,HUDSON,4730,Secaucus School District,065,Clarendon School,KG-05,50.75
+17,HUDSON,4730,Secaucus School District,070,Huber Street School,PK-05,57.5
+17,HUDSON,4730,Secaucus School District,080,Secaucus Middle School,06-08,51.0
+17,HUDSON,5240,Union City School District,070,Thomas A Edison Elementary School,PK-06,59.0
+17,HUDSON,5240,Union City School District,100,Jefferson Elementary School,PK-04,77.0
+17,HUDSON,5240,Union City School District,105,Emerson Middle School,06-08,60.5
+17,HUDSON,5240,Union City School District,110,Theodore Roosevelt Elementary School,PK-06,62.75
+17,HUDSON,5240,Union City School District,118,Veterans' Memorial Elementary School,PK-05,41.0
+17,HUDSON,5240,Union City School District,120,George Washington Elementary School,PK-06,58.5
+17,HUDSON,5240,Union City School District,130,Robert Waters Elementary School,PK-06,51.0
+17,HUDSON,5240,Union City School District,140,Sara M. Gilmore Academy,01-08,65.5
+17,HUDSON,5240,Union City School District,150,Union Hill Middle School,07-08,51.0
+17,HUDSON,5240,Union City School District,300,Colin Powell Elementary School,KG-05,33.5
+17,HUDSON,5580,Weehawken Public School District,050,Weehawken High School,07-12,33.5
+17,HUDSON,5580,Weehawken Public School District,080,Theodore Roosevelt School,03-06,45.0
+17,HUDSON,5670,West New York Board of Education,060,Public School Number One,KG-06,50.0
+17,HUDSON,5670,West New York Board of Education,065,Public School Number Two,KG-06,62.5
+17,HUDSON,5670,West New York Board of Education,070,Robert Menendez Elementary School,KG-06,34.0
+17,HUDSON,5670,West New York Board of Education,080,Albio Sires Elementary School,KG-06,54.5
+17,HUDSON,5670,West New York Board of Education,090,Public School Number Five,KG-06,57.0
+17,HUDSON,5670,West New York Board of Education,100,Harry L Bain,KG-06,50.25
+17,HUDSON,5670,West New York Board of Education,110,West New York Middle School,07-08,43.25
+19,HUNTERDON,0020,Alexandria Township School District,005,Alexandria Middle School,04-08,47.5
+19,HUNTERDON,0370,Bethlehem Township School District,020,Ethel Hoppock Middle School,06-08,60.0
+19,HUNTERDON,0370,Bethlehem Township School District,070,Thomas B. Conley Elementary School,PK-05,42.5
+19,HUNTERDON,0430,Bloomsbury Borough School District,020,Bloomsbury Borough School,PK-08,52.75
+19,HUNTERDON,0670,Califon Borough School District,030,Califon Public School,PK-08,42.25
+19,HUNTERDON,0910,Clinton-Glen Gardner School District,030,Clinton Public School,PK-08,54.5
+19,HUNTERDON,0920,Clinton Township School District,040,Round Valley,03-05,54.0
+19,HUNTERDON,0920,Clinton Township School District,050,Clinton Township Middle School,06-08,54.5
+19,HUNTERDON,1040,Delaware Township School District,040,Delaware Township School,PK-08,52.0
+19,HUNTERDON,1160,East Amwell Township School District,050,East Amwell Township,PK-08,50.5
+19,HUNTERDON,1376,South Hunterdon Regional School District,020,Lambertville Public School,PK-06,47.75
+19,HUNTERDON,1376,South Hunterdon Regional School District,030,West Amwell Township School,KG-06,56.25
+19,HUNTERDON,1376,South Hunterdon Regional School District,050,South Hunterdon Regional High School,07-12,47.5
+19,HUNTERDON,1510,Flemington-Raritan Regional School District,030,Barley Sheaf Elementary School,KG-04,57.5
+19,HUNTERDON,1510,Flemington-Raritan Regional School District,033,Copper Hill Elementary School,PK-04,63.0
+19,HUNTERDON,1510,Flemington-Raritan Regional School District,035,Francis A. Desmares Elementary School,KG-04,65.0
+19,HUNTERDON,1510,Flemington-Raritan Regional School District,040,Reading-Fleming Intermediate School,05-06,53.0
+19,HUNTERDON,1510,Flemington-Raritan Regional School District,045,J.P. Case Middle School,07-08,51.75
+19,HUNTERDON,1510,Flemington-Raritan Regional School District,050,Robert Hunter Elementary School,KG-04,63.0
+19,HUNTERDON,1600,Franklin Township School District,050,Franklin Township School,PK-08,52.0
+19,HUNTERDON,1680,Frenchtown Borough School District,050,Frenchtown Elementary,PK-08,62.0
+19,HUNTERDON,1970,Hampton Borough School District,050,Hampton Borough School,PK-05,10.75
+19,HUNTERDON,2140,High Bridge Borough School District,055,High Bridge Middle School,05-08,40.75
+19,HUNTERDON,2140,High Bridge Borough School District,060,High Bridge Elementary School,PK-04,40.0
+19,HUNTERDON,2220,Holland Township School District,060,Holland Township Elementary School,PK-08,60.5
+19,HUNTERDON,2450,Kingwood Township School District,050,Kingwood Township School,PK-08,55.0
+19,HUNTERDON,2590,Lebanon Borough School District,050,Lebanon Borough School,PK-06,47.5
+19,HUNTERDON,2600,Lebanon Township School District,050,Woodglen School,05-08,52.0
+19,HUNTERDON,2600,Lebanon Township School District,060,Valley View School,PK-04,47.25
+19,HUNTERDON,3180,Milford Borough School District,050,Milford Public School,PK-08,44.75
+19,HUNTERDON,4350,Readington Township School District,030,Holland Brook School,04-05,56.75
+19,HUNTERDON,4350,Readington Township School District,050,Readington Middle School,06-08,45.5
+19,HUNTERDON,5180,Tewksbury Township School District,030,Old Turnpike School,PK-08,73.5
+19,HUNTERDON,5180,Tewksbury Township School District,055,Tewksbury Elementary School,KG-05,64.25
+19,HUNTERDON,5270,Union Township School District,050,Union Township Middle School,05-08,47.75
+19,HUNTERDON,5270,Union Township School District,060,Union Township Elementary School,PK-04,56.0
+21,MERCER,1245,East Windsor Regional School District,060,Grace N. Rogers Elementary School,PK-05,45.0
+21,MERCER,1245,East Windsor Regional School District,070,Melvin H. Kreps Middle School,06-08,45.0
+21,MERCER,1245,East Windsor Regional School District,075,Perry L. Drew Elementary School,03-05,56.0
+21,MERCER,1430,Ewing Township School District,060,Gilmore J Fisher Middle School,06-08,43.0
+21,MERCER,1430,Ewing Township School District,105,Francis Lore Elementary School,PK-05,54.75
+21,MERCER,1430,Ewing Township School District,130,Parkway Elementary School,PK-05,51.0
+21,MERCER,1430,Ewing Township School District,140,William L Antheil Elementary School,PK-05,52.25
+21,MERCER,1950,Hamilton Township Public School District,070,Albert E Grice Middle School,06-08,48.0
+21,MERCER,1950,Hamilton Township Public School District,080,Emily C. Reynolds Middle School,06-08,43.0
+21,MERCER,1950,Hamilton Township Public School District,083,Richard C Crockett Middle School,06-08,36.5
+21,MERCER,1950,Hamilton Township Public School District,085,Alexander Elementary School,PK-05,37.75
+21,MERCER,1950,Hamilton Township Public School District,105,George E. Wilson Elementary School,PK-05,35.25
+21,MERCER,1950,Hamilton Township Public School District,110,Greenwood Elementary School,PK-05,35.5
+21,MERCER,1950,Hamilton Township Public School District,150,Kisthardt Elementary School,PK-05,32.25
+21,MERCER,1950,Hamilton Township Public School District,160,Klockner Elementary School,PK-05,53.75
+21,MERCER,1950,Hamilton Township Public School District,170,Kuser Elementary School,PK-05,41.0
+21,MERCER,1950,Hamilton Township Public School District,180,Lalor Elementary School,PK-05,38.5
+21,MERCER,1950,Hamilton Township Public School District,185,Langtree Elementary School,PK-05,44.0
+21,MERCER,1950,Hamilton Township Public School District,200,McGalliard Elementary School,PK-05,52.25
+21,MERCER,1950,Hamilton Township Public School District,210,Mercerville Elementary School,PK-05,44.5
+21,MERCER,1950,Hamilton Township Public School District,220,Morgan Elementary School,PK-05,49.5
+21,MERCER,1950,Hamilton Township Public School District,225,Robinson Elementary School,PK-05,33.0
+21,MERCER,1950,Hamilton Township Public School District,240,Sayen Elementary School,PK-05,49.5
+21,MERCER,1950,Hamilton Township Public School District,245,Sunnybrae Elementary School,PK-05,54.25
+21,MERCER,1950,Hamilton Township Public School District,250,University Heights Elementary School,PK-05,42.75
+21,MERCER,1950,Hamilton Township Public School District,260,Yardville Elementary School,PK-05,53.0
+21,MERCER,1950,Hamilton Township Public School District,270,Yardville Heights Elementary School,PK-05,53.25
+21,MERCER,2280,Hopewell Valley Regional School District,035,Bear Tavern Elementary School,PK-05,45.0
+21,MERCER,2280,Hopewell Valley Regional School District,040,Toll Gate Grammar School,KG-05,46.5
+21,MERCER,2280,Hopewell Valley Regional School District,055,Hopewell Elementary School,PK-05,37.5
+21,MERCER,2280,Hopewell Valley Regional School District,065,Stony Brook Elementary School,KG-05,63.5
+21,MERCER,2280,Hopewell Valley Regional School District,075,Timberlane Middle School,06-08,39.5
+21,MERCER,2580,Lawrence Township Public School District,050,Lawrence Middle School,07-08,60.0
+21,MERCER,2580,Lawrence Township Public School District,085,Lawrence Intermediate School,04-06,44.0
+21,MERCER,4255,Princeton Public Schools,070,Johnson Park School,PK-05,44.0
+21,MERCER,4255,Princeton Public Schools,080,Littlebrook School,PK-05,63.0
+21,MERCER,4255,Princeton Public Schools,085,John Witherspoon Middle School,06-08,65.5
+21,MERCER,4255,Princeton Public Schools,090,Riverside School,PK-05,58.5
+21,MERCER,4255,Princeton Public Schools,110,Community Park School,PK-05,57.0
+21,MERCER,5210,Trenton Public School District,100,Dunn Middle School,06-08,33.5
+21,MERCER,5210,Trenton Public School District,170,Columbus Elementary School,KG-05,45.75
+21,MERCER,5210,Trenton Public School District,190,Franklin Elementary School,KG-05,44.5
+21,MERCER,5210,Trenton Public School District,200,Grant Elementary School,PK-05,42.5
+21,MERCER,5210,Trenton Public School District,210,Gregory Elementary School,KG-05,29.75
+21,MERCER,5210,Trenton Public School District,220,Harrison Elementary School,KG-05,24.75
+21,MERCER,5210,Trenton Public School District,230,Jefferson Elementary School,KG-05,46.0
+21,MERCER,5210,Trenton Public School District,235,Joyce Kilmer School,06-08,43.0
+21,MERCER,5210,Trenton Public School District,240,Luis Munoz-Rivera MS,06-08,41.5
+21,MERCER,5210,Trenton Public School District,260,Mott Elementary School,KG-05,38.0
+21,MERCER,5210,Trenton Public School District,265,P.J. Hill Elementary,PK-05,44.5
+21,MERCER,5210,Trenton Public School District,270,Parker Elementary,KG-05,43.25
+21,MERCER,5210,Trenton Public School District,280,Robbins Elementary School,KG-05,45.75
+21,MERCER,5210,Trenton Public School District,300,Washington Elementary School,KG-05,47.5
+21,MERCER,5210,Trenton Public School District,301,Hedgepeth Williams Middle School,06-08,44.0
+21,MERCER,5210,Trenton Public School District,310,Wilson Elementary School,PK-05,37.5
+21,MERCER,5210,Trenton Public School District,401,Martin Luther King Jr. Elementary School,KG-05,29.5
+21,MERCER,5510,Robbinsville Public Schools,040,Pond Road Middle School,05-08,50.5
+21,MERCER,5510,Robbinsville Public Schools,050,Sharon School,PK-04,64.75
+21,MERCER,5715,West Windsor-Plainsboro Regional School District,035,Thomas R Grover Middle School,06-08,62.0
+21,MERCER,5715,West Windsor-Plainsboro Regional School District,140,Community Middle School,06-08,62.0
+21,MERCER,5715,West Windsor-Plainsboro Regional School District,150,Millstone River School,03-05,53.5
+21,MERCER,5715,West Windsor-Plainsboro Regional School District,160,Village Elementary School,PK-05,49.0
+23,MIDDLESEX,0750,Carteret Public School District,050,Columbus Elementary School,PK-05,45.0
+23,MIDDLESEX,0750,Carteret Public School District,055,Carteret Middle School,06-08,50.5
+23,MIDDLESEX,0750,Carteret Public School District,057,Private Nicholas Minue Elementary School,PK-05,43.0
+23,MIDDLESEX,0750,Carteret Public School District,060,Nathan Hale Elementary School,PK-05,34.5
+23,MIDDLESEX,0970,Cranbury Township School District,030,Cranbury School,PK-08,55.25
+23,MIDDLESEX,1140,Dunellen Public School District,050,John P. Faber Elementary School,PK-05,48.25
+23,MIDDLESEX,1140,Dunellen Public School District,060,Lincoln Middle School,06-08,49.5
+23,MIDDLESEX,1170,East Brunswick Township School District,055,Churchill Jr High School,08-09,55.75
+23,MIDDLESEX,1170,East Brunswick Township School District,056,Hammarskjold Middle School,06-07,54.0
+23,MIDDLESEX,1170,East Brunswick Township School District,060,Bowne-Munro Elementary School,PK-05,52.0
+23,MIDDLESEX,1170,East Brunswick Township School District,070,Central Elementary School,PK-05,55.5
+23,MIDDLESEX,1170,East Brunswick Township School District,090,Irwin Elementary School,PK-05,47.5
+23,MIDDLESEX,1170,East Brunswick Township School District,100,Lawrence Brook Elementary School,PK-05,62.75
+23,MIDDLESEX,1170,East Brunswick Township School District,120,Memorial Elementary School,PK-05,66.0
+23,MIDDLESEX,1170,East Brunswick Township School District,125,Chittick Elementary School,PK-05,51.5
+23,MIDDLESEX,1170,East Brunswick Township School District,130,Frost Elementary School,PK-05,48.5
+23,MIDDLESEX,1170,East Brunswick Township School District,138,Warnsdorfer Elementary School,PK-05,58.75
+23,MIDDLESEX,1290,Edison Township School District,055,John Adams Middle School,06-08,59.0
+23,MIDDLESEX,1290,Edison Township School District,057,Herbert Hoover Middle School,06-08,57.25
+23,MIDDLESEX,1290,Edison Township School District,060,Thomas Jefferson Middle School,06-08,51.0
+23,MIDDLESEX,1290,Edison Township School District,063,Woodrow Wilson Middle School,06-08,59.5
+23,MIDDLESEX,1290,Edison Township School District,065,Benjamin Franklin Elementary School,KG-05,42.5
+23,MIDDLESEX,1290,Edison Township School District,090,James Madison Intermediate School,03-05,60.75
+23,MIDDLESEX,1290,Edison Township School District,093,James Monroe Elementary School,KG-05,39.0
+23,MIDDLESEX,1290,Edison Township School District,095,John Marshall Elementary School,KG-05,61.25
+23,MIDDLESEX,1290,Edison Township School District,100,Lincoln Elementary School,KG-05,56.75
+23,MIDDLESEX,1290,Edison Township School District,103,Lindeneau Elementary School,KG-05,57.5
+23,MIDDLESEX,1290,Edison Township School District,104,Martin Luther King Elementary School,KG-05,64.0
+23,MIDDLESEX,1290,Edison Township School District,105,Menlo Park Elementary School,PK-05,62.75
+23,MIDDLESEX,1290,Edison Township School District,150,Washington Elementary School,KG-05,63.0
+23,MIDDLESEX,1290,Edison Township School District,160,Woodbrook Elementary School,KG-05,60.5
+23,MIDDLESEX,2150,Highland Park Boro School District,060,Highland Park Middle School,06-08,46.0
+23,MIDDLESEX,2150,Highland Park Boro School District,085,Bartle Elementary School,02-05,57.5
+23,MIDDLESEX,2370,Jamesburg Public School District,075,Grace M. Breckwedel Middle School,06-08,70.5
+23,MIDDLESEX,2370,Jamesburg Public School District,080,John F. Kennedy Elementary School,PK-05,63.5
+23,MIDDLESEX,3120,Metuchen Public School District,060,Campbell Elementary School,01-04,67.25
+23,MIDDLESEX,3120,Metuchen Public School District,070,Edgar Middle School,05-08,64.5
+23,MIDDLESEX,3140,Middlesex Borough School District,085,Von E. Mauger Middle School,04-08,45.5
+23,MIDDLESEX,3220,Milltown School District,050,Joyce Kilmer School,04-08,56.25
+23,MIDDLESEX,3290,Monroe Township School District,020,Monroe Township Middle School,06-08,45.5
+23,MIDDLESEX,3290,Monroe Township School District,030,Woodland School,04-05,53.0
+23,MIDDLESEX,3290,Monroe Township School District,050,Brookside Elementary School,03-05,51.5
+23,MIDDLESEX,3290,Monroe Township School District,300,Applegarth Elementary School,04-05,58.0
+23,MIDDLESEX,3530,New Brunswick School District,055,New Brunswick Middle School,06-08,46.75
+23,MIDDLESEX,3530,New Brunswick School District,060,A Chester Redshaw School,PK-05,42.0
+23,MIDDLESEX,3530,New Brunswick School District,080,Lincoln Elementary School,PK-06,44.5
+23,MIDDLESEX,3530,New Brunswick School District,090,Livingston Elementary School,KG-05,32.0
+23,MIDDLESEX,3530,New Brunswick School District,100,Lord Stirling Elementary School,PK-05,61.0
+23,MIDDLESEX,3530,New Brunswick School District,110,Mckinley Community School,PK-08,34.5
+23,MIDDLESEX,3530,New Brunswick School District,123,Paul Robeson Community School for the Arts,PK-08,40.25
+23,MIDDLESEX,3530,New Brunswick School District,125,Roosevelt Elementary School,KG-05,50.5
+23,MIDDLESEX,3530,New Brunswick School District,140,Woodrow Wilson Elementary School,PK-08,43.5
+23,MIDDLESEX,3530,New Brunswick School District,300,Lincoln Annex School,03-08,46.0
+23,MIDDLESEX,3620,North Brunswick Township School District,055,Arthur M. Judd,PK-05,46.0
+23,MIDDLESEX,3620,North Brunswick Township School District,060,John Adams,KG-05,49.25
+23,MIDDLESEX,3620,North Brunswick Township School District,065,Linwood Middle School,06-08,55.25
+23,MIDDLESEX,3620,North Brunswick Township School District,070,Livingston Park,KG-05,58.75
+23,MIDDLESEX,3620,North Brunswick Township School District,090,Parsons,PK-05,52.0
+23,MIDDLESEX,3845,Old Bridge Township School District,082,Alan B. Shepard Elementary School,KG-05,53.0
+23,MIDDLESEX,3845,Old Bridge Township School District,103,Carl Sandburg Middle School,06-08,44.0
+23,MIDDLESEX,3845,Old Bridge Township School District,105,Cheesequake Elementary School,KG-05,58.5
+23,MIDDLESEX,3845,Old Bridge Township School District,108,James A. McDivitt Elementary School,KG-05,62.5
+23,MIDDLESEX,3845,Old Bridge Township School District,110,Jonas Salk Middle School,06-08,46.0
+23,MIDDLESEX,3845,Old Bridge Township School District,113,Leroy Gordon Cooper Elementary School,KG-05,57.5
+23,MIDDLESEX,3845,Old Bridge Township School District,120,Madison Park Elementary School,KG-05,66.5
+23,MIDDLESEX,3845,Old Bridge Township School District,130,Memorial Elementary School,KG-05,42.0
+23,MIDDLESEX,3845,Old Bridge Township School District,133,M. Scott Carpenter Elementary School,KG-05,62.5
+23,MIDDLESEX,3845,Old Bridge Township School District,140,Raymond E. Voorhees Elementary School,KG-05,56.0
+23,MIDDLESEX,3845,Old Bridge Township School District,150,Southwood Elementary School,PK-05,59.5
+23,MIDDLESEX,3845,Old Bridge Township School District,163,Virgil I. Grissom Elementary School,KG-05,48.0
+23,MIDDLESEX,3845,Old Bridge Township School District,165,Walter M. Schirra Elementary School,KG-05,64.0
+23,MIDDLESEX,3845,Old Bridge Township School District,170,William A. Miller Elementary School,KG-05,49.5
+23,MIDDLESEX,4090,Perth Amboy Public School District,065,Edward J. Patten Elementary School,KG-04,42.0
+23,MIDDLESEX,4090,Perth Amboy Public School District,070,Anthony V. Ceres Elementary School,KG-04,46.0
+23,MIDDLESEX,4090,Perth Amboy Public School District,130,Herbert N. Richardson 21st Century School,KG-04,50.25
+23,MIDDLESEX,4090,Perth Amboy Public School District,140,William C. McGinnis Middle School,05-08,39.5
+23,MIDDLESEX,4090,Perth Amboy Public School District,145,James J. Flynn Elementary School,KG-04,50.0
+23,MIDDLESEX,4090,Perth Amboy Public School District,150,Samuel E. Shull Middle School,05-08,40.5
+23,MIDDLESEX,4090,Perth Amboy Public School District,200,Robert N. Wilentz Elementary School,KG-04,59.5
+23,MIDDLESEX,4090,Perth Amboy Public School District,300,Dual Language School,02-06,68.5
+23,MIDDLESEX,4130,Piscataway Township School District,053,Conackamack Middle School,06-08,40.0
+23,MIDDLESEX,4130,Piscataway Township School District,055,Quibbletown Middle School,06-08,40.25
+23,MIDDLESEX,4130,Piscataway Township School District,057,Theodore Schor Middle School,06-08,46.5
+23,MIDDLESEX,4130,Piscataway Township School District,060,Arbor Elementary School,04-05,46.0
+23,MIDDLESEX,4130,Piscataway Township School District,105,Martin Luther King Elementary School,04-05,57.0
+23,MIDDLESEX,4660,Sayreville School District,055,Sayreville Middle School,06-08,45.5
+23,MIDDLESEX,4660,Sayreville School District,085,Samsel Upper Elementary School,PK-05,50.0
+23,MIDDLESEX,4830,South Amboy School District,030,South Amboy Middle/High School,06-12,39.5
+23,MIDDLESEX,4830,South Amboy School District,060,South Amboy Elementary,PK-05,44.0
+23,MIDDLESEX,4860,South Brunswick School District,055,Brunswick Acres Elementary School,KG-05,54.0
+23,MIDDLESEX,4860,South Brunswick School District,060,Cambridge Elementary School,PK-05,57.75
+23,MIDDLESEX,4860,South Brunswick School District,070,Constable Elementary School,KG-05,58.5
+23,MIDDLESEX,4860,South Brunswick School District,075,Crossroads South Middle School,06-08,55.0
+23,MIDDLESEX,4860,South Brunswick School District,085,Brooks Crossing Elementary School,KG-05,55.5
+23,MIDDLESEX,4860,South Brunswick School District,095,Greenbrook Elementary School,KG-05,62.75
+23,MIDDLESEX,4860,South Brunswick School District,100,Indian Fields Elementary School,PK-05,54.5
+23,MIDDLESEX,4860,South Brunswick School District,110,Monmouth Junction Elementary School,PK-05,58.25
+23,MIDDLESEX,4860,South Brunswick School District,150,Crossroads North Middle School,06-08,48.5
+23,MIDDLESEX,4910,South Plainfield School District,053,South Plainfield Middle School,07-08,52.5
+23,MIDDLESEX,4910,South Plainfield School District,055,John F Kennedy Elementary School,PK-04,53.5
+23,MIDDLESEX,4910,South Plainfield School District,058,John E Riley Elementary School,PK-04,63.5
+23,MIDDLESEX,4910,South Plainfield School District,060,Franklin Elementary School,PK-04,41.5
+23,MIDDLESEX,4910,South Plainfield School District,070,Grant Elementary School,05-06,60.25
+23,MIDDLESEX,4910,South Plainfield School District,080,Roosevelt Elementary School,PK-04,49.5
+23,MIDDLESEX,4920,South River Public School District,055,South River Middle School,06-08,43.0
+23,MIDDLESEX,4920,South River Public School District,065,South River Elementary School,PK-05,50.0
+23,MIDDLESEX,4970,Spotswood Public School District,050,E Raymond Appleby Elementary School,02-06,34.0
+23,MIDDLESEX,4970,Spotswood Public School District,090,Spotswood Memorial Middle School,06-08,51.0
+23,MIDDLESEX,5850,Woodbridge Township School District,045,Avenel Middle School,06-08,46.5
+23,MIDDLESEX,5850,Woodbridge Township School District,060,Colonia Middle School,06-08,44.0
+23,MIDDLESEX,5850,Woodbridge Township School District,070,Fords Middle School,06-08,43.5
+23,MIDDLESEX,5850,Woodbridge Township School District,080,Iselin Middle School,06-08,51.0
+23,MIDDLESEX,5850,Woodbridge Township School District,090,Woodbridge Middle School,06-08,39.0
+23,MIDDLESEX,5850,Woodbridge Township School District,100,Avenel Street Elementary School,KG-05,44.75
+23,MIDDLESEX,5850,Woodbridge Township School District,110,Robert Mascenik Elementary School,KG-05,57.75
+23,MIDDLESEX,5850,Woodbridge Township School District,120,Claremont Avenue Elementary School,KG-05,54.5
+23,MIDDLESEX,5850,Woodbridge Township School District,140,Ford Avenue Elementary School,KG-05,63.25
+23,MIDDLESEX,5850,Woodbridge Township School District,150,Matthew Jago Elementary School,PK-05,48.75
+23,MIDDLESEX,5850,Woodbridge Township School District,160,Indiana Avenue Elementary School,KG-05,35.25
+23,MIDDLESEX,5850,Woodbridge Township School District,180,Kennedy Park Elementary School,PK-05,48.75
+23,MIDDLESEX,5850,Woodbridge Township School District,200,Lafayette Estates Elementary School,KG-05,49.25
+23,MIDDLESEX,5850,Woodbridge Township School District,210,Lynn Crest Elementary School,PK-05,50.5
+23,MIDDLESEX,5850,Woodbridge Township School District,220,Mawbey Street Elementary School,KG-05,58.75
+23,MIDDLESEX,5850,Woodbridge Township School District,230,Menlo Park Terrace Elementary School,KG-05,44.25
+23,MIDDLESEX,5850,Woodbridge Township School District,240,Oak Ridge Heights Elementary School,PK-05,64.75
+23,MIDDLESEX,5850,Woodbridge Township School District,260,Pennsylvania Avenue Elementary School,KG-05,55.0
+23,MIDDLESEX,5850,Woodbridge Township School District,275,Port Reading Avenue Elementary School,PK-05,53.5
+23,MIDDLESEX,5850,Woodbridge Township School District,280,Ross Street Elementary School,KG-05,50.75
+23,MIDDLESEX,5850,Woodbridge Township School District,320,Woodbine Avenue Elementary School,KG-05,57.5
+23,MIDDLESEX,5850,Woodbridge Township School District,402,Oak Tree Road Elementary School,KG-05,61.25
+25,MONMOUTH,0100,Asbury Park School District,020,Barack Obama Elementary School,PK-05,34.5
+25,MONMOUTH,0100,Asbury Park School District,040,Bradley Elementary School,PK-05,38.5
+25,MONMOUTH,0100,Asbury Park School District,070,Dr. Martin Luther King Middle School,06-08,46.0
+25,MONMOUTH,0100,Asbury Park School District,100,Thurgood Marshall Elementary School,PK-05,39.25
+25,MONMOUTH,0130,Atlantic Highlands School District,020,Atlantic Highlands Elementary School,PK-06,63.5
+25,MONMOUTH,0180,Avon Boro School District,010,Avon Elementary School,KG-08,60.5
+25,MONMOUTH,0270,Belmar Elementary School District,020,Belmar Elementary,PK-08,56.0
+25,MONMOUTH,0500,Bradley Beach School District,020,Bradley Beach Elementary School,PK-08,56.25
+25,MONMOUTH,0560,Brielle Boro School District,020,Brielle Elementary School,PK-08,60.25
+25,MONMOUTH,0945,Colts Neck Township School District,030,Cedar Drive Middle School,06-08,51.0
+25,MONMOUTH,0945,Colts Neck Township School District,050,Conover Road Elementary School,03-05,61.5
+25,MONMOUTH,1000,Deal Boro School District,040,Deal Elementary School,KG-08,39.75
+25,MONMOUTH,1260,Eatontown Public School District,060,Margaret L Vetter,05-06,72.5
+25,MONMOUTH,1260,Eatontown Public School District,070,Memorial Middle School,07-08,42.25
+25,MONMOUTH,1260,Eatontown Public School District,110,Woodmere,PK-04,48.0
+25,MONMOUTH,1440,Fair Haven School District,050,Knollwood School,04-08,60.5
+25,MONMOUTH,1490,Farmingdale Public School District,050,Farmingdale Elementary,PK-08,59.75
+25,MONMOUTH,1640,Freehold Borough School District,060,Freehold Intermediate School,06-08,55.5
+25,MONMOUTH,1640,Freehold Borough School District,070,Park Avenue Elementary School,03-05,53.5
+25,MONMOUTH,1660,Freehold Township School District,020,Joseph J Catena School,KG-05,48.5
+25,MONMOUTH,1660,Freehold Township School District,021,C. Richard Applegate School,KG-05,45.5
+25,MONMOUTH,1660,Freehold Township School District,023,Clifton T. Barkalow School,06-08,55.5
+25,MONMOUTH,1660,Freehold Township School District,024,Dwight D. Eisenhower School,06-08,58.5
+25,MONMOUTH,1660,Freehold Township School District,025,Marshall W. Errickson School,KG-05,64.5
+25,MONMOUTH,1660,Freehold Township School District,026,Laura Donovan School,KG-05,47.75
+25,MONMOUTH,1660,Freehold Township School District,030,West Freehold School,KG-05,47.0
+25,MONMOUTH,2105,Hazlet Township Public School District,060,Beers Street School,05-06,59.75
+25,MONMOUTH,2105,Hazlet Township Public School District,070,Cove Road School,05-06,57.5
+25,MONMOUTH,2105,Hazlet Township Public School District,085,Lillian Drive School,01-04,43.5
+25,MONMOUTH,2105,Hazlet Township Public School District,090,Middle Road School,01-04,60.5
+25,MONMOUTH,2105,Hazlet Township Public School District,095,Raritan Valley School,01-04,49.0
+25,MONMOUTH,2105,Hazlet Township Public School District,105,Hazlet Middle School,07-08,38.5
+25,MONMOUTH,2120,Henry Hudson Regional School District,050,Henry Hudson Regional School,07-12,44.75
+25,MONMOUTH,2160,Highlands Borough School District,050,Highlands Elementary School,PK-06,46.5
+25,MONMOUTH,2230,Holmdel Township School District,030,William R. Satz School,07-08,44.5
+25,MONMOUTH,2230,Holmdel Township School District,050,Indian Hill School,04-06,56.0
+25,MONMOUTH,2290,Howell Township Public School District,005,Aldrich Elementary School,03-05,42.5
+25,MONMOUTH,2290,Howell Township Public School District,010,Ardena Elementary School,03-05,60.25
+25,MONMOUTH,2290,Howell Township Public School District,025,Howell Township Middle School North,06-08,50.0
+25,MONMOUTH,2290,Howell Township Public School District,027,Howell Township Middle School South,06-08,44.0
+25,MONMOUTH,2290,Howell Township Public School District,032,Newbury Elementary School,03-05,57.5
+25,MONMOUTH,2290,Howell Township Public School District,035,Ramtown Elementary School,03-05,53.25
+25,MONMOUTH,2290,Howell Township Public School District,045,Memorial Elementary School,03-05,49.0
+25,MONMOUTH,2400,Keansburg School District,030,Joseph R. Bolger Middle School,06-08,50.25
+25,MONMOUTH,2400,Keansburg School District,050,Joseph C. Caruso School,KG-05,36.25
+25,MONMOUTH,2430,Keyport School District,060,Keyport Central School,PK-08,59.0
+25,MONMOUTH,2720,Little Silver Boro School District,050,Markham Place School,05-08,72.0
+25,MONMOUTH,2720,Little Silver Boro School District,060,Point Road School,PK-04,71.25
+25,MONMOUTH,2770,LONG BRANCH PUBLIC SCHOOL District,060,Long Branch Middle School,06-08,42.5
+25,MONMOUTH,2770,LONG BRANCH PUBLIC SCHOOL District,065,A A Anastasia Elementary School,KG-05,53.5
+25,MONMOUTH,2770,LONG BRANCH PUBLIC SCHOOL District,110,Gregory Elementary School,KG-05,41.5
+25,MONMOUTH,2770,LONG BRANCH PUBLIC SCHOOL District,300,George L Catrambone,KG-05,55.25
+25,MONMOUTH,2920,Manalapan-Englishtown Regional Schools School District,050,Clark Mills School,KG-05,75.0
+25,MONMOUTH,2920,Manalapan-Englishtown Regional Schools School District,055,Lafayette Mills School,01-05,65.25
+25,MONMOUTH,2920,Manalapan-Englishtown Regional Schools School District,060,Manalapan-Englishtown Middle School,07-08,52.5
+25,MONMOUTH,2920,Manalapan-Englishtown Regional Schools School District,063,Milford Brook School,KG-05,65.25
+25,MONMOUTH,2920,Manalapan-Englishtown Regional Schools School District,075,Pine Brook School,06-06,60.0
+25,MONMOUTH,2920,Manalapan-Englishtown Regional Schools School District,090,Taylor Mills School,KG-05,66.75
+25,MONMOUTH,2920,Manalapan-Englishtown Regional Schools School District,110,Wemrock Brook School,01-05,75.5
+25,MONMOUTH,2930,Manasquan School District,060,Manasquan Elementary School,PK-08,57.5
+25,MONMOUTH,3030,Marlboro Township School District,030,Frank Defino Central Elementary School,KG-05,68.0
+25,MONMOUTH,3030,Marlboro Township School District,040,Frank J. Dugan Elementary School,KG-05,51.0
+25,MONMOUTH,3030,Marlboro Township School District,045,Marlboro Elementary School,KG-05,52.0
+25,MONMOUTH,3030,Marlboro Township School District,048,Marlboro Memorial Middle School,06-08,48.0
+25,MONMOUTH,3030,Marlboro Township School District,050,Marlboro Middle School,06-08,47.5
+25,MONMOUTH,3030,Marlboro Township School District,060,Robertsville Elementary School,01-05,59.25
+25,MONMOUTH,3030,Marlboro Township School District,070,Asher Holmes Elementary School,01-05,58.5
+25,MONMOUTH,3040,Matawan-Aberdeen Regional School District,053,Matawan-Aberdeen Middle School,06-08,62.0
+25,MONMOUTH,3040,Matawan-Aberdeen Regional School District,065,Lloyd Road Elementary School,04-05,43.5
+25,MONMOUTH,3160,Middletown Township Public School District,055,Bayshore Middle School,06-08,51.5
+25,MONMOUTH,3160,Middletown Township Public School District,057,Thompson Middle School,06-08,53.0
+25,MONMOUTH,3160,Middletown Township Public School District,059,Thorne Middle School,06-08,58.0
+25,MONMOUTH,3160,Middletown Township Public School District,060,Bayview Elementary School,KG-05,50.25
+25,MONMOUTH,3160,Middletown Township Public School District,080,Ocean Avenue Elementary School,PK-05,43.25
+25,MONMOUTH,3160,Middletown Township Public School District,090,Fairview Elementary School,KG-05,68.75
+25,MONMOUTH,3160,Middletown Township Public School District,095,Harmony Elementary School,PK-05,46.75
+25,MONMOUTH,3160,Middletown Township Public School District,110,Leonardo Elementary School,KG-05,44.25
+25,MONMOUTH,3160,Middletown Township Public School District,120,Lincroft Elementary School,KG-05,50.75
+25,MONMOUTH,3160,Middletown Township Public School District,130,Middletown Village Elementary School,KG-05,59.75
+25,MONMOUTH,3160,Middletown Township Public School District,140,Navesink Elementary School,KG-05,40.75
+25,MONMOUTH,3160,Middletown Township Public School District,143,New Monmouth Elementary School,PK-05,47.25
+25,MONMOUTH,3160,Middletown Township Public School District,145,Nut Swamp Elementary School,KG-05,60.0
+25,MONMOUTH,3160,Middletown Township Public School District,150,Port Monmouth Elementary School,KG-05,42.0
+25,MONMOUTH,3160,Middletown Township Public School District,160,River Plaza Elementary School,KG-05,58.5
+25,MONMOUTH,3200,Millstone Township School District,040,Millstone Township Middle School,06-08,56.0
+25,MONMOUTH,3200,Millstone Township School District,060,Millstone Township Elementary School,03-05,56.0
+25,MONMOUTH,3250,Monmouth Beach School District,050,Monmouth Beach Elementary School,PK-08,54.25
+25,MONMOUTH,3500,Neptune City School District,060,Woodrow Wilson,PK-08,51.0
+25,MONMOUTH,3510,Neptune Township School District,055,Neptune Middle School,06-08,49.5
+25,MONMOUTH,3510,Neptune Township School District,061,Gables Elementary School,PK-05,56.5
+25,MONMOUTH,3510,Neptune Township School District,063,Green Grove Elementary School,PK-05,31.5
+25,MONMOUTH,3510,Neptune Township School District,080,Midtown Community Elementary School,KG-05,40.25
+25,MONMOUTH,3510,Neptune Township School District,090,Shark River Hills Elementary School,PK-05,51.5
+25,MONMOUTH,3510,Neptune Township School District,100,Summerfield Elementary School,PK-05,51.75
+25,MONMOUTH,3810,Township of Ocean School District,040,Township of Ocean Intermediate School,05-08,42.0
+25,MONMOUTH,3810,Township of Ocean School District,060,Ocean Township Elementary School,PK-04,52.0
+25,MONMOUTH,3810,Township of Ocean School District,070,Wanamassa Elementary School,PK-04,62.5
+25,MONMOUTH,3810,Township of Ocean School District,080,Wayside Elementary School,PK-04,48.5
+25,MONMOUTH,3830,Oceanport School District,030,Maple Place Middle School,05-08,46.25
+25,MONMOUTH,3830,Oceanport School District,050,Wolf Hill School,PK-04,68.0
+25,MONMOUTH,4360,Red Bank Borough Public School District,060,Red Bank Middle School,04-08,54.5
+25,MONMOUTH,4520,Roosevelt Borough Public School District,050,Roosevelt Public School,PK-06,33.5
+25,MONMOUTH,4570,Rumson Borough School District,050,Forrestdale School,04-08,63.0
+25,MONMOUTH,4690,Sea Girt Borough School District,050,Sea Girt Elementary School,PK-08,61.75
+25,MONMOUTH,4770,Shrewsbury Borough School District,050,Shrewsbury Borough Elementary School,PK-08,52.5
+25,MONMOUTH,4980,Spring Lake Borough,050,H W Mountz Elementary School,PK-08,49.25
+25,MONMOUTH,4990,Spring Lake Heights School District,050,Spring Lake Heights Elementary School,KG-08,50.75
+25,MONMOUTH,5185,Tinton Falls School District,050,Swimming River School,03-05,53.5
+25,MONMOUTH,5185,Tinton Falls School District,070,Tinton Falls Middle School,06-08,54.5
+25,MONMOUTH,5230,Union Beach Public School District,050,Memorial School,PK-08,51.0
+25,MONMOUTH,5310,Upper Freehold Regional School District,060,Newell Elementary School,PK-04,49.25
+25,MONMOUTH,5310,Upper Freehold Regional School District,070,Stonebridge Middle School,05-08,51.25
+25,MONMOUTH,5420,Wall Township Public School District,060,Allenwood Elementary School,KG-05,42.0
+25,MONMOUTH,5420,Wall Township Public School District,070,Central Elementary School,KG-05,49.75
+25,MONMOUTH,5420,Wall Township Public School District,075,Wall Intermediate School,06-08,56.5
+25,MONMOUTH,5420,Wall Township Public School District,077,Old Mill Elementary School,KG-05,60.5
+25,MONMOUTH,5420,Wall Township Public School District,080,West Belmar Elementary School,KG-05,57.25
+25,MONMOUTH,5640,West Long Branch School District,050,Frank Antonides School,05-08,48.0
+25,MONMOUTH,5640,West Long Branch School District,080,Betty McElmon Elementary School,PK-04,55.5
+27,MORRIS,0450,Boonton Town School District,030,John Hill School,03-08,53.5
+27,MORRIS,0460,Boonton Township School District,060,Rockaway Valley School,PK-08,45.5
+27,MORRIS,0630,Butler Public School District,025,Aaron Decker School,PK-04,53.75
+27,MORRIS,0630,Butler Public School District,030,Richard Butler School,05-08,49.75
+27,MORRIS,0785,School District of the Chathams,030,Chatham Middle School,06-08,54.0
+27,MORRIS,0785,School District of the Chathams,050,Lafayette Avenue School,04-05,59.0
+27,MORRIS,0820,Chester School District,020,Black River Middle School,06-08,54.25
+27,MORRIS,0820,Chester School District,030,Bragg Elementary School,03-05,65.0
+27,MORRIS,1090,Denville Township K-8 School District,050,Lakeview Elementary School,PK-05,58.5
+27,MORRIS,1090,Denville Township K-8 School District,070,Riverview Elementary School,KG-05,74.5
+27,MORRIS,1090,Denville Township K-8 School District,080,Valleyview Middle School,06-08,51.0
+27,MORRIS,1110,Dover Public School District,050,Academy Street Elementary School,PK-06,61.0
+27,MORRIS,1110,Dover Public School District,060,East Dover Elementary School,KG-06,59.5
+27,MORRIS,1110,Dover Public School District,065,Dover Middle School,07-08,54.0
+27,MORRIS,1110,Dover Public School District,070,North Dover Elementary School,PK-06,67.0
+27,MORRIS,1190,East Hanover Township School District,030,Central Elementary School,03-05,53.0
+27,MORRIS,1190,East Hanover Township School District,050,East Hanover Middle School,06-08,54.5
+27,MORRIS,1530,Florham Park School District,020,Brooklake School,03-05,62.75
+27,MORRIS,1530,Florham Park School District,030,Ridgedale Middle School,06-08,62.0
+27,MORRIS,2000,Hanover Township School District,025,Bee Meadow School,KG-05,54.25
+27,MORRIS,2000,Hanover Township School District,040,Memorial Junior School,06-08,55.75
+27,MORRIS,2000,Hanover Township School District,050,Mountview Road School,KG-05,52.5
+27,MORRIS,2000,Hanover Township School District,060,Salem Drive School,KG-05,55.0
+27,MORRIS,2010,Harding Township School District,050,Harding Township School,PK-08,58.5
+27,MORRIS,2380,Jefferson Township Public School District,028,Arthur Stanlick Elementary School,03-05,50.5
+27,MORRIS,2380,Jefferson Township Public School District,045,Jefferson Township Middle School,06-08,41.0
+27,MORRIS,2380,Jefferson Township Public School District,070,White Rock Elementary School,03-05,47.5
+27,MORRIS,2460,Kinnelon School District,065,Pearl R. Miller Middle School,06-08,53.25
+27,MORRIS,2460,Kinnelon School District,070,Stonybrook Elementary School,KG-05,64.0
+27,MORRIS,2650,Lincoln Park School District,035,Lincoln Park Elementary School,PK-04,53.75
+27,MORRIS,2650,Lincoln Park School District,040,Lincoln Park Middle School,PK-08,62.5
+27,MORRIS,2870,Madison Public School District,060,Central Avenue School,PK-05,61.5
+27,MORRIS,2870,Madison Public School District,080,Kings Road School,KG-05,59.0
+27,MORRIS,2870,Madison Public School District,100,Madison Junior School,06-08,62.0
+27,MORRIS,2870,Madison Public School District,110,Torey J. Sabatini School,KG-05,64.0
+27,MORRIS,3090,Mendham Borough School District,050,Hilltop School,PK-04,57.0
+27,MORRIS,3090,Mendham Borough School District,060,Mountain View School,05-08,61.5
+27,MORRIS,3100,Mendham Township School District,050,Mendham Township Elementary School,PK-04,61.5
+27,MORRIS,3100,Mendham Township School District,060,Mendham Township Middle School,05-08,69.25
+27,MORRIS,3240,Mine Hill Township School District,030,Canfield Avenue School,PK-06,55.0
+27,MORRIS,3340,Montville Township School District,025,Cedar Hill School,PK-05,62.0
+27,MORRIS,3340,Montville Township School District,030,Robert R Lazar Middle School,06-08,50.5
+27,MORRIS,3340,Montville Township School District,050,Hilldale School,KG-05,68.5
+27,MORRIS,3340,Montville Township School District,055,Valley View School,PK-05,63.0
+27,MORRIS,3340,Montville Township School District,065,William Mason School,PK-05,62.0
+27,MORRIS,3340,Montville Township School District,070,Woodmont School,KG-05,62.5
+27,MORRIS,3380,Morris Plains School District,020,Morris Plains Borough School,03-08,57.75
+27,MORRIS,3385,Morris School District,060,Alexander Hamilton,03-05,71.75
+27,MORRIS,3385,Morris School District,075,Frelinghuysen Middle School,06-08,49.0
+27,MORRIS,3385,Morris School District,100,Normandy Park School,KG-05,58.75
+27,MORRIS,3385,Morris School District,105,Sussex Avenue School,03-05,44.5
+27,MORRIS,3385,Morris School District,110,Thomas Jefferson School,03-05,68.25
+27,MORRIS,3410,Mount Arlington Public School District,050,Mount Arlington Public School,03-08,54.0
+27,MORRIS,3450,Mount Olive Township School District,040,Mount Olive Middle School,06-08,56.5
+27,MORRIS,3450,Mount Olive Township School District,050,Chester M. Stephens Elementary School,KG-05,44.5
+27,MORRIS,3450,Mount Olive Township School District,060,Mountain View Elementary School,PK-05,47.25
+27,MORRIS,3450,Mount Olive Township School District,065,Sandshore Rd. Elementary School,KG-05,41.0
+27,MORRIS,3450,Mount Olive Township School District,070,Tinc Rd. Elementary School,KG-05,39.5
+27,MORRIS,3460,Mountain Lakes Public School District,060,Briarcliff Middle School,06-08,55.25
+27,MORRIS,3460,Mountain Lakes Public School District,080,Wildwood Elementary School,KG-05,58.0
+27,MORRIS,3520,Netcong School District,060,Netcong Elementary School,PK-08,52.75
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,055,Brooklawn Middle School,06-08,49.0
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,060,Central Middle School,06-08,44.5
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,062,Eastlake Elementary School,PK-05,57.5
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,064,Intervale Elementary School,KG-05,56.75
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,065,Knollwood Elementary School,KG-05,45.25
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,070,Lake Hiawatha Elementary School,PK-05,61.75
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,080,Lake Parsippany Elementary School,KG-05,56.5
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,090,Littleton Elementary School,PK-05,60.5
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,100,Mount Tabor Elementary School,KG-05,59.5
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,103,Northvail Elementary School,KG-05,65.5
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,107,Rockaway Meadow Elementary School,KG-05,59.75
+27,MORRIS,3950,Parsippany-Troy Hills Township School District,120,Troy Hills Elementary School,KG-05,48.25
+27,MORRIS,4000,Long Hill Township School District,030,Central Middle School,06-08,61.25
+27,MORRIS,4000,Long Hill Township School District,060,Millington Elementary School,02-05,38.25
+27,MORRIS,4080,Pequannock Township School District,055,Hillview School,KG-05,62.0
+27,MORRIS,4080,Pequannock Township School District,060,North Boulevard School,PK-05,42.5
+27,MORRIS,4080,Pequannock Township School District,080,Pequannock Valley School,06-08,51.5
+27,MORRIS,4080,Pequannock Township School District,100,Stephen J. Gerace School,KG-05,53.0
+27,MORRIS,4330,Randolph Township School District,057,Center Grove School,PK-05,74.0
+27,MORRIS,4330,Randolph Township School District,065,Fernbrook School,KG-05,54.5
+27,MORRIS,4330,Randolph Township School District,070,Ironia School,KG-05,66.5
+27,MORRIS,4330,Randolph Township School District,075,Randolph Middle School,06-08,48.5
+27,MORRIS,4330,Randolph Township School District,080,Shongum School,KG-05,55.5
+27,MORRIS,4440,Riverdale School District,050,Riverdale School,PK-08,45.25
+27,MORRIS,4480,Rockaway Borough School District,050,Thomas Jefferson Middle School,04-08,54.5
+27,MORRIS,4490,Rockaway Township School District,010,Birchwood Elementary School,KG-05,58.0
+27,MORRIS,4490,Rockaway Township School District,015,Copeland Middle School,06-08,51.5
+27,MORRIS,4490,Rockaway Township School District,019,Catherine A Dwyer Elementary School,KG-05,70.0
+27,MORRIS,4490,Rockaway Township School District,025,Dennis B O'Brien Elementary School,PK-05,73.5
+27,MORRIS,4490,Rockaway Township School District,030,Katharine D Malone Elementary School,KG-05,54.25
+27,MORRIS,4490,Rockaway Township School District,080,Stony Brook Elementary School,KG-05,56.0
+27,MORRIS,4560,Roxbury Township School District,055,Eisenhower Middle School,07-08,54.5
+27,MORRIS,4560,Roxbury Township School District,060,Franklin Elementary School,KG-04,41.0
+27,MORRIS,4560,Roxbury Township School District,065,Jefferson Elementary School,PK-04,67.75
+27,MORRIS,4560,Roxbury Township School District,067,Kennedy Elementary School,KG-04,49.5
+27,MORRIS,4560,Roxbury Township School District,080,Lincoln/Roosevelt School,05-06,62.25
+27,MORRIS,4560,Roxbury Township School District,085,Nixon Elementary School,PK-04,48.5
+27,MORRIS,5520,Washington Township School District,030,Flocktown-Kossmann Elementary School,PK-05,64.5
+27,MORRIS,5520,Washington Township School District,035,Long Valley Middle School,06-08,53.0
+27,MORRIS,5520,Washington Township School District,040,Old Farmers Road School,KG-05,72.0
+27,MORRIS,5520,Washington Township School District,050,Benedict A. Cucinella School,PK-05,55.25
+27,MORRIS,5770,Wharton Borough School District,030,Alfred C. MacKinnon Middle School,06-08,42.0
+27,MORRIS,5770,Wharton Borough School District,040,Marie V. Duffy Elementary School,PK-05,50.5
+29,OCEAN,0185,Barnegat Township School District,010,Lillian M. Dunfee Elementary,PK-05,46.5
+29,OCEAN,0185,Barnegat Township School District,015,Cecil S. Collins Elementary,PK-05,40.0
+29,OCEAN,0185,Barnegat Township School District,050,Russell O. Brackman Middle School,06-08,43.5
+29,OCEAN,0185,Barnegat Township School District,070,Robert L. Horbelt Elementary School,PK-05,56.5
+29,OCEAN,0185,Barnegat Township School District,080,Joseph T. Donahue Elementary School,PK-05,53.0
+29,OCEAN,0210,Bay Head Borough School District,020,Bay Head Elementary,KG-08,40.0
+29,OCEAN,0230,Beach Haven School District,020,Beach Haven School,PK-06,50.0
+29,OCEAN,0320,Berkeley Township School District,020,Bayville Elementary School,PK-04,57.25
+29,OCEAN,0320,Berkeley Township School District,025,Berkeley Township Elementary School,04-06,49.25
+29,OCEAN,0320,Berkeley Township School District,030,Clara B. Worth Elementary School,PK-04,53.0
+29,OCEAN,0320,Berkeley Township School District,040,H & M Potter School,PK-04,56.0
+29,OCEAN,0530,Brick Township Public School District,030,Drum Point Road Elementary School,KG-05,45.5
+29,OCEAN,0530,Brick Township Public School District,035,Emma Havens Young Elementary School,KG-05,46.5
+29,OCEAN,0530,Brick Township Public School District,040,Herbertsville Elementary School,KG-05,51.0
+29,OCEAN,0530,Brick Township Public School District,043,Lake Riviera Middle School,06-08,59.0
+29,OCEAN,0530,Brick Township Public School District,045,Lanes Mill Elementary School,KG-05,48.75
+29,OCEAN,0530,Brick Township Public School District,060,Midstreams Elementary School,KG-05,45.0
+29,OCEAN,0530,Brick Township Public School District,070,Osbornville Elementary School,KG-05,54.0
+29,OCEAN,0530,Brick Township Public School District,080,Veterans Memorial Elementary School,KG-05,47.0
+29,OCEAN,0530,Brick Township Public School District,090,Veterans Memorial Middle School,06-08,50.0
+29,OCEAN,0770,Central Regional School District,050,Central Regional Middle School,07-08,41.25
+29,OCEAN,1150,Eagleswood Township School District,020,Eagleswood Elementary School,PK-06,63.25
+29,OCEAN,2350,Island Heights School District,050,Island Heights Elementary School,KG-06,71.0
+29,OCEAN,2360,Jackson Township School District,030,Crawford-Rodriguez Elementary School,PK-05,55.75
+29,OCEAN,2360,Jackson Township School District,035,Elms Elementary School,PK-05,66.0
+29,OCEAN,2360,Jackson Township School District,040,Sylvia Rosenauer Elementary School,PK-05,40.75
+29,OCEAN,2360,Jackson Township School District,044,Howard C. Johnson Elementary School,KG-05,56.0
+29,OCEAN,2360,Jackson Township School District,046,Lucy N. Holman Elementary School,KG-05,68.0
+29,OCEAN,2360,Jackson Township School District,048,Christa McAuliffe Middle School,06-08,46.5
+29,OCEAN,2360,Jackson Township School District,050,Switlik Elementary School,KG-05,64.5
+29,OCEAN,2360,Jackson Township School District,055,Carl W. Goetz Middle School,06-08,43.5
+29,OCEAN,2480,Lacey Township School District,040,Cedar Creek Elementary School,KG-04,59.0
+29,OCEAN,2480,Lacey Township School District,050,Forked River Elementary School,KG-04,50.5
+29,OCEAN,2480,Lacey Township School District,053,Lacey Township Middle School,07-08,52.25
+29,OCEAN,2480,Lacey Township School District,055,Mill Pond Elementary School,PK-06,37.0
+29,OCEAN,2480,Lacey Township School District,060,Lanoka Harbor Elementary School,KG-04,52.0
+29,OCEAN,2500,Lakehurst School District,050,Lakehurst Elementary School,PK-08,49.5
+29,OCEAN,2520,Lakewood Township School District,070,Clifton Ave Grade School,02-05,56.75
+29,OCEAN,2520,Lakewood Township School District,080,Ella G Clarke Elementary School,02-05,58.5
+29,OCEAN,2520,Lakewood Township School District,083,Lakewood Middle School,06-08,57.0
+29,OCEAN,2520,Lakewood Township School District,084,Oak Street Elem School,01-05,48.0
+29,OCEAN,2550,Lavallette Borough School District,050,Lavallette Elementary School,KG-08,67.0
+29,OCEAN,2690,Little Egg Harbor Township School District,030,Frog Pond Elementary School,04-06,52.0
+29,OCEAN,2760,Long Beach Island Consolidated School District,050,Long Beach Island Grade School,03-06,46.25
+29,OCEAN,2940,Manchester Township School District,043,Manchester Township Elementary School,KG-05,55.75
+29,OCEAN,2940,Manchester Township School District,045,Manchester Township Middle School,06-08,44.0
+29,OCEAN,2940,Manchester Township School District,050,Ridgeway Elementary School,PK-05,38.0
+29,OCEAN,2940,Manchester Township School District,060,Whiting Elementary School,PK-05,44.5
+29,OCEAN,3800,Ocean Gate School District,050,Ocean Gate Elementary School,PK-06,45.5
+29,OCEAN,3820,Ocean Township School District,030,Frederic A. Priff Elementary School,04-06,42.25
+29,OCEAN,4105,Pinelands Regional School District,060,Pinelands Regional Jr. High School,07-09,40.5
+29,OCEAN,4190,Plumsted Township School District,050,Dr. Gerald H. Woehr Elementary School,KG-05,56.0
+29,OCEAN,4190,Plumsted Township School District,080,New Egypt Middle School,06-08,36.25
+29,OCEAN,4210,Point Pleasant Borough School District,050,Memorial Middle School,06-08,51.25
+29,OCEAN,4210,Point Pleasant Borough School District,055,Nellie F. Bennett Elementary School,PK-05,55.5
+29,OCEAN,4210,Point Pleasant Borough School District,060,Ocean Road Elementary School,PK-05,66.5
+29,OCEAN,4220,Point Pleasant Beach School District,060,G. Harold Antrim Elementary School,PK-08,50.5
+29,OCEAN,4710,Seaside Heights School District,050,Hugh J. Boyd Jr. Elementary School,PK-06,39.0
+29,OCEAN,4950,Southern Regional School District,060,Southern Regional Middle School,07-08,40.5
+29,OCEAN,5020,Stafford Township School District,060,McKinley Avenue Elementary School,03-04,54.75
+29,OCEAN,5020,Stafford Township School District,070,Stafford Intermediate School,05-06,51.0
+29,OCEAN,5190,Toms River Regional School District,060,Toms River Intermediate School East,06-08,43.0
+29,OCEAN,5190,Toms River Regional School District,061,Toms River Intermediate School South,06-08,45.5
+29,OCEAN,5190,Toms River Regional School District,063,Toms River Intermediate School North,06-08,47.0
+29,OCEAN,5190,Toms River Regional School District,064,Beachwood Elementary School,KG-05,42.25
+29,OCEAN,5190,Toms River Regional School District,065,Cedar Grove Elementary School,PK-05,52.25
+29,OCEAN,5190,Toms River Regional School District,067,Joseph A. Citta Elementary School,KG-05,40.0
+29,OCEAN,5190,Toms River Regional School District,070,East Dover Elementary School,PK-05,48.0
+29,OCEAN,5190,Toms River Regional School District,075,Hooper Avenue Elementary School,KG-05,56.0
+29,OCEAN,5190,Toms River Regional School District,080,North Dover Elementary School,KG-05,51.25
+29,OCEAN,5190,Toms River Regional School District,090,Pine Beach Elementary School,KG-05,43.5
+29,OCEAN,5190,Toms River Regional School District,095,Silver Bay Elementary School,PK-05,41.25
+29,OCEAN,5190,Toms River Regional School District,100,South Toms River Elementary School,KG-05,47.0
+29,OCEAN,5190,Toms River Regional School District,107,Walnut Street Elementary School,KG-05,50.0
+29,OCEAN,5190,Toms River Regional School District,110,Washington Street Elementary School,KG-05,49.0
+29,OCEAN,5190,Toms River Regional School District,120,West Dover Elementary School,KG-05,36.25
+29,OCEAN,5220,Tuckerton Borough School District,050,Tuckerton Elementary School,PK-06,54.5
+31,PASSAIC,0420,Bloomingdale School District,030,Samuel R. Donald Elementary School,02-04,47.0
+31,PASSAIC,0420,Bloomingdale School District,050,Walter T. Bergen Middle School,05-08,44.75
+31,PASSAIC,0900,Clifton Public School District,035,Christopher Columbus Middle School,06-08,43.5
+31,PASSAIC,0900,Clifton Public School District,070,Woodrow Wilson Middle School,06-08,43.5
+31,PASSAIC,0900,Clifton Public School District,080,School #1,KG-05,51.25
+31,PASSAIC,0900,Clifton Public School District,090,School #2,KG-05,59.5
+31,PASSAIC,0900,Clifton Public School District,100,School #3,KG-05,50.75
+31,PASSAIC,0900,Clifton Public School District,110,School #4,KG-05,36.5
+31,PASSAIC,0900,Clifton Public School District,120,School #5,KG-05,48.5
+31,PASSAIC,0900,Clifton Public School District,140,School #8,PK-05,41.5
+31,PASSAIC,0900,Clifton Public School District,150,School #9,PK-05,43.0
+31,PASSAIC,0900,Clifton Public School District,160,School #11,KG-05,59.5
+31,PASSAIC,0900,Clifton Public School District,170,School #12,PK-05,47.0
+31,PASSAIC,0900,Clifton Public School District,180,School #13,KG-05,53.5
+31,PASSAIC,0900,Clifton Public School District,190,School #14,PK-05,49.5
+31,PASSAIC,0900,Clifton Public School District,200,School #15,PK-05,58.0
+31,PASSAIC,0900,Clifton Public School District,210,School #16,PK-05,39.5
+31,PASSAIC,0900,Clifton Public School District,230,School #17,PK-05,42.0
+31,PASSAIC,1920,Haledon Public School District,015,Haledon Public School,PK-08,43.75
+31,PASSAIC,2100,Hawthorne Public School District,070,Lincoln Middle School,06-08,49.0
+31,PASSAIC,2100,Hawthorne Public School District,080,Roosevelt Elementary School,KG-05,45.5
+31,PASSAIC,2100,Hawthorne Public School District,090,Thomas Jefferson Elementary School,PK-05,51.75
+31,PASSAIC,2100,Hawthorne Public School District,100,Washington Elementary School,KG-05,44.0
+31,PASSAIC,2700,Little Falls Township Public School District,050,Little Falls Township Public School # 1,05-08,56.5
+31,PASSAIC,2700,Little Falls Township Public School District,070,Little Falls Township Public School # 3,03-04,44.0
+31,PASSAIC,3640,North Haledon School District,050,High Mountain School,05-08,45.0
+31,PASSAIC,3640,North Haledon School District,060,Memorial Elementary School,PK-04,65.25
+31,PASSAIC,3970,Passaic City School District,080,Thomas Jefferson School No. 1,KG-08,43.5
+31,PASSAIC,3970,Passaic City School District,090,Mario Drago School No. 3,PK-08,44.75
+31,PASSAIC,3970,Passaic City School District,097,School No. 5,KG-08,54.5
+31,PASSAIC,3970,Passaic City School District,100,"Martin Luther King, Jr. School No. 6",PK-08,40.0
+31,PASSAIC,3970,Passaic City School District,120,Casimir Pulaski School No. 8,PK-08,41.0
+31,PASSAIC,3970,Passaic City School District,125,Etta Gero School No. 9,02-08,42.5
+31,PASSAIC,3970,Passaic City School District,130,Theodore Roosevelt School No. 10,PK-08,44.25
+31,PASSAIC,3970,Passaic City School District,140,William B. Cruise Memorial School No. 11,KG-08,47.0
+31,PASSAIC,3970,Passaic City School District,200,Daniel F. Ryan Elementary School No. 19,PK-08,57.75
+31,PASSAIC,3970,Passaic City School District,300,Passaic Gifted and Talented Academy School No. 20,02-08,42.0
+31,PASSAIC,3970,Passaic City School District,301,Passaic Academy for Science and Engineering,06-11,59.25
+31,PASSAIC,3970,Passaic City School District,302,Passaic Preparatory Academy,06-11,51.0
+31,PASSAIC,4010,Paterson Public School District,043,Alexander Hamilton Academy,KG-08,52.5
+31,PASSAIC,4010,Paterson Public School District,050,School 1,PK-05,59.25
+31,PASSAIC,4010,Paterson Public School District,060,School 2,KG-08,44.25
+31,PASSAIC,4010,Paterson Public School District,061,URBAN Leadership Academy,KG-04,35.0
+31,PASSAIC,4010,Paterson Public School District,070,School 3,KG-08,51.0
+31,PASSAIC,4010,Paterson Public School District,080,"Rev. Dr. Frank Napier, Jr. School",02-08,41.5
+31,PASSAIC,4010,Paterson Public School District,090,School 5,KG-05,60.5
+31,PASSAIC,4010,Paterson Public School District,100,Senator Frank Lautenberg School,KG-08,45.0
+31,PASSAIC,4010,Paterson Public School District,110,School 7,05-08,52.25
+31,PASSAIC,4010,Paterson Public School District,120,School 8,KG-08,53.0
+31,PASSAIC,4010,Paterson Public School District,130,"Charles J. Riley, School 9",PK-08,61.0
+31,PASSAIC,4010,Paterson Public School District,140,School 10,KG-08,41.0
+31,PASSAIC,4010,Paterson Public School District,150,Newcomers,03-08,33.0
+31,PASSAIC,4010,Paterson Public School District,160,School 12,KG-08,44.5
+31,PASSAIC,4010,Paterson Public School District,170,School 13,KG-08,46.5
+31,PASSAIC,4010,Paterson Public School District,180,School 14,KG-04,20.75
+31,PASSAIC,4010,Paterson Public School District,190,School 15,PK-05,46.75
+31,PASSAIC,4010,Paterson Public School District,220,School 18,PK-08,47.5
+31,PASSAIC,4010,Paterson Public School District,230,School 19,KG-04,35.25
+31,PASSAIC,4010,Paterson Public School District,240,School 20,KG-08,45.5
+31,PASSAIC,4010,Paterson Public School District,250,School 21,PK-08,40.5
+31,PASSAIC,4010,Paterson Public School District,270,School 24,PK-08,50.0
+31,PASSAIC,4010,Paterson Public School District,280,School 25,PK-08,48.0
+31,PASSAIC,4010,Paterson Public School District,290,School 26,KG-08,36.75
+31,PASSAIC,4010,Paterson Public School District,300,School 27,PK-06,55.0
+31,PASSAIC,4010,Paterson Public School District,301,Don Bosco Academy,06-08,36.5
+31,PASSAIC,4010,Paterson Public School District,303,Young Men's Academy,03-08,52.0
+31,PASSAIC,4010,Paterson Public School District,309,School 16,PK-08,55.25
+31,PASSAIC,4010,Paterson Public School District,310,School 28,PK-08,62.75
+31,PASSAIC,4010,Paterson Public School District,311,School 29,KG-04,47.75
+31,PASSAIC,4010,Paterson Public School District,312,"Dr. Martin Luther King, Jr. Educational Complex",PK-08,28.75
+31,PASSAIC,4010,Paterson Public School District,313,Dr. Hani Awadallah School,KG-08,51.0
+31,PASSAIC,4010,Paterson Public School District,315,Roberto Clemente,KG-05,61.0
+31,PASSAIC,4010,Paterson Public School District,316,New Roberto Clemente,06-08,46.5
+31,PASSAIC,4010,Paterson Public School District,325,Norman S. Weir,KG-08,56.0
+31,PASSAIC,4230,Pompton Lakes School District,055,Lakeside School,06-08,55.5
+31,PASSAIC,4230,Pompton Lakes School District,060,Lenox School,KG-05,55.0
+31,PASSAIC,4230,Pompton Lakes School District,070,Lincoln School,PK-05,59.5
+31,PASSAIC,4270,Prospect Park Public School District,010,Prospect Park School No. 1,PK-08,48.5
+31,PASSAIC,4400,Ringwood School District,050,Eleanor G. Hewitt,04-05,50.0
+31,PASSAIC,4400,Ringwood School District,053,Martin J. Ryerson School,06-08,49.0
+31,PASSAIC,5200,Totowa Public School District,060,Washington Park School,03-08,55.0
+31,PASSAIC,5440,Wanaque School District,050,Haskell Elementary School,PK-08,50.0
+31,PASSAIC,5440,Wanaque School District,070,Wanaque Elementary School,PK-08,52.0
+31,PASSAIC,5570,Wayne Township Public School District,065,Anthony Wayne Middle School,06-08,61.0
+31,PASSAIC,5570,Wayne Township Public School District,078,Albert Payson Terhune Elementary,PK-05,62.25
+31,PASSAIC,5570,Wayne Township Public School District,083,George Washington Middle School,06-08,57.75
+31,PASSAIC,5570,Wayne Township Public School District,085,James Fallon Elementary School,KG-05,57.0
+31,PASSAIC,5570,Wayne Township Public School District,087,John F. Kennedy Elementary School,KG-05,47.0
+31,PASSAIC,5570,Wayne Township Public School District,090,Lafayette Elementary School,PK-05,50.0
+31,PASSAIC,5570,Wayne Township Public School District,110,Packanack Elementary School,PK-05,46.0
+31,PASSAIC,5570,Wayne Township Public School District,120,Pines Lake Elementary School,KG-05,45.0
+31,PASSAIC,5570,Wayne Township Public School District,135,Randall Carter Elementary School,PK-05,43.0
+31,PASSAIC,5570,Wayne Township Public School District,140,Ryerson Elementary School,PK-05,47.5
+31,PASSAIC,5570,Wayne Township Public School District,145,Schuyler Colfax Middle School,06-08,56.25
+31,PASSAIC,5570,Wayne Township Public School District,150,Theunis Dey Elementary School,PK-05,56.5
+31,PASSAIC,5650,West Milford Township Public School District,042,Apshawa Elementary School,KG-06,61.5
+31,PASSAIC,5650,West Milford Township Public School District,055,Macopin Middle School,07-08,56.25
+31,PASSAIC,5650,West Milford Township Public School District,060,Maple Road Elementary School,PK-06,66.5
+31,PASSAIC,5650,West Milford Township Public School District,070,Marshall Hill Elementary School,KG-06,41.5
+31,PASSAIC,5650,West Milford Township Public School District,080,Paradise Knoll Elementary School,KG-06,56.5
+31,PASSAIC,5650,West Milford Township Public School District,090,Upper Greenwood Lake Elementary School,PK-06,34.5
+31,PASSAIC,5650,West Milford Township Public School District,100,Westbrook Elementary School,KG-06,59.0
+31,PASSAIC,5690,Woodland Park School District,060,Beatrice Gilmore School,03-04,38.0
+31,PASSAIC,5690,Woodland Park School District,070,Memorial Middle School,05-08,54.75
+33,SALEM,0060,Alloway Twp School District,020,Alloway Township School,PK-08,45.5
+33,SALEM,1350,Elsinboro Township School District,050,Elsinboro Township School,KG-08,62.0
+33,SALEM,2800,The Lower Alloways Creek School District,050,Lower Alloways Creek Elementary School,PK-08,47.25
+33,SALEM,2950,Mannington Township School District,050,Mannington Township Elementary School,PK-08,48.0
+33,SALEM,3860,Oldmans Township School District,010,Oldmans Township School,PK-08,49.75
+33,SALEM,4070,Penns Grove-Carneys Point Regional School District,080,Paul W Carleton,04-05,34.25
+33,SALEM,4070,Penns Grove-Carneys Point Regional School District,105,Penns Grove Middle School,06-08,32.0
+33,SALEM,4075,Pennsville Public School District,055,Pennsville Middle School,06-08,31.0
+33,SALEM,4075,Pennsville Public School District,078,Penn Beach Elementary,04-05,58.5
+33,SALEM,4150,Pittsgrove Township School District,060,Olivet Elementary School,02-04,47.0
+33,SALEM,4150,Pittsgrove Township School District,070,Pittsgrove Township Middle School,05-08,45.5
+33,SALEM,4280,Quinton Township School District,050,Quinton Township School,PK-08,47.0
+33,SALEM,4630,Salem City School District,090,Salem Middle School,03-08,35.5
+33,SALEM,5320,UPPER PITTSGROVE TWP School District,070,Upper Pittsgrove School,PK-08,51.5
+33,SALEM,5910,Woodstown-Pilesgrove Regional School District,060,Mary S. Shoemaker School,01-05,47.75
+33,SALEM,5910,Woodstown-Pilesgrove Regional School District,070,Woodstown Middle School,06-08,51.5
+35,SOMERSET,0240,Bedminster Township Public School District,020,Bedminster Township Public School,PK-08,60.5
+35,SOMERSET,0350,Bernards Township School District,055,William Annin Middle School,06-08,54.5
+35,SOMERSET,0350,Bernards Township School District,060,Oak Street School,KG-05,60.75
+35,SOMERSET,0350,Bernards Township School District,070,Cedar Hill School,KG-05,68.5
+35,SOMERSET,0350,Bernards Township School District,080,Liberty Corner School,KG-05,57.5
+35,SOMERSET,0350,Bernards Township School District,100,Mount Prospect Elementary School,PK-05,62.5
+35,SOMERSET,0490,Bound Brook School District,302,Community Middle School,07-08,50.5
+35,SOMERSET,0490,Bound Brook School District,303,Smalley Elementary School,04-06,57.0
+35,SOMERSET,0510,Branchburg Township School District,020,Branchburg Central Middle School,06-08,65.25
+35,SOMERSET,0510,Branchburg Township School District,060,Stony Brook School,04-05,67.5
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,010,Bridgewater-Raritan Middle School,07-08,53.0
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,030,Adamsville Primary School,PK-04,53.25
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,040,Bradley Gardens Primary School,PK-04,68.0
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,045,Crim Primary School,PK-04,55.25
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,048,Eisenhower Intermediate School,05-06,49.0
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,063,Hamilton Primary School,KG-04,56.25
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,065,Hillside Intermediate School,05-06,53.5
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,067,John F. Kennedy Primary School,KG-04,46.5
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,085,Milltown Primary School,PK-04,65.25
+35,SOMERSET,0555,Bridgewater-Raritan Regional School District,105,Van Holten Primary School,KG-04,52.0
+35,SOMERSET,1610,Franklin Township Public Schools,055,Conerly Road School,PK-05,39.5
+35,SOMERSET,1610,Franklin Township Public Schools,070,Elizabeth Avenue School,PK-05,54.75
+35,SOMERSET,1610,Franklin Township Public Schools,080,Franklin Park School,PK-05,49.5
+35,SOMERSET,1610,Franklin Township Public Schools,100,Hillcrest School,PK-05,61.5
+35,SOMERSET,1610,Franklin Township Public Schools,115,MacAfee Road School,PK-05,50.0
+35,SOMERSET,1610,Franklin Township Public Schools,140,Pine Grove Manor School,PK-05,50.0
+35,SOMERSET,1610,Franklin Township Public Schools,150,Franklin Middle School at Sampson G. Smith Campus,06-08,47.5
+35,SOMERSET,1610,Franklin Township Public Schools,160,Franklin Middle School at Hamilton Street Campus,06-08,41.0
+35,SOMERSET,1610,Franklin Township Public Schools,300,Claremont Elementary School,PK-05,49.5
+35,SOMERSET,1810,Green Brook Township Public School District,030,Green Brook Middle School,05-08,59.0
+35,SOMERSET,1810,Green Brook Township Public School District,050,Irene E. Feldkirchner Elementary School,PK-04,47.0
+35,SOMERSET,2170,Hillsborough Township Public School District,033,Amsterdam Elementary School,KG-04,56.0
+35,SOMERSET,2170,Hillsborough Township Public School District,034,Auten Road Intermediate School,05-06,55.0
+35,SOMERSET,2170,Hillsborough Township Public School District,035,Hillsborough Township Middle School,07-08,55.0
+35,SOMERSET,2170,Hillsborough Township Public School District,040,Hillsborough Township Elementary School,KG-04,50.0
+35,SOMERSET,2170,Hillsborough Township Public School District,060,Sunnymead Elementary School,PK-04,69.5
+35,SOMERSET,2170,Hillsborough Township Public School District,070,Triangle Elementary Shcool,KG-04,56.0
+35,SOMERSET,2170,Hillsborough Township Public School District,080,Woodfern Elementary School,KG-04,66.5
+35,SOMERSET,2170,Hillsborough Township Public School District,085,Woods Road Elementary School,PK-04,62.75
+35,SOMERSET,3000,Manville School District,065,Alexander Batcho Intermediate School,05-08,44.0
+35,SOMERSET,3000,Manville School District,080,Roosevelt School,03-04,28.0
+35,SOMERSET,3320,Montgomery Township School District,045,Montgomery Lower Middle School,05-06,60.5
+35,SOMERSET,3320,Montgomery Township School District,070,Montgomery Upper Middle School,07-08,52.0
+35,SOMERSET,3320,Montgomery Township School District,105,Village Elementary School,03-04,63.0
+35,SOMERSET,3670,North Plainfield School District,060,East End School,PK-04,43.5
+35,SOMERSET,3670,North Plainfield School District,080,Somerset School,05-06,41.75
+35,SOMERSET,3670,North Plainfield School District,090,Stony Brook School,PK-04,45.5
+35,SOMERSET,3670,North Plainfield School District,110,West End School,PK-04,47.0
+35,SOMERSET,3670,North Plainfield School District,300,North Plainfield Middle School,07-08,47.25
+35,SOMERSET,4815,Somerset Hills Regional School District,030,Marion T. Bedwell Elementary School,PK-04,48.75
+35,SOMERSET,4815,Somerset Hills Regional School District,040,Bernardsville Middle School,05-08,56.0
+35,SOMERSET,4820,Somerville Public School District,055,Somerville Middle School,06-08,41.75
+35,SOMERSET,4820,Somerville Public School District,090,Van Derveer Elementary School,PK-05,58.5
+35,SOMERSET,4850,South Bound Brook Public Schools,060,Robert Morris School,PK-08,52.75
+35,SOMERSET,5470,Warren Township School District,030,Central School,KG-05,59.5
+35,SOMERSET,5470,Warren Township School District,033,Warren Middle School,06-08,55.0
+35,SOMERSET,5470,Warren Township School District,035,Mt. Horeb School,PK-05,58.5
+35,SOMERSET,5470,Warren Township School District,040,Angelo L. Tomaso School,KG-05,55.0
+35,SOMERSET,5470,Warren Township School District,050,Woodland School,KG-05,40.5
+35,SOMERSET,5540,Watchung Borough Public School District,040,Bayberry School,PK-04,54.0
+35,SOMERSET,5540,Watchung Borough Public School District,050,Valley View School,05-08,65.25
+37,SUSSEX,0090,Andover Regional School District,010,Florence M. Burd,PK-04,64.5
+37,SUSSEX,0090,Andover Regional School District,040,Long Pond School,05-08,65.25
+37,SUSSEX,0640,Byram Township School District,010,Byram Lakes Elementary School,PK-04,70.25
+37,SUSSEX,0640,Byram Township School District,030,Byram Intermediate School,05-08,48.0
+37,SUSSEX,1560,Frankford Township Consolidated School District,050,Frankford Township School,PK-08,54.75
+37,SUSSEX,1570,Franklin Borough School District,060,Franklin Borough School,PK-08,54.25
+37,SUSSEX,1630,Fredon Township School District,050,Fredon Township School,PK-06,51.25
+37,SUSSEX,1800,Green Township School District,060,Green Hills School,KG-08,64.25
+37,SUSSEX,1930,Hamburg School District,060,Hamburg School,PK-08,61.0
+37,SUSSEX,1980,Hampton Township School District,050,Marian E. Mckeown Elementary School,KG-06,44.0
+37,SUSSEX,2030,Hardyston Township School District,030,Hardyston Township Middle School,05-08,49.5
+37,SUSSEX,2030,Hardyston Township School District,050,Hardyston Township Elementary School,PK-04,55.0
+37,SUSSEX,2240,Hopatcong Borough School District,035,Durban Avenue Elementary School,04-05,46.0
+37,SUSSEX,2240,Hopatcong Borough School District,040,Hopatcong Middle School,06-08,42.5
+37,SUSSEX,2465,Kittatinny Regional School District,050,Kittatinny Regional High School,07-12,30.5
+37,SUSSEX,2490,Lafayette Township School District,050,Lafayette Township School,PK-08,62.0
+37,SUSSEX,3300,Montague Township School District,050,Montague Township School,PK-08,45.0
+37,SUSSEX,3590,Newton Public School District,060,Halsted Middle School,05-08,43.0
+37,SUSSEX,3590,Newton Public School District,070,Merriam Avenue School,PK-04,49.25
+37,SUSSEX,3840,Ogdensburg Borough School District,050,Ogdensburg Borough School,PK-08,46.0
+37,SUSSEX,4650,Sandyston-Walpack Consolidated School District,050,Sandyston Walpack Consolidated School,KG-06,61.5
+37,SUSSEX,4960,Sparta Township Public School District,057,Sparta Middle School,06-08,42.5
+37,SUSSEX,4960,Sparta Township Public School District,060,Helen Morgan School,04-05,63.0
+37,SUSSEX,5030,Stanhope School District,050,Valley Road School,PK-08,63.75
+37,SUSSEX,5040,Stillwater Township School District,050,Stillwater Township School,PK-06,56.5
+37,SUSSEX,5100,Sussex-Wantage Regional School District,060,Sussex Middle School,06-08,41.25
+37,SUSSEX,5100,Sussex-Wantage Regional School District,070,Wantage Elementary School,03-05,47.5
+37,SUSSEX,5360,Vernon Township School District,025,Glen Meadow Middle School,06-08,50.5
+37,SUSSEX,5360,Vernon Township School District,030,Lounsberry Hollow School,04-05,45.5
+39,UNION,0310,Berkeley Heights School District,020,Thomas P. Hughes School,02-05,55.5
+39,UNION,0310,Berkeley Heights School District,030,Columbia Middle School,06-08,48.5
+39,UNION,0310,Berkeley Heights School District,040,Mountain Park School,02-05,61.5
+39,UNION,0310,Berkeley Heights School District,050,William Woodruff School,02-05,51.0
+39,UNION,0850,Clark Township Public School District,030,Frank K. Hehnly,KG-05,58.5
+39,UNION,0850,Clark Township Public School District,035,Carl H. Kumpf School,06-08,53.0
+39,UNION,0850,Clark Township Public School District,040,Valley Road School,KG-05,58.75
+39,UNION,0980,Cranford Public School District,033,Hillside Avenue School,KG-08,43.5
+39,UNION,0980,Cranford Public School District,037,Orange Avenue School,03-08,55.0
+39,UNION,0980,Cranford Public School District,050,Brookside Place School,KG-05,58.75
+39,UNION,0980,Cranford Public School District,080,Livingston Avenue School,03-05,61.75
+39,UNION,1320,Elizabeth Public Schools,030,Terence C. Reilly School No 7,PK-08,58.5
+39,UNION,1320,Elizabeth Public Schools,035,Joseph Battin School No 4,KG-08,55.5
+39,UNION,1320,Elizabeth Public Schools,090,George Washington Academy School No. 1,PK-08,55.75
+39,UNION,1320,Elizabeth Public Schools,100,Winfield Scott School No. 2,PK-08,50.75
+39,UNION,1320,Elizabeth Public Schools,110,Nicholas S. Lacorte-Peterstown School No. 3,KG-08,57.0
+39,UNION,1320,Elizabeth Public Schools,120,Toussaint Louverture-Marquis de Lafayette School No. 6,PK-08,45.5
+39,UNION,1320,Elizabeth Public Schools,150,Elmora School No. 12,PK-08,48.75
+39,UNION,1320,Elizabeth Public Schools,160,Benjamin Franklin School No. 13,KG-08,53.5
+39,UNION,1320,Elizabeth Public Schools,170,Abraham Lincoln School No. 14,KG-08,50.5
+39,UNION,1320,Elizabeth Public Schools,180,Christopher Columbus School No. 15,KG-08,45.0
+39,UNION,1320,Elizabeth Public Schools,190,Madison Monroe School No. 16,PK-08,58.0
+39,UNION,1320,Elizabeth Public Schools,210,Robert Morris School No. 18,KG-08,52.75
+39,UNION,1320,Elizabeth Public Schools,220,Woodrow Wilson School No. 19,PK-08,49.75
+39,UNION,1320,Elizabeth Public Schools,230,John Marshal School No. 20,KG-08,59.0
+39,UNION,1320,Elizabeth Public Schools,240,Victor Mravlag School No. 21,PK-08,53.75
+39,UNION,1320,Elizabeth Public Schools,250,William F. Halloran School No.22,PK-08,53.0
+39,UNION,1320,Elizabeth Public Schools,260,Nicholas Murray Butler Academy School No. 23,PK-08,46.5
+39,UNION,1320,Elizabeth Public Schools,280,School No. 25,KG-08,57.25
+39,UNION,1320,Elizabeth Public Schools,290,Dr. Orlando Edreira Academy School No. 26,PK-08,47.5
+39,UNION,1320,Elizabeth Public Schools,295,Dr. Albert Einstein Academy School No. 29,PK-08,50.25
+39,UNION,1320,Elizabeth Public Schools,300,Mabel G. Homes School No. 5,PK-08,54.5
+39,UNION,1320,Elizabeth Public Schools,301,iPrep Academy School No 8,KG-08,57.5
+39,UNION,1320,Elizabeth Public Schools,302,Jerome Dunn Academy No 9,KG-08,56.25
+39,UNION,1320,Elizabeth Public Schools,305,Ronald Reagan Academy School No. 30,PK-08,50.5
+39,UNION,1320,Elizabeth Public Schools,310,Dr. Antonia Pantoja School No. 27,PK-08,62.5
+39,UNION,1320,Elizabeth Public Schools,315,Juan Pablo Duarte - Jose Julian Marti School No 28,PK-08,49.0
+39,UNION,1710,Garwood Boro,050,Lincoln,PK-08,51.25
+39,UNION,2190,Hillside Public School District,080,Hurden Looker School,03-04,48.0
+39,UNION,2190,Hillside Public School District,085,Walter O. Krumbiegel Middle School,07-08,45.0
+39,UNION,2190,Hillside Public School District,110,George Washington School,05-06,43.0
+39,UNION,2420,Kenilworth School District,010,David Brearley Middle/High School,07-12,30.75
+39,UNION,2420,Kenilworth School District,050,Warren G. Harding Elementary School,PK-06,55.75
+39,UNION,2660,Linden Public School District,060,Myles J. McManus MIddle School,06-08,36.25
+39,UNION,2660,Linden Public School District,070,Joseph E. Soehl Middle School,06-08,39.0
+39,UNION,2660,Linden Public School District,080,Number 1,PK-05,45.75
+39,UNION,2660,Linden Public School District,090,Number 2,PK-05,44.75
+39,UNION,2660,Linden Public School District,115,Number 4,PK-05,45.0
+39,UNION,2660,Linden Public School District,120,Number 5,PK-05,70.5
+39,UNION,2660,Linden Public School District,130,Number 6,PK-05,58.75
+39,UNION,2660,Linden Public School District,150,Number 8,PK-05,54.0
+39,UNION,2660,Linden Public School District,160,Number 9,PK-05,56.0
+39,UNION,2660,Linden Public School District,170,Number 10,PK-05,49.0
+39,UNION,3470,Mountainside School District,030,Deerfield Elementary School,03-08,64.0
+39,UNION,3560,New Providence School District,055,Allen W. Roberts School,PK-06,61.0
+39,UNION,3560,New Providence School District,080,New Providence Middle School,07-08,52.5
+39,UNION,3560,New Providence School District,090,Salt Brook School,KG-06,60.0
+39,UNION,4160,Plainfield Public School District,052,Plainfield Academy For The Arts & Advanced Studies,07-12,54.25
+39,UNION,4160,Plainfield Public School District,060,Hubbard Middle School,06-08,40.0
+39,UNION,4160,Plainfield Public School District,070,Maxson Middle School,06-08,43.5
+39,UNION,4160,Plainfield Public School District,080,Dewitt D. Barlow Elementary School,KG-05,40.25
+39,UNION,4160,Plainfield Public School District,100,Cedarbrook Elementary School,KG-08,39.5
+39,UNION,4160,Plainfield Public School District,110,Clinton Elementary School,PK-05,42.5
+39,UNION,4160,Plainfield Public School District,120,Frederic W. Cook Elementary School,KG-05,31.0
+39,UNION,4160,Plainfield Public School District,130,Emerson Elementary School,PK-05,39.75
+39,UNION,4160,Plainfield Public School District,140,Evergreen Elementary School,KG-05,48.0
+39,UNION,4160,Plainfield Public School District,150,Jefferson Elementary School,PK-05,29.25
+39,UNION,4160,Plainfield Public School District,170,Charles H. Stillman Elementary School,KG-05,30.5
+39,UNION,4160,Plainfield Public School District,180,Washington Community School,PK-05,47.5
+39,UNION,4290,Rahway Public School District,060,Rahway 7th & 8th Grade Academy,PK-08,46.0
+39,UNION,4290,Rahway Public School District,080,Franklin Elementary School,PK-06,51.0
+39,UNION,4290,Rahway Public School District,090,Grover Cleveland Elementary School,PK-06,52.5
+39,UNION,4290,Rahway Public School District,110,Madison Elementary,PK-06,47.0
+39,UNION,4290,Rahway Public School District,120,Roosevelt Elementary School,PK-06,42.5
+39,UNION,4540,Roselle Public Schools,020,Harrison Elementary School,01-04,49.0
+39,UNION,4540,Roselle Public Schools,030,Dr. Charles C. Polk School,01-04,43.5
+39,UNION,4540,Roselle Public Schools,040,Leonard V Moore Middle School,05-06,33.5
+39,UNION,4540,Roselle Public Schools,050,Washington Elementary School,01-04,55.75
+39,UNION,4540,Roselle Public Schools,060,Grace Wilday Junior High School,07-08,50.0
+39,UNION,4550,Roselle Park Public School District,060,"Ernest J. Finizio, Jr. - Aldene School",PK-05,49.0
+39,UNION,4550,Roselle Park Public School District,080,Robert Gordon Elementary School,PK-05,51.0
+39,UNION,4550,Roselle Park Public School District,085,Roselle Park Middle School,06-08,57.0
+39,UNION,4550,Roselle Park Public School District,090,Sherman Elementary School,PK-05,59.25
+39,UNION,4670,Scotch Plains-Fanwood School District,060,Park Middle School,05-08,53.0
+39,UNION,4670,Scotch Plains-Fanwood School District,065,Terrill Middle School,05-08,47.75
+39,UNION,4670,Scotch Plains-Fanwood School District,070,School One Elementary,PK-04,63.75
+39,UNION,4670,Scotch Plains-Fanwood School District,080,Howard B. Brunner Elementary School,PK-04,49.5
+39,UNION,4670,Scotch Plains-Fanwood School District,085,J. Ackerman Coles Elementary School,PK-04,50.5
+39,UNION,4670,Scotch Plains-Fanwood School District,090,Evergreen Elementary School,PK-04,56.0
+39,UNION,4670,Scotch Plains-Fanwood School District,105,William J. McGinn Elementary School,KG-04,70.5
+39,UNION,5000,Springfield Public School District,060,Florence M. Gaudineer Middle School,06-08,43.5
+39,UNION,5000,Springfield Public School District,070,James Caldwell Elementary School,03-05,53.5
+39,UNION,5000,Springfield Public School District,090,Thelma L. Sandmeier Elementary School,03-05,59.5
+39,UNION,5090,Summit Public School District,060,Lawton C. Johnson Summit Middle School,06-08,49.0
+39,UNION,5090,Summit Public School District,070,Brayton Elementary School,01-05,59.5
+39,UNION,5090,Summit Public School District,080,Franklin Elementary School,01-05,61.0
+39,UNION,5090,Summit Public School District,090,Jefferson Elementary School,01-05,56.25
+39,UNION,5090,Summit Public School District,100,Lincoln-Hubbard Elementary School,01-05,63.0
+39,UNION,5090,Summit Public School District,120,Washington Elementary School,01-05,50.0
+39,UNION,5290,Township of Union School District,060,Burnet Middle School,06-08,42.5
+39,UNION,5290,Township of Union School District,070,Kawameeh Middle School,06-08,48.5
+39,UNION,5290,Township of Union School District,080,Battle Hill Elementary,PK-04,45.0
+39,UNION,5290,Township of Union School District,083,Hannah Caldwell Elementary,PK-04,41.0
+39,UNION,5290,Township of Union School District,085,Jefferson Elementary,05-05,43.0
+39,UNION,5290,Township of Union School District,090,Connecticut Farms Elementary,PK-05,52.25
+39,UNION,5290,Township of Union School District,100,Franklin Elementary,PK-04,40.5
+39,UNION,5290,Township of Union School District,130,Livingston Elementary,PK-04,60.5
+39,UNION,5290,Township of Union School District,140,Washington Elementary,PK-04,55.0
+39,UNION,5730,Westfield Public School District,060,Roosevelt Intermediate School,06-08,51.5
+39,UNION,5730,Westfield Public School District,070,Thomas Edison Intermediate School,06-08,50.0
+39,UNION,5730,Westfield Public School District,100,Franklin Elementary School,01-05,52.25
+39,UNION,5730,Westfield Public School District,120,Jefferson Elementary School,01-05,53.0
+39,UNION,5730,Westfield Public School District,140,McKinley Elementary School,01-05,55.0
+39,UNION,5730,Westfield Public School District,145,Tamaques Elementary School,01-05,56.5
+39,UNION,5730,Westfield Public School District,150,Washington Elementary School,01-05,57.0
+39,UNION,5730,Westfield Public School District,160,Wilson Elementary School,01-05,55.5
+39,UNION,5810,Winfield Township,060,Winfield Township,PK-08,50.25
+41,WARREN,0030,Allamuchy Township School District,010,Allamuchy Township School,03-08,55.25
+41,WARREN,0070,Alpha Borough School District,010,Alpha Borough School,KG-08,53.75
+41,WARREN,0280,Belvidere School District,030,Oxford Street Elementary School,PK-08,33.75
+41,WARREN,0400,Blairstown Elementary Township School District,030,Blairstown Elementary School,PK-06,59.5
+41,WARREN,1620,Franklin Township School District,050,Franklin Township School,PK-06,54.5
+41,WARREN,1670,Frelinghuysen Township School District,050,Frelinghuysen Township Elementary School,PK-06,46.0
+41,WARREN,1785,Great Meadows Regional School District,040,Great Meadows Regional Middle School,06-08,43.25
+41,WARREN,1785,Great Meadows Regional School District,060,Liberty Elementary School,03-05,42.75
+41,WARREN,1840,Greenwich Township School District,040,Greenwich School,PK-05,47.25
+41,WARREN,1840,Greenwich Township School District,070,Stewartsville Middle School,06-08,57.0
+41,WARREN,1870,Hackettstown Public School District,060,Hackettstown Middle School,05-08,50.0
+41,WARREN,1870,Hackettstown Public School District,070,Hatchery Hill Elementary School,PK-04,56.0
+41,WARREN,1870,Hackettstown Public School District,090,Willow Grove Elementary School,PK-04,63.5
+41,WARREN,2040,Harmony Township School District,030,Harmony Township School,PK-08,53.5
+41,WARREN,2250,Hope Township School District,050,Hope Township School,PK-08,65.25
+41,WARREN,2470,Knowlton Township School District,040,Knowlton Township Board of Education,PK-06,55.5
+41,WARREN,2790,Lopatcong Township School District,050,Lopatcong Elementary School,PK-04,60.5
+41,WARREN,2790,Lopatcong Township School District,060,Lopatcong Township Middle School,05-08,47.0
+41,WARREN,2970,Mansfield Township Elementary School District,050,Mansfield Township Elementary,PK-06,52.25
+41,WARREN,3675,North Warren Regional School District,050,North Warren Regional School,07-12,35.5
+41,WARREN,3890,Oxford Township School District,050,Oxford Central School,PK-08,34.0
+41,WARREN,4100,Phillipsburg School District,105,Phillipsburg Elementary School,03-05,45.0
+41,WARREN,4100,Phillipsburg School District,110,Phillipsburg Middle School,06-08,38.75
+41,WARREN,4200,Pohatcong Township School District,040,Pohatcong Township School,PK-08,43.5
+41,WARREN,5465,Warren Hills Regional School District,060,Warren Hills Regional Middle School,07-08,32.5
+41,WARREN,5480,Washington Borough School District,055,Washington Memorial Elementary School,03-06,51.0
+41,WARREN,5530,Washington Township School District,040,Brass Castle School,PK-06,48.5
+41,WARREN,5780,White Township Consolidated School District,050,White Township Consolidated School,PK-08,58.5
+80,CHARTERS,6013,Bergen Arts and Science Charter School,900,Bergen Arts and Sciences Charter School,KG-12,38.5
+80,CHARTERS,6017,Foundation Academy Charter School,932,Foundation Academy Charter School,KG-12,50.5
+80,CHARTERS,6018,Central Jersey College Prep Charter School,900,Central Jersey College Prep Charter School,KG-12,60.5
+80,CHARTERS,6020,Pride Academy Charter School District,985,Pride Academy Charter School,05-08,46.5
+80,CHARTERS,6021,Community Charter School of Paterson,905,Community Charter School of Paterson,KG-08,34.25
+80,CHARTERS,6022,Burch Charter School of Excellence,990,Burch Charter School of Excellence,KG-05,47.75
+80,CHARTERS,6025,Paul Robeson Charter School for the Humanities,907,Paul Robeson Charter School for the Humanities,04-08,57.0
+80,CHARTERS,6028,Vineland Public Charter School,910,Vineland Public Charter School,PK-10,58.0
+80,CHARTERS,6029,Newark Educators Community Charter School,911,Newark Educators Community Charter School,PK-04,26.0
+80,CHARTERS,6030,The Ethical Community Charter School,912,The Ethical Community Charter School,KG-08,57.75
+80,CHARTERS,6032,Academy for Urban Leadership Charter School,901,Academy for Urban Leadership Charter School,07-12,35.0
+80,CHARTERS,6036,Hoboken Dual Language Charter School,921,Hoboken Dual Language Charter School,KG-08,48.0
+80,CHARTERS,6041,Hatikvah International Academy Charter School,916,Hatikvah International Academy Charter School,KG-08,55.0
+80,CHARTERS,6053,Great Oaks Legacy Charter School,917,Great Oaks Legacy Charter School,PK-12,58.5
+80,CHARTERS,6058,Roseville Community Charter School,939,Roseville Community Charter School,KG-04,23.0
+80,CHARTERS,6060,Atlantic Community Charter School,942,Atlantic Community Charter School,KG-08,33.0
+80,CHARTERS,6064,Dr Lena Edwards Academic Charter School,946,Dr Lena Edwards Academic Charter School,KG-08,57.0
+80,CHARTERS,6067,The Kingdom Charter School of Leadership,949,The Kingdom Charter School of Leadership,KG-05,26.5
+80,CHARTERS,6068,M.E.T.S. Charter School,951,M.E.T.S. Charter School,06-12,46.0
+80,CHARTERS,6069,Millville Public Charter School,952,Millville Public Charter School,KG-08,44.5
+80,CHARTERS,6076,Benjamin Banneker Preparatory Charter School,961,Benjamin Banneker Preparatory Charter School,KG-08,42.0
+80,CHARTERS,6079,John P Holland Charter School,964,John P. Holland Charter School,PK-08,38.75
+80,CHARTERS,6080,Passaic Arts and Science Charter School,966,Passaic Arts and Science Charter School,KG-12,46.75
+80,CHARTERS,6081,Thomas Edison EnergySmart Charter School,967,Thomas Edison EnergySmart Charter School,KG-10,62.0
+80,CHARTERS,6082,BelovED Community Charter School,963,BelovED Community Charter School,KG-08,49.5
+80,CHARTERS,6086,Hope Community Charter School,972,Hope Community Charter School,KG-05,48.5
+80,CHARTERS,6089,Compass Academy Charter School,976,Compass Academy Charter School,KG-05,54.0
+80,CHARTERS,6093,Jersey City Global Charter School,981,Jersey City Global Charter School,KG-07,70.75
+80,CHARTERS,6094,Phillip's Academy  Charter School,968,Philip's Academy Charter School,PK-08,56.5
+80,CHARTERS,6096,Paterson Arts and Science Charter School,982,Paterson Arts and Science Charter School,KG-10,37.5
+80,CHARTERS,6099,Link Community Charter School,986,Link Community Charter School,05-08,54.0
+80,CHARTERS,6100,Bridgeton Public Charter School,991,Bridgeton Public Charter School,KG-04,47.25
+80,CHARTERS,6101,College Achieve Central Charter School,992,College Achieve Central Charter School,KG-09,37.5
+80,CHARTERS,6103,Empowerment Academy Charter School,994,Empowerment Academy Charter School,KG-04,53.75
+80,CHARTERS,6104,Principle Academy Charter School,995,Principle Academy Charter School,KG-06,48.0
+80,CHARTERS,6105,Hudson Arts and Science Charter School,996,Hudson Arts and Science Charter School,KG-07,40.0
+80,CHARTERS,6107,Camden's Promise Charter School,998,Camden's Promise Charter School,PK-12,45.0
+80,CHARTERS,6110,Achieve Community Charter School,902,Achieve Community Charter School,KG-05,72.25
+80,CHARTERS,6183,Trenton Stem-to-Civics Charter School,914,Trenton Stem-to-Civics Charter School,06-12,45.25
+80,CHARTERS,6230,Classical Academy Charter School of Clifton,915,Classical Academy Charter School of Clifton,06-08,54.25
+80,CHARTERS,6232,Environment Community Opportunity (ECO) Charter School,920,Environment Community Opportunity (ECO) Charter School,KG-07,55.5
+80,CHARTERS,6240,Freedom Prep Charter School,900,Freedom Prep Charter School,KG-12,51.0
+80,CHARTERS,6320,Discovery Charter School,920,Discovery Charter School,04-08,44.5
+80,CHARTERS,6410,East Orange Community Charter School,920,East Orange Community Charter School,KG-04,41.5
+80,CHARTERS,6420,Elysian Charter School,925,Elysian Charter School of Hoboken,KG-08,54.5
+80,CHARTERS,6430,Englewood on the Palisades Charter School,930,Englewood on the Palisades Charter School,KG-08,42.75
+80,CHARTERS,6635,Greater Brunswick Charter School,930,Greater Brunswick Charter School,KG-08,37.25
+80,CHARTERS,6665,Gray Charter School,930,The Gray Charter School,KG-08,60.25
+80,CHARTERS,6720,Hoboken Charter School,930,Hoboken Charter School,KG-12,53.75
+80,CHARTERS,6740,Hope Academy Charter School,950,Hope Academy Charter School,KG-08,44.25
+80,CHARTERS,6810,International Charter School of Trenton,940,International Charter School,KG-04,27.5
+80,CHARTERS,6910,Jersey City Community Charter School,940,Jersey City Community Charter School,KG-08,55.0
+80,CHARTERS,6915,Jersey City Golden Door Charter School,950,Jersey City Golden Door Charter School,PK-08,54.0
+80,CHARTERS,7109,LEAP Academy University Charter School,931,Leap Academy University Charter School,KG-12,43.5
+80,CHARTERS,7115,The Learning Community Charter School,960,Learning Community Charter School,PK-08,63.5
+80,CHARTERS,7210,Marion P. Thomas Charter School,940,Marion P. Thomas Charter School,PK-12,49.5
+80,CHARTERS,7290,New Horizons Community Charter School,957,New Horizons Community Charter School,KG-08,37.0
+80,CHARTERS,7320,North Star Academy Charter School,960,North Star Academy Charter School,KG-12,52.5
+80,CHARTERS,7325,TEAM Academy Charter School,965,TEAM Academy Charter School,KG-12,43.0
+80,CHARTERS,7500,Pace Charter School of Hamilton,900,Pace Charter School of Hamilton,KG-07,49.5
+80,CHARTERS,7503,Paterson Charter School for Science and Technology,970,Paterson Charter School for Science/Technology,KG-12,47.0
+80,CHARTERS,7540,Princeton Charter School,930,Princeton Charter School,KG-08,64.5
+80,CHARTERS,7600,The Queen City Academy Charter School District,960,The Queen City Academy Charter School,KG-08,59.5
+80,CHARTERS,7720,Red Bank Charter School,915,Red Bank Charter School,PK-08,61.25
+80,CHARTERS,7727,Ridge and Valley Charter School,900,Ridge and Valley Charter School,KG-08,58.5
+80,CHARTERS,7730,Robert Treat Academy Charter School,970,Robert Treat Academy Charter School,KG-08,50.75
+80,CHARTERS,7735,Maria L. Varisco-Rogers Charter School,975,Maria Varisco Rogers Charter School,KG-08,46.0
+80,CHARTERS,7830,Soaraing Heights Charter School,980,Soaring Heights Charter School,KG-08,54.75
+80,CHARTERS,7850,Sussex County Technology Charter School,960,Sussex County Technology Charter School,06-08,42.5
+80,CHARTERS,7890,Teaneck Community Charter School,920,Teaneck Community Charter school,KG-08,49.0
+80,CHARTERS,7891,College Achieve Greater Asbury Park Charter School,904,College Achieve Greater Asbury Park Charter School,KG-07,54.0
+80,CHARTERS,7892,College Achieve Paterson Charter School,909,College Achieve Paterson Charter School,KG-07,59.0
+80,CHARTERS,7895,Achievers Early College Prep Charter School,920,Achievers Early College Prep Charter School,06-06,32.75
+80,CHARTERS,8010,Union County TEAMS Charter School-High School/College LA,980,Union County TEAMS Charter School,KG-12,47.0
+80,CHARTERS,8050,Unity Charter School,990,Unity Charter School,KG-08,71.0
+80,CHARTERS,8065,University Heights Charter School,980,University Heights Charter School,PK-08,27.5
+80,CHARTERS,8140,The Village Charter School,990,The Village Charter School,KG-08,56.5
