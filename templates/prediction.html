@@ -109,9 +109,9 @@
             <h5>Enter Individual Income and House Pruchase Budget for County Prediction</h5>
             <form name = "amount" action="{{ url_for('prediction2') }}" method="post">
               <label for="income">Individual Income:</label>
-              <input type="text" id="income" name="income" placeholder="">
+              <input type="number" step="1" id="income" name="income" placeholder="" required>
               <label for="budget">House Purchase Budget:</label>
-              <input type="text" id="budget" name="budget" placeholder="">
+              <input type="number" step="1" id="budget" name="budget" placeholder="" required>
               <button type="submit">Predict!</button>
             </form>
           </div>
