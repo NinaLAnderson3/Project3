@@ -1,10 +1,14 @@
 # dependencies
 from flask import Flask, render_template, jsonify ,url_for, request
 import pandas as pd
+import numpy as np
 from sqlalchemy import create_engine
 import json
 import requests
 import joblib
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler
+from tensorflow.keras.models import load_model
 
 # establishing DB connection 
 database_path = "Resources/NJ_CPS.sqlite"
@@ -653,7 +657,7 @@ def data_school_filter():
     print("Data retrieval successfull")
     return data_csv
 
-# get data from school for filtering
+# linear regression endpoint
 @app.route("/prediction", methods=['GET','POST'])
 def prediction():
     # rfm_model = joblib.load("Models/NJ_rfm.sav")
@@ -662,7 +666,7 @@ def prediction():
     if request.method == "POST":
        # getting input for county from HTML form
        county_fips = request.form.get("county")
-       # getting input with name = lname in HTML form 
+       # getting input for year from HTML form 
        year = request.form.get("year") 
        best_array = pd.DataFrame({'year':year,'violent_crime':df['violent_crime'].min(), 'murder':df['murder'].min(), 'rape':df['rape'].min(),
             'robbery':df['robbery'].min(), 'aggravated_assault':df['aggravated_assault'].min(), 'property_crime': df['property_crime'].min(),
@@ -686,6 +690,54 @@ def prediction():
        html_table = result_df.to_html(index=False, header=True, border=1, justify = 'left',classes="bg-light table table-striped table-bordered")
        results = html_table
        return render_template('prediction.html', info = results)
+    return render_template('prediction.html')
+
+# Radnom forest and deep learning endpoint
+@app.route("/prediction2", methods=['GET','POST'])
+def prediction2():
+    rfm_model = joblib.load("Models/NJ_rfm.sav")
+    nj_deep_model = load_model("Models/NJ_deep_learning.h5")
+    df = pd.read_csv('resources/final_data.csv')
+    X = df.drop(['county', 'county_fips'], axis=1)
+    y = df["county"]
+    X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=1)
+    X_scaler = MinMaxScaler().fit(X_train)
+    label_encoder = LabelEncoder()
+    label_encoder.fit(y_train)
+    if request.method == "POST":
+       # getting input for income from HTML form
+       income = int(request.form.get("income"))
+
+       # getting input for budget from HTML form
+       budget = int(request.form.get("budget"))
+       rfm_array = pd.DataFrame({'year':df['year'].max(),'violent_crime':df['violent_crime'].min(), 'murder':df['murder'].min(),
+            'rape':df['rape'].min(),'robbery':df['robbery'].min(), 'aggravated_assault':df['aggravated_assault'].min(),
+            'property_crime': df['property_crime'].min(),'burglary':df['burglary'].min(), 
+            'larceny_theft':df['larceny_theft'].mean(),'motor_vehicle_theft':df['motor_vehicle_theft'].min(),
+            'arson':df['arson'].min(), 
+            'frm_30':df['frm_30'].min(), 'points_30': df['points_30'].min(),
+            'frm_15':df['frm_15'].min(), 'points_15':df['points_15'].min(), 
+            'median_hh_income': income, 'median_hh_inc_moe': df['median_hh_inc_moe'].mean(), 
+            'poverty_count': df['poverty_count'].min(), 'poverty_count_moe': df['poverty_count_moe'].mean(), 
+            'poverty_rate':df['poverty_rate'].mean(), 'poverty_rate_moe':df['poverty_rate_moe'].mean(),'price':budget},[0])
+       rfm_predictions = rfm_model.predict(rfm_array)
+       deep_learning_array = pd.DataFrame({'year':df['year'].max(),'violent_crime':df['violent_crime'].min(), 'murder':df['murder'].min(),
+            'rape':df['rape'].min(),'robbery':df['robbery'].min(), 'aggravated_assault':df['aggravated_assault'].min(),
+            'property_crime': df['property_crime'].min(),'burglary':df['burglary'].min(), 
+            'larceny_theft':df['larceny_theft'].mean(),'motor_vehicle_theft':df['motor_vehicle_theft'].min(),
+            'arson':df['arson'].min(), 
+            'frm_30':df['frm_30'].min(), 'points_30': df['points_30'].min(),
+            'frm_15':df['frm_15'].min(), 'points_15':df['points_15'].min(), 
+            'median_hh_income': income, 'median_hh_inc_moe': df['median_hh_inc_moe'].mean(), 
+            'poverty_count': df['poverty_count'].min(), 'poverty_count_moe': df['poverty_count_moe'].mean(), 
+            'poverty_rate':df['poverty_rate'].min(), 'poverty_rate_moe':df['poverty_rate_moe'].mean(),'price':budget},[0])
+       deep_learning_array_scaled = X_scaler.transform(deep_learning_array)
+       deep_learning_prediction = np.argmax(nj_deep_model.predict(deep_learning_array_scaled), axis = -1)
+       deep_learning_predicted_labels = label_encoder.inverse_transform(deep_learning_prediction)
+       result_df= pd.DataFrame({'Income': income,'Budget': budget,'Random Forest Prediction': rfm_predictions, "Deep Learning Prediction": deep_learning_predicted_labels})
+       html_table = result_df.to_html(index=False, header=True, border=1, justify = 'left',classes="bg-light table table-striped table-bordered")
+       results = html_table 
+       return render_template('prediction.html', info2 = results)
     return render_template('prediction.html')
 
 if __name__ == "__main__":
