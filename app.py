@@ -661,7 +661,9 @@ def data_school_filter():
 @app.route("/prediction", methods=['GET','POST'])
 def prediction():
     # rfm_model = joblib.load("Models/NJ_rfm.sav")
-    lr_model = joblib.load("Models/NJ_lin_reg.sav")
+    county = "Atlantic"
+    model_path = f'Models/NJ_lin_reg_{county}.sav'
+    lr_model = joblib.load(model_path)
     df = pd.read_csv('resources/final_data.csv')
     if request.method == "POST":
        # getting input for county from HTML form
