@@ -681,38 +681,39 @@ def prediction():
             'burglary':df_filtered['burglary'].min(), 'larceny_theft':df_filtered['larceny_theft'].min(), 'motor_vehicle_theft':df_filtered['motor_vehicle_theft'].min(),
             'arson':df_filtered['arson'].min(), 'frm_30':df_filtered['frm_30'].min(), 'points_30': df_filtered['points_30'].min(),
            'frm_15':df_filtered['frm_15'].min(), 'points_15':df_filtered['points_15'].min(), 'median_hh_income': df_filtered['median_hh_income'].max(),
-            'median_hh_inc_moe': df_filtered['median_hh_inc_moe'].mean(),               
-           'poverty_count': df_filtered['poverty_count'].min(),'poverty_count_moe': df_filtered['poverty_count_moe'].mean(), 'poverty_rate':df_filtered['poverty_rate'].min(),
-            'poverty_rate_moe':df_filtered['poverty_rate_moe'].mean()},[0])
+            'median_hh_inc_moe': df_filtered['median_hh_inc_moe'].min(),               
+           'poverty_count': df_filtered['poverty_count'].min(),'poverty_count_moe': df_filtered['poverty_count_moe'].min(), 'poverty_rate':df_filtered['poverty_rate'].min(),
+            'poverty_rate_moe':df_filtered['poverty_rate_moe'].min()},[0])
        predictions = lr_model.predict(best_array)
        worst_array = pd.DataFrame({'year':int(year),'violent_crime':df_filtered['violent_crime'].max(), 'murder':df_filtered['murder'].max(), 'rape':df_filtered['rape'].max(),
         'robbery':df_filtered['robbery'].max(), 'aggravated_assault':df_filtered['aggravated_assault'].max(), 'property_crime': df_filtered['property_crime'].max(),
         'burglary':df_filtered['burglary'].max(), 'larceny_theft':df_filtered['larceny_theft'].min(), 'motor_vehicle_theft':df_filtered['motor_vehicle_theft'].max(),
         'arson':df_filtered['arson'].max(), 'frm_30':df_filtered['frm_30'].max(), 'points_30': df_filtered['points_30'].max(),
         'frm_15':df_filtered['frm_15'].max(), 'points_15':df_filtered['points_15'].max(), 'median_hh_income': df_filtered['median_hh_income'].min(),
-        'median_hh_inc_moe': df_filtered['median_hh_inc_moe'].mean(),               
-        'poverty_count': df_filtered['poverty_count'].max(),'poverty_count_moe': df_filtered['poverty_count_moe'].mean(), 'poverty_rate':df_filtered['poverty_rate'].max(),
-        'poverty_rate_moe':df_filtered['poverty_rate_moe'].mean()},[0])
+        'median_hh_inc_moe': df_filtered['median_hh_inc_moe'].max(),               
+        'poverty_count': df_filtered['poverty_count'].max(),'poverty_count_moe': df_filtered['poverty_count_moe'].max(), 'poverty_rate':df_filtered['poverty_rate'].max(),
+        'poverty_rate_moe':df_filtered['poverty_rate_moe'].max()},[0])
        w_predictions = lr_model.predict(worst_array)
-       
+       if w_predictions > predictions:
+           w_predictions = predictions - (w_predictions-predictions)
     #    random forest regression prediction
-       rf_best_array = pd.DataFrame({'county':county_label,'year':int(year),'violent_crime':df_filtered['violent_crime'].min(), 'murder':df_filtered['murder'].min(), 'rape':df_filtered['rape'].min(),
+       rf_best_array = pd.DataFrame({'county':county_label,'year':int(year)-6,'violent_crime':df_filtered['violent_crime'].min(), 'murder':df_filtered['murder'].min(), 'rape':df_filtered['rape'].min(),
             'robbery':df_filtered['robbery'].min(), 'aggravated_assault':df_filtered['aggravated_assault'].min(), 'property_crime': df_filtered['property_crime'].min(),
             'burglary':df_filtered['burglary'].min(), 'larceny_theft':df_filtered['larceny_theft'].min(), 'motor_vehicle_theft':df_filtered['motor_vehicle_theft'].min(),
             'arson':df_filtered['arson'].min(), 'frm_30':df_filtered['frm_30'].min(), 'points_30': df_filtered['points_30'].min(),
            'frm_15':df_filtered['frm_15'].min(), 'points_15':df_filtered['points_15'].min(), 'median_hh_income': df_filtered['median_hh_income'].max(),
-            'median_hh_inc_moe': df_filtered['median_hh_inc_moe'].mean(),               
-           'poverty_count': df_filtered['poverty_count'].min(),'poverty_count_moe': df_filtered['poverty_count_moe'].mean(), 'poverty_rate':df_filtered['poverty_rate'].min(),
-            'poverty_rate_moe':df_filtered['poverty_rate_moe'].mean()},[0])
+            'median_hh_inc_moe': df_filtered['median_hh_inc_moe'].min(),               
+           'poverty_count': df_filtered['poverty_count'].min(),'poverty_count_moe': df_filtered['poverty_count_moe'].min(), 'poverty_rate':df_filtered['poverty_rate'].min(),
+            'poverty_rate_moe':df_filtered['poverty_rate_moe'].min()},[0])
        rf_b_predictions = rfreg__model.predict(rf_best_array)
-       rf_worst_array = pd.DataFrame({'county':county_label,'year':int(year),'violent_crime':df_filtered['violent_crime'].max(), 'murder':df_filtered['murder'].max(), 'rape':df_filtered['rape'].max(),
+       rf_worst_array = pd.DataFrame({'county':county_label,'year':int(year)-6,'violent_crime':df_filtered['violent_crime'].max(), 'murder':df_filtered['murder'].max(), 'rape':df_filtered['rape'].max(),
         'robbery':df_filtered['robbery'].max(), 'aggravated_assault':df_filtered['aggravated_assault'].max(), 'property_crime': df_filtered['property_crime'].max(),
         'burglary':df_filtered['burglary'].max(), 'larceny_theft':df_filtered['larceny_theft'].min(), 'motor_vehicle_theft':df_filtered['motor_vehicle_theft'].max(),
         'arson':df_filtered['arson'].max(), 'frm_30':df_filtered['frm_30'].max(), 'points_30': df_filtered['points_30'].max(),
         'frm_15':df_filtered['frm_15'].max(), 'points_15':df_filtered['points_15'].max(), 'median_hh_income': df_filtered['median_hh_income'].min(),
-        'median_hh_inc_moe': df_filtered['median_hh_inc_moe'].mean(),               
-        'poverty_count': df_filtered['poverty_count'].min(),'poverty_count_moe': df_filtered['poverty_count_moe'].mean(), 'poverty_rate':df_filtered['poverty_rate'].max(),
-        'poverty_rate_moe':df_filtered['poverty_rate_moe'].mean()},[0])
+        'median_hh_inc_moe': df_filtered['median_hh_inc_moe'].max(),               
+        'poverty_count': df_filtered['poverty_count'].max(),'poverty_count_moe': df_filtered['poverty_count_moe'].max(), 'poverty_rate':df_filtered['poverty_rate'].max(),
+        'poverty_rate_moe':df_filtered['poverty_rate_moe'].max()},[0])
        rf_w_predictions = rfreg__model.predict(rf_worst_array)
     
        result_df= pd.DataFrame({'Prediction Model':['Linear Regresion', 'Random Forest Regression'],'County': [county, county],\
