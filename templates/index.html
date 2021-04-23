@@ -198,7 +198,7 @@
         <br>
         <br>
         <br>
-        <div class="row codejn">
+        <!-- <div class="row codejn">
             <h1 class="aos-init aos-animate text-center text-white" data-aos="fade-up" data-aos-easing="ease">
 				Code snippet
 			</h1>
@@ -240,7 +240,7 @@
         <br>
         <br>
         <br>
-        <br>
+        <br> -->
 
         <div class="row">
             <h1 class="aos-init aos-animate text-center text-white" data-aos="fade-up" data-aos-easing="ease">
@@ -249,7 +249,7 @@
         </div>
         <br>
         <br>
-        <div class="row">
+        <div class="row packages">
             <div class="col-xs-12">
                 <div class="card bg-light" data-aos="zoom-in" data-aos-anchor-placement="center-bottom" data-aos-easing="linear" data-aos-duration="1000">
                     <h4 class="card-header text-center text-white">Libraries</h4>
@@ -335,7 +335,7 @@
         });
         $('.hero_scroll2').on('click', function(e) {
             $('html, body').animate({
-                scrollTop: $(".codejn").offset().top
+                scrollTop: $(".packages").offset().top
             }, 100);
         });
         $('.hero__scroll3').on('click', function(e) {
@@ -361,8 +361,8 @@
             mybutton3.style.display = "none";
         } else if ((document.body.scrollTop > 2000 && document.body.scrollTop < 15000) || (document.documentElement.scrollTop > 2000 && document.documentElement.scrollTop < 15000)) {
             mybutton.style.display = "block";
-            mybutton2.style.display = "block";
-            mybutton3.style.display = "block";
+            mybutton2.style.display = "none";
+            mybutton3.style.display = "none";
         } else {
             mybutton.style.display = "block";
             mybutton2.style.display = "none";
