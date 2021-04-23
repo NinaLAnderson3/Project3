@@ -772,5 +772,10 @@ def prediction2():
        return render_template('prediction.html', info2 = results)
     return render_template('prediction.html')
 
+# render tableau.html
+@app.route('/tableau')
+def tableau():
+    return render_template("tableau.html")
+
 if __name__ == "__main__":
     app.run(debug = True)

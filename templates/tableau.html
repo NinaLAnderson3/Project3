@@ -9,6 +9,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
     <title>NJ new mover's guide</title>
   </head>
   <body class="bg-dark">
@@ -19,11 +20,11 @@
             <span class="navbar-toggler-icon"></span>
           </button>
          <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-            <a class="navbar-brand bg-info text-white p-2" href="#">Prediction</a>
+            <a class="navbar-brand bg-info text-white p-2" href="/prediction">Prediction</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand bg-info text-white p-2" href="/tableau">Tableau</a>
+            <a class="navbar-brand bg-info text-white p-2" href="#">Tableau</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -58,80 +59,8 @@
     <!-- main content -->
     <div class="container bg-white mt-5 animate__animated animate__fadeIn">
         <div class="row">
-            <div class="col-lg-12 justify-content-center pull-right" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">
-              <div class="card bg-primary text-center text-white">
-                <h5>Select County and Year for Future Average House Price Prediction</h5>
-                <form name="county" action="{{ url_for('prediction') }}" method='POST'>
-                    <select name="county">
-                        <option value="Atlantic">Atlantic</option>
-                        <option value="Bergen">Bergen</option>
-                        <option value="Burlington">Burlington</option>
-                        <option value="Camden">Camden</option> 
-                        <option value="Cape May">Cape May</option>
-                        <option value="Cumberland">Cumberland</option>
-                        <option value="Essex">Essex</option>
-                        <option value="Gloucester">Gloucester</option>
-                        <option value="Hudson">Hudson</option>
-                        <option value="Hunterdon">Hunterdon</option> 
-                        <option value="Mercer">Mercer</option>
-                        <option value="Middlesex">Middlesex</option>
-                        <option value="Monmouth">Monmouth</option>
-                        <option value="Morris">Morris</option>
-                        <option value="Ocean">Ocean</option>
-                        <option value="Passaic">Passaic</option> 
-                        <option value="Salem">Salem</option>
-                        <option value="Somerset">Somerset</option>
-                        <option value="Sussex">Sussex</option> 
-                        <option value="Union">Union</option>
-                        <option value="Warren">Warren</option>
-                    </select>
-                    <select name="year">
-                        <option value="2021">2021</option>
-                        <option value="2022">2022</option>
-                        <option value="2023">2023</option>
-                        <option value="2024">2024</option> 
-                        <option value="2025">2025</option>
-                    </select>
-                    <button type="submit">Predict!</button>
-                </form>
-              </div>
-            </div>
-            <!-- % extends "prediction.html" %} -->
-            {% block content %}
-            <h2>Results</h2>
-
-            <div>
-                {{info|safe}}
-            </div>
-            {% endblock %}
-          </div>
-          <span>*** With ~95% accuracy for linear regression</span><br>
-          <span>*** With ~83% accuracy for random forest regression</span><br>
-          <span>*** Zillow Home Value Index (ZHVI): A smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.</span>
-          <br><hr>
-      <div class="row">
-        <div class="col-lg-12 justify-content-center pull-right" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">
-          <div class="card bg-primary text-center text-white">
-            <h5>Enter Individual Income and House Purchase Budget for County Prediction</h5>
-            <form name = "amount" action="{{ url_for('prediction2') }}" method="post">
-              <label for="income">Individual Income:</label>
-              <input type="number" step="1" id="income" name="income" placeholder="" required>
-              <label for="budget">House Purchase Budget:</label>
-              <input type="number" step="1" id="budget" name="budget" placeholder="" required>
-              <button type="submit">Predict!</button>
-            </form>
-          </div>
-          {% block content2 %}
-          <h2>Results</h2>
-
-          <div>
-              {{info2|safe}}
-          </div>
-          {% endblock %}
+            <div class='tableauPlaceholder' id='viz1619138669821' style='position: relative'><noscript><a href='#'><img alt='NJ Data ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WH&#47;WH24YXMW8&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;WH24YXMW8' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WH&#47;WH24YXMW8&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1619138669821');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
         </div>
-        <span>*** With ~95% accuracy for Random Forest and ~97% Accuracy for Deep Learning</span>
-        </div>
-      </div>
     </div>
     <footer class="mastfoot mt-auto text-center text-white">
       <div class="inner">
