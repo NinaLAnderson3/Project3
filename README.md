@@ -1,10 +1,17 @@
-# Project 2 - NJ Movers Guide - Back Benchers
+# NJ Movers Guide 2.0 - Back Benchers
+
+## -- Version 2.0 Update
+
+
 
 ### Our Members
 ![Intro](static/images/Intro.png)
 
 # Check Us Out on Heroku!!!
 https://backbenchers-njnewmovers.herokuapp.com/
+
+
+## Version 1.0
 
 # Our Goals
 ## Our goal is to create a guide that would educate potential movers on where to live in New Jersey based on certain criteria such geography, crime rate, education level, and tax rate.
