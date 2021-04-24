@@ -20,7 +20,7 @@ https://backbenchers-njnewmovers.herokuapp.com/
 ## Our goal is to create a guide that would educate potential movers on where to live in New Jersey based on certain criteria such geography, crime rate, education level, and tax rate.
 
 # Our Process
-![Flow](static/images/etl-flowchart.png)
+![Flow](updated_flow_diagram.png)
 
 # Our Challenges & Solutions
 
