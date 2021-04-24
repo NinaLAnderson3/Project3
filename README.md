@@ -8,7 +8,7 @@
 #### Zillow Home Value Index data came from a CSV downloadable here... https://www.zillow.com/research/data/ 
 
 ### Our Members
-![Intro](static/images/Intro.png)
+![Intro](team_photo.png)
 
 # Check Us Out on Heroku!!!
 https://backbenchers-njnewmovers.herokuapp.com/
