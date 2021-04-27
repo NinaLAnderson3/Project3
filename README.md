@@ -63,6 +63,8 @@ With this anyone can compare any of the X axis, and be measured against the data
      2. The top border of the county line will show the tax rate. The lighter shade of blue will indicate a lower Tax Rate.
      3. When someone hovers on a county a summary of the general info will pop up.
   3. This page is to help a person make a decision based on the the geography and location.
+  4. Update the leaflet api key in cofig.js
+
 
   
   ## Source Data Set
