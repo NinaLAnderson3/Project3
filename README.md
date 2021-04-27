@@ -12,7 +12,8 @@
 2. The direct tableau public page: https://public.tableau.com/views/HitchHikersGuidetoNJ/NJStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 3. Machine Learning Model: A prediction model, leveraging Zillow home price data, has been built in that allows a user to see the future predicted value of homes in their county of interest, using two different prediction models (Linear Regression and Random Forest).\
 4. Zillow Home Value Index data came from a CSV downloadable here... https://www.zillow.com/research/data/ 
-5. Open the heroku page through a mobile phone, to exerpience how great heroku really is.
+5. Open the heroku page through a mobile phone, to exerpience how great heroku really is. 
+ - Be advised due the tableau page is not optimized for mobile viewing, because it was not set up for mobile viewing. But every page should be running without issues in a mobile phone.
 
 ### Our Members
 ![Intro](team_photo.png)
