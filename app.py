@@ -657,7 +657,7 @@ def data_school_filter():
     print("Data retrieval successfull")
     return data_csv
 
-# get data from school for filtering
+# get data from zillow price for filtering
 @app.route("/api/data_zillow_filter")
 def data_zillow_filter():
     connection = engine.connect()
@@ -668,11 +668,22 @@ def data_zillow_filter():
     print("Data retrieval successfull")
     return data_csv
 
-# get data from school for filtering
+# get data from APR history for filtering
 @app.route("/api/data_apr_filter")
 def data_apr_filter():
     connection = engine.connect()
     query = '''SELECT * from "NJ_apr"'''
+    df = pd.read_sql(query, connection)
+    connection.close()
+    data_csv = df.to_csv(header=True, index = False, encoding='utf-8')  
+    print("Data retrieval successfull")
+    return data_csv
+
+# get data from crime history for filtering
+@app.route("/api/data_crime_history_filter")
+def data_crime_history_filter():
+    connection = engine.connect()
+    query = '''SELECT * from "NJ_crime_history"'''
     df = pd.read_sql(query, connection)
     connection.close()
     data_csv = df.to_csv(header=True, index = False, encoding='utf-8')  

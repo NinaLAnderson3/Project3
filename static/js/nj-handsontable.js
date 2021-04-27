@@ -91,6 +91,9 @@ function optionChanged(data) {
     } else if (firstData === "NJ APR History"){
         var api = "api/data_apr_filter";
         tableFilter(api);
+    } else if (firstData === "NJ Crime History"){
+        var api = "api/data_crime_history_filter";
+        tableFilter(api);
     } else {
         var api = "api/data_pop_filter";
         tableFilter(api);
