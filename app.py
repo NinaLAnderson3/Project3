@@ -657,6 +657,28 @@ def data_school_filter():
     print("Data retrieval successfull")
     return data_csv
 
+# get data from school for filtering
+@app.route("/api/data_zillow_filter")
+def data_zillow_filter():
+    connection = engine.connect()
+    query = '''SELECT * from "NJ_house_price"'''
+    df = pd.read_sql(query, connection)
+    connection.close()
+    data_csv = df.to_csv(header=True, index = False, encoding='utf-8')  
+    print("Data retrieval successfull")
+    return data_csv
+
+# get data from school for filtering
+@app.route("/api/data_apr_filter")
+def data_apr_filter():
+    connection = engine.connect()
+    query = '''SELECT * from "NJ_apr"'''
+    df = pd.read_sql(query, connection)
+    connection.close()
+    data_csv = df.to_csv(header=True, index = False, encoding='utf-8')  
+    print("Data retrieval successfull")
+    return data_csv
+
 # linear regression endpoint
 @app.route("/prediction", methods=['GET','POST'])
 def prediction():
