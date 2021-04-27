@@ -1,0 +1,2957 @@
+{
+ "name": "tax",
+ "description": "tax",
+ "children": [
+  {
+   "name": "ATLANTIC",
+   "description": 2.8237734329482924,
+   "children": [
+    {
+     "name": "ABSECON CITY",
+     "description": 3.13715492699496,
+     "size": 3.13715492699496
+    },
+    {
+     "name": "ATLANTIC CITY CITY",
+     "description": 3.609662470403083,
+     "size": 3.609662470403083
+    },
+    {
+     "name": "BRIGANTINE CITY",
+     "description": 1.6473425362861924,
+     "size": 1.6473425362861924
+    },
+    {
+     "name": "BUENA BORO",
+     "description": 3.4525590707787734,
+     "size": 3.4525590707787734
+    },
+    {
+     "name": "BUENA VISTA TWP",
+     "description": 2.823359706814963,
+     "size": 2.823359706814963
+    },
+    {
+     "name": "CORBIN CITY CITY",
+     "description": 1.882331511108616,
+     "size": 1.882331511108616
+    },
+    {
+     "name": "EGG HARBOR CITY",
+     "description": 4.866613178551451,
+     "size": 4.866613178551451
+    },
+    {
+     "name": "EGG HARBOR TWP",
+     "description": 3.0719403512023558,
+     "size": 3.0719403512023558
+    },
+    {
+     "name": "ESTELL MANOR CITY",
+     "description": 2.3907781016358753,
+     "size": 2.3907781016358753
+    },
+    {
+     "name": "FOLSOM BORO",
+     "description": 2.0680792800072374,
+     "size": 2.0680792800072374
+    },
+    {
+     "name": "GALLOWAY TWP",
+     "description": 2.928403887883485,
+     "size": 2.928403887883485
+    },
+    {
+     "name": "HAMILTON TWP",
+     "description": 2.9176342653817198,
+     "size": 2.9176342653817198
+    },
+    {
+     "name": "HAMMONTON TOWN",
+     "description": 2.539250770142185,
+     "size": 2.539250770142185
+    },
+    {
+     "name": "LINWOOD CITY",
+     "description": 3.632041577583487,
+     "size": 3.632041577583487
+    },
+    {
+     "name": "LONGPORT BORO",
+     "description": 0.9135119701052675,
+     "size": 0.9135119701052675
+    },
+    {
+     "name": "MARGATE CITY CITY",
+     "description": 1.3500728765381653,
+     "size": 1.3500728765381653
+    },
+    {
+     "name": "MULLICA TWP",
+     "description": 3.0499708811535386,
+     "size": 3.0499708811535386
+    },
+    {
+     "name": "NORTHFIELD CITY",
+     "description": 3.413607246109455,
+     "size": 3.413607246109455
+    },
+    {
+     "name": "PLEASANTVILLE CITY",
+     "description": 4.855418774984694,
+     "size": 4.855418774984694
+    },
+    {
+     "name": "PORT REPUBLIC CITY",
+     "description": 2.4416871876185,
+     "size": 2.4416871876185
+    },
+    {
+     "name": "SOMERS POINT CITY",
+     "description": 3.198215402158486,
+     "size": 3.198215402158486
+    },
+    {
+     "name": "VENTNOR CITY",
+     "description": 2.46735772396811,
+     "size": 2.46735772396811
+    },
+    {
+     "name": "WEYMOUTH TWP",
+     "description": 2.289795260400126,
+     "size": 2.289795260400126
+    }
+   ]
+  },
+  {
+   "name": "BERGEN",
+   "description": 2.2956488133101196,
+   "children": [
+    {
+     "name": "ALLENDALE BORO",
+     "description": 2.275368400662112,
+     "size": 2.275368400662112
+    },
+    {
+     "name": "ALPINE BORO",
+     "description": 0.7734509909486341,
+     "size": 0.7734509909486341
+    },
+    {
+     "name": "BERGENFIELD BORO",
+     "description": 2.7640300692701483,
+     "size": 2.7640300692701483
+    },
+    {
+     "name": "BOGOTA BORO",
+     "description": 3.1934288799437938,
+     "size": 3.1934288799437938
+    },
+    {
+     "name": "CARLSTADT BORO",
+     "description": 1.8300189327438352,
+     "size": 1.8300189327438352
+    },
+    {
+     "name": "CLIFFSIDE PARK BORO",
+     "description": 2.04194700169511,
+     "size": 2.04194700169511
+    },
+    {
+     "name": "CLOSTER BORO",
+     "description": 2.218046996560213,
+     "size": 2.218046996560213
+    },
+    {
+     "name": "CRESSKILL BORO",
+     "description": 2.3304365044030853,
+     "size": 2.3304365044030853
+    },
+    {
+     "name": "DEMAREST BORO",
+     "description": 2.2079883661932214,
+     "size": 2.2079883661932214
+    },
+    {
+     "name": "DUMONT BORO",
+     "description": 2.9567797984988387,
+     "size": 2.9567797984988387
+    },
+    {
+     "name": "ELMWOOD PARK BORO",
+     "description": 2.665832255165993,
+     "size": 2.665832255165993
+    },
+    {
+     "name": "E RUTHERFORD BORO",
+     "description": 1.7520273697782807,
+     "size": 1.7520273697782807
+    },
+    {
+     "name": "EDGEWATER BORO",
+     "description": 1.4125068284238642,
+     "size": 1.4125068284238642
+    },
+    {
+     "name": "EMERSON BORO",
+     "description": 2.626705281262871,
+     "size": 2.626705281262871
+    },
+    {
+     "name": "ENGLEWOOD CITY",
+     "description": 2.422078977033499,
+     "size": 2.422078977033499
+    },
+    {
+     "name": "ENGLEWOOD CLIFFS BORO",
+     "description": 1.0288547554844618,
+     "size": 1.0288547554844618
+    },
+    {
+     "name": "FAIRLAWN BORO",
+     "description": 2.767811454637061,
+     "size": 2.767811454637061
+    },
+    {
+     "name": "FAIRVIEW BORO",
+     "description": 2.5476729246874545,
+     "size": 2.5476729246874545
+    },
+    {
+     "name": "FORT LEE BORO",
+     "description": 2.170159216025101,
+     "size": 2.170159216025101
+    },
+    {
+     "name": "FRANKLIN LAKES BORO",
+     "description": 1.6082056532986544,
+     "size": 1.6082056532986544
+    },
+    {
+     "name": "GARFIELD CITY",
+     "description": 2.351308657232613,
+     "size": 2.351308657232613
+    },
+    {
+     "name": "GLEN ROCK BORO",
+     "description": 2.6918872440526895,
+     "size": 2.6918872440526895
+    },
+    {
+     "name": "HACKENSACK CITY",
+     "description": 3.224012802303572,
+     "size": 3.224012802303572
+    },
+    {
+     "name": "HARRINGTON PARK BORO",
+     "description": 2.606561330602572,
+     "size": 2.606561330602572
+    },
+    {
+     "name": "HASBROUCK HGHTS BORO",
+     "description": 2.781732637054334,
+     "size": 2.781732637054334
+    },
+    {
+     "name": "HAWORTH BORO",
+     "description": 2.5126649893775754,
+     "size": 2.5126649893775754
+    },
+    {
+     "name": "HILLSDALE BORO",
+     "description": 2.6328871849110818,
+     "size": 2.6328871849110818
+    },
+    {
+     "name": "HOHOKUS BORO",
+     "description": 1.9666855833655337,
+     "size": 1.9666855833655337
+    },
+    {
+     "name": "LEONIA BORO",
+     "description": 2.544623981115465,
+     "size": 2.544623981115465
+    },
+    {
+     "name": "LITTLE FERRY BORO",
+     "description": 3.113264477514057,
+     "size": 3.113264477514057
+    },
+    {
+     "name": "LODI BORO",
+     "description": 2.4319886935089023,
+     "size": 2.4319886935089023
+    },
+    {
+     "name": "LYNDHURST TWP",
+     "description": 2.551248631881531,
+     "size": 2.551248631881531
+    },
+    {
+     "name": "MAHWAH TWP",
+     "description": 1.7267293491469888,
+     "size": 1.7267293491469888
+    },
+    {
+     "name": "MAYWOOD BORO",
+     "description": 2.4318305004486507,
+     "size": 2.4318305004486507
+    },
+    {
+     "name": "MIDLAND PARK BORO",
+     "description": 2.5873881173199176,
+     "size": 2.5873881173199176
+    },
+    {
+     "name": "MONTVALE BORO",
+     "description": 2.0823423374136825,
+     "size": 2.0823423374136825
+    },
+    {
+     "name": "MOONACHIE BORO",
+     "description": 2.1943916409446764,
+     "size": 2.1943916409446764
+    },
+    {
+     "name": "NEW MILFORD BORO",
+     "description": 2.88304732182661,
+     "size": 2.88304732182661
+    },
+    {
+     "name": "NORTH ARLINGTON BORO",
+     "description": 2.815905061860225,
+     "size": 2.815905061860225
+    },
+    {
+     "name": "NORTHVALE BORO",
+     "description": 2.5898683312716915,
+     "size": 2.5898683312716915
+    },
+    {
+     "name": "NORWOOD BORO",
+     "description": 2.3322669999849825,
+     "size": 2.3322669999849825
+    },
+    {
+     "name": "OAKLAND BORO",
+     "description": 2.4776314555852457,
+     "size": 2.4776314555852457
+    },
+    {
+     "name": "OLD TAPPAN BORO",
+     "description": 2.071874872723217,
+     "size": 2.071874872723217
+    },
+    {
+     "name": "ORADELL BORO",
+     "description": 2.6852278393558016,
+     "size": 2.6852278393558016
+    },
+    {
+     "name": "PALISADES PARK BORO",
+     "description": 1.5650097543933639,
+     "size": 1.5650097543933639
+    },
+    {
+     "name": "PARAMUS BORO",
+     "description": 1.5473999578219737,
+     "size": 1.5473999578219737
+    },
+    {
+     "name": "PARK RIDGE BORO",
+     "description": 2.495746923838344,
+     "size": 2.495746923838344
+    },
+    {
+     "name": "RAMSEY BORO",
+     "description": 2.4216959904038737,
+     "size": 2.4216959904038737
+    },
+    {
+     "name": "RIDGEFIELD BORO",
+     "description": 2.0008976151139275,
+     "size": 2.0008976151139275
+    },
+    {
+     "name": "RIDGEFIELD PARK VILLAGE",
+     "description": 3.1356408961257736,
+     "size": 3.1356408961257736
+    },
+    {
+     "name": "RIDGEWOOD VILLAGE",
+     "description": 2.275995044467477,
+     "size": 2.275995044467477
+    },
+    {
+     "name": "RIVEREDGE BORO",
+     "description": 2.7099134254978074,
+     "size": 2.7099134254978074
+    },
+    {
+     "name": "RIVERVALE TWP",
+     "description": 2.5591208660186107,
+     "size": 2.5591208660186107
+    },
+    {
+     "name": "ROCHELLE PARK TWP",
+     "description": 2.339570053131049,
+     "size": 2.339570053131049
+    },
+    {
+     "name": "ROCKLEIGH BORO",
+     "description": 0.8618853833407655,
+     "size": 0.8618853833407655
+    },
+    {
+     "name": "RUTHERFORD BORO",
+     "description": 2.504408849856502,
+     "size": 2.504408849856502
+    },
+    {
+     "name": "SADDLE BROOK TWP",
+     "description": 2.4693573259375734,
+     "size": 2.4693573259375734
+    },
+    {
+     "name": "SADDLE RIVER BORO",
+     "description": 0.9772732527535508,
+     "size": 0.9772732527535508
+    },
+    {
+     "name": "SO HACKENSACK TWP",
+     "description": 2.773183316755244,
+     "size": 2.773183316755244
+    },
+    {
+     "name": "TEANECK TWP",
+     "description": 2.654819603428018,
+     "size": 2.654819603428018
+    },
+    {
+     "name": "TENAFLY BORO",
+     "description": 2.210014310064384,
+     "size": 2.210014310064384
+    },
+    {
+     "name": "TETERBORO BORO",
+     "description": 1.0668391223470077,
+     "size": 1.0668391223470077
+    },
+    {
+     "name": "UPPER SADDLE RIV BORO",
+     "description": 2.004590516375746,
+     "size": 2.004590516375746
+    },
+    {
+     "name": "WALDWICK BORO",
+     "description": 2.610822685741749,
+     "size": 2.610822685741749
+    },
+    {
+     "name": "WALLINGTON BORO",
+     "description": 2.556617051867156,
+     "size": 2.556617051867156
+    },
+    {
+     "name": "WASHINGTON TWP",
+     "description": 2.205062629338274,
+     "size": 2.205062629338274
+    },
+    {
+     "name": "WESTWOOD BORO",
+     "description": 2.466062466956032,
+     "size": 2.466062466956032
+    },
+    {
+     "name": "WOODCLIFF LAKE BORO",
+     "description": 2.1347041660440333,
+     "size": 2.1347041660440333
+    },
+    {
+     "name": "WOOD RIDGE BORO",
+     "description": 2.4379501796837624,
+     "size": 2.4379501796837624
+    },
+    {
+     "name": "WYCKOFF TWP",
+     "description": 1.8301148468885309,
+     "size": 1.8301148468885309
+    }
+   ]
+  },
+  {
+   "name": "BURLINGTON",
+   "description": 2.744753249841493,
+   "children": [
+    {
+     "name": "BASS RIVER TWP",
+     "description": 2.196415173189276,
+     "size": 2.196415173189276
+    },
+    {
+     "name": "BEVERLY CITY",
+     "description": 4.426137026236853,
+     "size": 4.426137026236853
+    },
+    {
+     "name": "BORDENTOWN CITY",
+     "description": 3.1568878770243303,
+     "size": 3.1568878770243303
+    },
+    {
+     "name": "BORDENTOWN TWP",
+     "description": 2.443023013196639,
+     "size": 2.443023013196639
+    },
+    {
+     "name": "BURLINGTON CITY",
+     "description": 3.6640647692895616,
+     "size": 3.6640647692895616
+    },
+    {
+     "name": "BURLINGTON TWP",
+     "description": 2.4942027552703885,
+     "size": 2.4942027552703885
+    },
+    {
+     "name": "CHESTERFIELD TWP",
+     "description": 2.8122026799030464,
+     "size": 2.8122026799030464
+    },
+    {
+     "name": "CINNAMINSON TWP",
+     "description": 2.9782646554809276,
+     "size": 2.9782646554809276
+    },
+    {
+     "name": "DELANCO TWP",
+     "description": 3.0092047273247386,
+     "size": 3.0092047273247386
+    },
+    {
+     "name": "DELRAN TWP",
+     "description": 3.2202282184975126,
+     "size": 3.2202282184975126
+    },
+    {
+     "name": "EASTAMPTON TWP",
+     "description": 2.788763707630774,
+     "size": 2.788763707630774
+    },
+    {
+     "name": "EDGEWATER PARK TWP",
+     "description": 3.2337430288285183,
+     "size": 3.2337430288285183
+    },
+    {
+     "name": "EVESHAM TWP",
+     "description": 2.6085754457114243,
+     "size": 2.6085754457114243
+    },
+    {
+     "name": "FIELDSBORO BORO",
+     "description": 2.5789245197022805,
+     "size": 2.5789245197022805
+    },
+    {
+     "name": "FLORENCE TWP",
+     "description": 2.331325742568479,
+     "size": 2.331325742568479
+    },
+    {
+     "name": "HAINESPORT TWP",
+     "description": 2.231628289846479,
+     "size": 2.231628289846479
+    },
+    {
+     "name": "LUMBERTON TWP",
+     "description": 2.3626587667778978,
+     "size": 2.3626587667778978
+    },
+    {
+     "name": "MANSFIELD TWP",
+     "description": 2.6925955905709986,
+     "size": 2.6925955905709986
+    },
+    {
+     "name": "MAPLE SHADE TWP",
+     "description": 3.3467698589057093,
+     "size": 3.3467698589057093
+    },
+    {
+     "name": "MEDFORD TWP",
+     "description": 2.8737823596387444,
+     "size": 2.8737823596387444
+    },
+    {
+     "name": "MEDFORD LAKES BORO",
+     "description": 3.0264412871618074,
+     "size": 3.0264412871618074
+    },
+    {
+     "name": "MOORESTOWN TWP",
+     "description": 2.080990292249418,
+     "size": 2.080990292249418
+    },
+    {
+     "name": "MT HOLLY TWP",
+     "description": 2.9091241764025386,
+     "size": 2.9091241764025386
+    },
+    {
+     "name": "MT LAUREL TWP",
+     "description": 2.4716297284517386,
+     "size": 2.4716297284517386
+    },
+    {
+     "name": "NEW HANOVER TWP",
+     "description": 1.7864616092940138,
+     "size": 1.7864616092940138
+    },
+    {
+     "name": "NO HANOVER TWP",
+     "description": 2.14606592815533,
+     "size": 2.14606592815533
+    },
+    {
+     "name": "PALMYRA BORO",
+     "description": 3.740133069703245,
+     "size": 3.740133069703245
+    },
+    {
+     "name": "PEMBERTON BORO",
+     "description": 2.0250524310968805,
+     "size": 2.0250524310968805
+    },
+    {
+     "name": "PEMBERTON TWP",
+     "description": 2.3911959080766656,
+     "size": 2.3911959080766656
+    },
+    {
+     "name": "RIVERSIDE TWP",
+     "description": 3.648998704809451,
+     "size": 3.648998704809451
+    },
+    {
+     "name": "RIVERTON BORO",
+     "description": 3.063489441809337,
+     "size": 3.063489441809337
+    },
+    {
+     "name": "SHAMONG TWP",
+     "description": 2.5929023020712907,
+     "size": 2.5929023020712907
+    },
+    {
+     "name": "SOUTHAMPTON TWP",
+     "description": 2.409925889667042,
+     "size": 2.409925889667042
+    },
+    {
+     "name": "SPRINGFIELD TWP",
+     "description": 2.5843172766006437,
+     "size": 2.5843172766006437
+    },
+    {
+     "name": "TABERNACLE TWP",
+     "description": 2.717469234619529,
+     "size": 2.717469234619529
+    },
+    {
+     "name": "WASHINGTON TWP",
+     "description": 1.1796407251709142,
+     "size": 1.1796407251709142
+    },
+    {
+     "name": "WESTAMPTON TWP",
+     "description": 2.334030315640082,
+     "size": 2.334030315640082
+    },
+    {
+     "name": "WILLINGBORO TWP",
+     "description": 3.9355484413645136,
+     "size": 3.9355484413645136
+    },
+    {
+     "name": "WOODLAND TWP",
+     "description": 2.7017860119908885,
+     "size": 2.7017860119908885
+    },
+    {
+     "name": "WRIGHTSTOWN BORO",
+     "description": 2.595529013729809,
+     "size": 2.595529013729809
+    }
+   ]
+  },
+  {
+   "name": "CAMDEN",
+   "description": 3.907323191436502,
+   "children": [
+    {
+     "name": "AUDUBON BORO",
+     "description": 3.4849917272838224,
+     "size": 3.4849917272838224
+    },
+    {
+     "name": "AUDUBON PARK BORO",
+     "description": 6.26905997187838,
+     "size": 6.26905997187838
+    },
+    {
+     "name": "BARRINGTON BORO",
+     "description": 4.183279433684917,
+     "size": 4.183279433684917
+    },
+    {
+     "name": "BELLMAWR BORO",
+     "description": 3.885264271658073,
+     "size": 3.885264271658073
+    },
+    {
+     "name": "BERLIN BORO",
+     "description": 3.305519840864948,
+     "size": 3.305519840864948
+    },
+    {
+     "name": "BERLIN TWP",
+     "description": 3.3829899794846976,
+     "size": 3.3829899794846976
+    },
+    {
+     "name": "BROOKLAWN BORO",
+     "description": 3.8712017457605494,
+     "size": 3.8712017457605494
+    },
+    {
+     "name": "CAMDEN CITY",
+     "description": 2.871462528182583,
+     "size": 2.871462528182583
+    },
+    {
+     "name": "CHERRY HILL TWNSHP",
+     "description": 3.3544287360379834,
+     "size": 3.3544287360379834
+    },
+    {
+     "name": "CHESILHURST BORO",
+     "description": 3.641260977682337,
+     "size": 3.641260977682337
+    },
+    {
+     "name": "CLEMENTON BORO",
+     "description": 4.154729420580805,
+     "size": 4.154729420580805
+    },
+    {
+     "name": "COLLINGSWOOD BORO",
+     "description": 3.4937519654543197,
+     "size": 3.4937519654543197
+    },
+    {
+     "name": "GIBBSBORO BORO",
+     "description": 3.5079310768990832,
+     "size": 3.5079310768990832
+    },
+    {
+     "name": "GLOUCESTER CITY",
+     "description": 4.258646272529979,
+     "size": 4.258646272529979
+    },
+    {
+     "name": "GLOUCESTER TWP",
+     "description": 3.7362147593602977,
+     "size": 3.7362147593602977
+    },
+    {
+     "name": "HADDON TWP",
+     "description": 3.3299038718152505,
+     "size": 3.3299038718152505
+    },
+    {
+     "name": "HADDONFIELD BORO",
+     "description": 2.9593803393699742,
+     "size": 2.9593803393699742
+    },
+    {
+     "name": "HADDON HEIGHTS BORO",
+     "description": 3.2990138033993333,
+     "size": 3.2990138033993333
+    },
+    {
+     "name": "HI NELLA BORO",
+     "description": 5.272838940651018,
+     "size": 5.272838940651018
+    },
+    {
+     "name": "LAUREL SPRINGS BORO",
+     "description": 4.83406562468917,
+     "size": 4.83406562468917
+    },
+    {
+     "name": "LAWNSIDE BORO",
+     "description": 4.060008149335988,
+     "size": 4.060008149335988
+    },
+    {
+     "name": "LINDENWOLD BORO",
+     "description": 4.8634468202697585,
+     "size": 4.8634468202697585
+    },
+    {
+     "name": "MAGNOLIA BORO",
+     "description": 4.182042221924167,
+     "size": 4.182042221924167
+    },
+    {
+     "name": "MERCHANTVILLE BORO",
+     "description": 4.501184502295223,
+     "size": 4.501184502295223
+    },
+    {
+     "name": "MOUNT EPHRAIM BORO",
+     "description": 4.580966523236326,
+     "size": 4.580966523236326
+    },
+    {
+     "name": "OAKLYN BORO",
+     "description": 4.139166618422704,
+     "size": 4.139166618422704
+    },
+    {
+     "name": "PENNSAUKEN TWP",
+     "description": 3.403741322522355,
+     "size": 3.403741322522355
+    },
+    {
+     "name": "PINE HILL BORO",
+     "description": 4.7516821066210655,
+     "size": 4.7516821066210655
+    },
+    {
+     "name": "PINE VALLEY BORO",
+     "description": 2.1320398659598636,
+     "size": 2.1320398659598636
+    },
+    {
+     "name": "RUNNEMEDE BORO",
+     "description": 3.8560671768801846,
+     "size": 3.8560671768801846
+    },
+    {
+     "name": "SOMERDALE BORO",
+     "description": 3.833347072284885,
+     "size": 3.833347072284885
+    },
+    {
+     "name": "STRATFORD BORO",
+     "description": 4.066235495241178,
+     "size": 4.066235495241178
+    },
+    {
+     "name": "TAVISTOCK BORO",
+     "description": 1.7533715835887254,
+     "size": 1.7533715835887254
+    },
+    {
+     "name": "VOORHEES TWP",
+     "description": 3.440717952121171,
+     "size": 3.440717952121171
+    },
+    {
+     "name": "WATERFORD TWP",
+     "description": 3.6718821320239994,
+     "size": 3.6718821320239994
+    },
+    {
+     "name": "WINSLOW TWP",
+     "description": 3.2894336877970636,
+     "size": 3.2894336877970636
+    },
+    {
+     "name": "WOODLYNNE BORO",
+     "description": 6.949689565358389,
+     "size": 6.949689565358389
+    }
+   ]
+  },
+  {
+   "name": "CAPE MAY",
+   "description": 1.2778323891606531,
+   "children": [
+    {
+     "name": "AVALON BORO",
+     "description": 0.4888536597110958,
+     "size": 0.4888536597110958
+    },
+    {
+     "name": "CAPE MAY CITY",
+     "description": 0.8941380879590369,
+     "size": 0.8941380879590369
+    },
+    {
+     "name": "CAPE MAY POINT BORO",
+     "description": 0.5584597354216945,
+     "size": 0.5584597354216945
+    },
+    {
+     "name": "DENNIS TWP",
+     "description": 1.6741044544407644,
+     "size": 1.6741044544407644
+    },
+    {
+     "name": "LOWER TWP",
+     "description": 1.545061034022507,
+     "size": 1.545061034022507
+    },
+    {
+     "name": "MIDDLE TWP",
+     "description": 1.791241933823172,
+     "size": 1.791241933823172
+    },
+    {
+     "name": "NORTH WILDWOOD CITY",
+     "description": 1.2569818262157557,
+     "size": 1.2569818262157557
+    },
+    {
+     "name": "OCEAN CITY CITY",
+     "description": 0.8807295967140636,
+     "size": 0.8807295967140636
+    },
+    {
+     "name": "SEA ISLE CITY CITY",
+     "description": 0.6363472052755668,
+     "size": 0.6363472052755668
+    },
+    {
+     "name": "STONE HARBOR BORO",
+     "description": 0.576094186427025,
+     "size": 0.576094186427025
+    },
+    {
+     "name": "UPPER TWP",
+     "description": 1.7554289783298533,
+     "size": 1.7554289783298533
+    },
+    {
+     "name": "WEST CAPE MAY BORO",
+     "description": 1.138792422862438,
+     "size": 1.138792422862438
+    },
+    {
+     "name": "WEST WILDWOOD BORO",
+     "description": 1.5827678212871614,
+     "size": 1.5827678212871614
+    },
+    {
+     "name": "WILDWOOD CITY",
+     "description": 2.517277628692388,
+     "size": 2.517277628692388
+    },
+    {
+     "name": "WILDWOOD CREST BORO",
+     "description": 1.2908845837948226,
+     "size": 1.2908845837948226
+    },
+    {
+     "name": "WOODBINE BORO",
+     "description": 1.8581550715931014,
+     "size": 1.8581550715931014
+    }
+   ]
+  },
+  {
+   "name": "CUMBERLAND",
+   "description": 3.165453189592447,
+   "children": [
+    {
+     "name": "BRIDGETON CITY",
+     "description": 4.394913301426652,
+     "size": 4.394913301426652
+    },
+    {
+     "name": "COMMERCIAL TWP",
+     "description": 2.788033297688471,
+     "size": 2.788033297688471
+    },
+    {
+     "name": "DEERFIELD TWP",
+     "description": 3.5151818257863545,
+     "size": 3.5151818257863545
+    },
+    {
+     "name": "DOWNE TWP",
+     "description": 2.7430913131904964,
+     "size": 2.7430913131904964
+    },
+    {
+     "name": "FAIRFIELD TWP",
+     "description": 2.8480009165044735,
+     "size": 2.8480009165044735
+    },
+    {
+     "name": "GREENWICH TWP",
+     "description": 3.6786183463510422,
+     "size": 3.6786183463510422
+    },
+    {
+     "name": "HOPEWELL TWP",
+     "description": 3.1127262996812974,
+     "size": 3.1127262996812974
+    },
+    {
+     "name": "LAWRENCE TWP",
+     "description": 2.942417870021232,
+     "size": 2.942417870021232
+    },
+    {
+     "name": "MAURICE RIVER TWP",
+     "description": 2.821084468721394,
+     "size": 2.821084468721394
+    },
+    {
+     "name": "MILLVILLE CITY",
+     "description": 3.317477014839093,
+     "size": 3.317477014839093
+    },
+    {
+     "name": "SHILOH BORO",
+     "description": 3.0499347442500406,
+     "size": 3.0499347442500406
+    },
+    {
+     "name": "STOW CREEK TWP",
+     "description": 3.0263160683709733,
+     "size": 3.0263160683709733
+    },
+    {
+     "name": "UPPER DEERFIELD TWP",
+     "description": 3.2817858446587653,
+     "size": 3.2817858446587653
+    },
+    {
+     "name": "VINELAND CITY",
+     "description": 2.7967633428039673,
+     "size": 2.7967633428039673
+    }
+   ]
+  },
+  {
+   "name": "ESSEX",
+   "description": 2.950938280435606,
+   "children": [
+    {
+     "name": "BELLEVILLE TWP",
+     "description": 3.6750843482233835,
+     "size": 3.6750843482233835
+    },
+    {
+     "name": "BLOOMFIELD TWP",
+     "description": 3.2374592186506277,
+     "size": 3.2374592186506277
+    },
+    {
+     "name": "CALDWELL BORO TWP",
+     "description": 2.5010217227922804,
+     "size": 2.5010217227922804
+    },
+    {
+     "name": "CEDAR GROVE TWP",
+     "description": 2.26608156727975,
+     "size": 2.26608156727975
+    },
+    {
+     "name": "EAST ORANGE CITY",
+     "description": 4.132232578744379,
+     "size": 4.132232578744379
+    },
+    {
+     "name": "ESSEX FELLS TWP",
+     "description": 2.024442634595361,
+     "size": 2.024442634595361
+    },
+    {
+     "name": "FAIRFIELD TWP",
+     "description": 1.872250648371621,
+     "size": 1.872250648371621
+    },
+    {
+     "name": "GLEN RIDGE TWP",
+     "description": 2.917814256066838,
+     "size": 2.917814256066838
+    },
+    {
+     "name": "IRVINGTON TWP",
+     "description": 5.2027070423619906,
+     "size": 5.2027070423619906
+    },
+    {
+     "name": "LIVINGSTON TWP",
+     "description": 2.3024748041762666,
+     "size": 2.3024748041762666
+    },
+    {
+     "name": "MAPLEWOOD TWP",
+     "description": 2.9565830198955014,
+     "size": 2.9565830198955014
+    },
+    {
+     "name": "MILLBURN TWP",
+     "description": 1.8777239084181738,
+     "size": 1.8777239084181738
+    },
+    {
+     "name": "MONTCLAIR TWP",
+     "description": 2.8408494486592053,
+     "size": 2.8408494486592053
+    },
+    {
+     "name": "NEWARK CITY",
+     "description": 3.0668286251905754,
+     "size": 3.0668286251905754
+    },
+    {
+     "name": "NORTH CALDWELL TWP",
+     "description": 2.1106353176691153,
+     "size": 2.1106353176691153
+    },
+    {
+     "name": "NUTLEY TWP",
+     "description": 3.039519728443003,
+     "size": 3.039519728443003
+    },
+    {
+     "name": "ORANGE CITY TWP",
+     "description": 5.068852522381228,
+     "size": 5.068852522381228
+    },
+    {
+     "name": "ROSELAND BORO",
+     "description": 2.143197491149021,
+     "size": 2.143197491149021
+    },
+    {
+     "name": "SOUTH ORANGE VILLAGE TW",
+     "description": 2.971304742759417,
+     "size": 2.971304742759417
+    },
+    {
+     "name": "VERONA TWP",
+     "description": 2.6890272870448353,
+     "size": 2.6890272870448353
+    },
+    {
+     "name": "WEST CALDWELL TWP",
+     "description": 2.3570663327416645,
+     "size": 2.3570663327416645
+    },
+    {
+     "name": "WEST ORANGE TWP",
+     "description": 3.6674849239690777,
+     "size": 3.6674849239690777
+    }
+   ]
+  },
+  {
+   "name": "GLOUCESTER",
+   "description": 3.5161633471108718,
+   "children": [
+    {
+     "name": "CLAYTON BORO",
+     "description": 3.7860782362025143,
+     "size": 3.7860782362025143
+    },
+    {
+     "name": "DEPTFORD TWP",
+     "description": 3.116423891678332,
+     "size": 3.116423891678332
+    },
+    {
+     "name": "EAST GREENWICH TWP",
+     "description": 2.975563066034206,
+     "size": 2.975563066034206
+    },
+    {
+     "name": "ELK TWP",
+     "description": 3.492981468720222,
+     "size": 3.492981468720222
+    },
+    {
+     "name": "FRANKLIN TWP",
+     "description": 3.1205905631256723,
+     "size": 3.1205905631256723
+    },
+    {
+     "name": "GLASSBORO BORO",
+     "description": 3.2931278766400602,
+     "size": 3.2931278766400602
+    },
+    {
+     "name": "GREENWICH TWP",
+     "description": 2.9408917430777906,
+     "size": 2.9408917430777906
+    },
+    {
+     "name": "HARRISON TWP",
+     "description": 2.90293801535635,
+     "size": 2.90293801535635
+    },
+    {
+     "name": "LOGAN TWP",
+     "description": 2.116209021739612,
+     "size": 2.116209021739612
+    },
+    {
+     "name": "MANTUA TWP",
+     "description": 3.136258154547901,
+     "size": 3.136258154547901
+    },
+    {
+     "name": "MONROE TWP",
+     "description": 3.6374845312008084,
+     "size": 3.6374845312008084
+    },
+    {
+     "name": "NATIONAL PARK BORO",
+     "description": 4.332468377231473,
+     "size": 4.332468377231473
+    },
+    {
+     "name": "NEWFIELD BORO",
+     "description": 3.608371275051545,
+     "size": 3.608371275051545
+    },
+    {
+     "name": "PAULSBORO BORO",
+     "description": 4.208832968652486,
+     "size": 4.208832968652486
+    },
+    {
+     "name": "PITMAN BORO",
+     "description": 4.040632212651711,
+     "size": 4.040632212651711
+    },
+    {
+     "name": "SO HARRISON TWP",
+     "description": 2.762951789109985,
+     "size": 2.762951789109985
+    },
+    {
+     "name": "SWEDESBORO BORO",
+     "description": 3.833811231573636,
+     "size": 3.833811231573636
+    },
+    {
+     "name": "WASHINGTON TWP",
+     "description": 3.1416073841154053,
+     "size": 3.1416073841154053
+    },
+    {
+     "name": "WENONAH BORO",
+     "description": 4.158652084371482,
+     "size": 4.158652084371482
+    },
+    {
+     "name": "WEST DEPTFORD TWP",
+     "description": 3.1196375682674407,
+     "size": 3.1196375682674407
+    },
+    {
+     "name": "WESTVILLE BORO",
+     "description": 4.524661197913035,
+     "size": 4.524661197913035
+    },
+    {
+     "name": "WOODBURY CITY",
+     "description": 4.454762349919368,
+     "size": 4.454762349919368
+    },
+    {
+     "name": "WOODBURY HEIGHTS BORO",
+     "description": 4.259588249846875,
+     "size": 4.259588249846875
+    },
+    {
+     "name": "WOOLWICH TWP",
+     "description": 3.423397073633024,
+     "size": 3.423397073633024
+    }
+   ]
+  },
+  {
+   "name": "HUDSON",
+   "description": 2.0743894334334905,
+   "children": [
+    {
+     "name": "BAYONNE CITY",
+     "description": 2.6048056769519143,
+     "size": 2.6048056769519143
+    },
+    {
+     "name": "EAST NEWARK BORO",
+     "description": 1.9607747956776154,
+     "size": 1.9607747956776154
+    },
+    {
+     "name": "GUTTENBERG TOWN",
+     "description": 2.54853269233692,
+     "size": 2.54853269233692
+    },
+    {
+     "name": "HARRISON TOWN",
+     "description": 2.2607829273526767,
+     "size": 2.2607829273526767
+    },
+    {
+     "name": "HOBOKEN CITY",
+     "description": 1.0648637314391896,
+     "size": 1.0648637314391896
+    },
+    {
+     "name": "JERSEY CITY CITY",
+     "description": 1.4010353864270668,
+     "size": 1.4010353864270668
+    },
+    {
+     "name": "KEARNY TOWN",
+     "description": 2.62229462535959,
+     "size": 2.62229462535959
+    },
+    {
+     "name": "NORTH BERGEN TWP",
+     "description": 2.209497899891906,
+     "size": 2.209497899891906
+    },
+    {
+     "name": "SECAUCUS TOWN",
+     "description": 1.8981318003861194,
+     "size": 1.8981318003861194
+    },
+    {
+     "name": "UNION CITY CITY",
+     "description": 2.4994323429401994,
+     "size": 2.4994323429401994
+    },
+    {
+     "name": "WEEHAWKEN TWP",
+     "description": 1.7440899300510742,
+     "size": 1.7440899300510742
+    },
+    {
+     "name": "WEST NEW YORK TOWN",
+     "description": 2.078431392387615,
+     "size": 2.078431392387615
+    }
+   ]
+  },
+  {
+   "name": "HUNTERDON",
+   "description": 2.6790976862962848,
+   "children": [
+    {
+     "name": "ALEXANDRIA TWP",
+     "description": 2.428610798036827,
+     "size": 2.428610798036827
+    },
+    {
+     "name": "BETHLEHEM TWP",
+     "description": 2.7769958163758544,
+     "size": 2.7769958163758544
+    },
+    {
+     "name": "BLOOMSBURY BORO",
+     "description": 2.899028699643673,
+     "size": 2.899028699643673
+    },
+    {
+     "name": "CALIFON BORO",
+     "description": 3.3884008594298005,
+     "size": 3.3884008594298005
+    },
+    {
+     "name": "CLINTON TOWN",
+     "description": 3.058133070313961,
+     "size": 3.058133070313961
+    },
+    {
+     "name": "CLINTON TWP",
+     "description": 2.5169983702359047,
+     "size": 2.5169983702359047
+    },
+    {
+     "name": "DELAWARE TWP",
+     "description": 2.358900407485431,
+     "size": 2.358900407485431
+    },
+    {
+     "name": "EAST AMWELL TWP",
+     "description": 2.1892647312079276,
+     "size": 2.1892647312079276
+    },
+    {
+     "name": "FLEMINGTON BORO",
+     "description": 3.132962794541176,
+     "size": 3.132962794541176
+    },
+    {
+     "name": "FRANKLIN TWP",
+     "description": 2.5647504687875258,
+     "size": 2.5647504687875258
+    },
+    {
+     "name": "FRENCHTOWN BORO",
+     "description": 3.1080842828844935,
+     "size": 3.1080842828844935
+    },
+    {
+     "name": "GLEN GARDNER BORO",
+     "description": 2.824906439053773,
+     "size": 2.824906439053773
+    },
+    {
+     "name": "HAMPTON BORO",
+     "description": 3.673822384915221,
+     "size": 3.673822384915221
+    },
+    {
+     "name": "HIGH BRIDGE BORO",
+     "description": 3.831253704632581,
+     "size": 3.831253704632581
+    },
+    {
+     "name": "HOLLAND TWP",
+     "description": 2.593748892819754,
+     "size": 2.593748892819754
+    },
+    {
+     "name": "KINGWOOD TWP",
+     "description": 2.3169620592764644,
+     "size": 2.3169620592764644
+    },
+    {
+     "name": "LAMBERTVILLE CITY",
+     "description": 2.024576254472376,
+     "size": 2.024576254472376
+    },
+    {
+     "name": "LEBANON BORO",
+     "description": 2.4600579713271387,
+     "size": 2.4600579713271387
+    },
+    {
+     "name": "LEBANON TWP",
+     "description": 2.390961359529538,
+     "size": 2.390961359529538
+    },
+    {
+     "name": "MILFORD BORO",
+     "description": 3.198709479914452,
+     "size": 3.198709479914452
+    },
+    {
+     "name": "RARITAN TWP",
+     "description": 2.464293213389058,
+     "size": 2.464293213389058
+    },
+    {
+     "name": "READINGTON TWP",
+     "description": 2.4495334397821455,
+     "size": 2.4495334397821455
+    },
+    {
+     "name": "STOCKTON BORO",
+     "description": 2.0750768783260347,
+     "size": 2.0750768783260347
+    },
+    {
+     "name": "TEWKSBURY TWP",
+     "description": 2.147222378483451,
+     "size": 2.147222378483451
+    },
+    {
+     "name": "UNION TWP",
+     "description": 2.388129662290743,
+     "size": 2.388129662290743
+    },
+    {
+     "name": "WEST AMWELL TWP",
+     "description": 2.395155426548107,
+     "size": 2.395155426548107
+    }
+   ]
+  },
+  {
+   "name": "MERCER",
+   "description": 3.0302344427181396,
+   "children": [
+    {
+     "name": "EAST WINDSOR TWP",
+     "description": 3.041290598756166,
+     "size": 3.041290598756166
+    },
+    {
+     "name": "EWING TWP",
+     "description": 3.481794921632676,
+     "size": 3.481794921632676
+    },
+    {
+     "name": "HAMILTON TWP",
+     "description": 2.735721364028115,
+     "size": 2.735721364028115
+    },
+    {
+     "name": "HIGHTSTOWN BORO",
+     "description": 3.7563132105765775,
+     "size": 3.7563132105765775
+    },
+    {
+     "name": "HOPEWELL BORO",
+     "description": 2.8562283833437916,
+     "size": 2.8562283833437916
+    },
+    {
+     "name": "HOPEWELL TWP",
+     "description": 2.7056504586755956,
+     "size": 2.7056504586755956
+    },
+    {
+     "name": "LAWRENCE TWP",
+     "description": 2.725409991140335,
+     "size": 2.725409991140335
+    },
+    {
+     "name": "PENNINGTON BORO",
+     "description": 2.698386415314488,
+     "size": 2.698386415314488
+    },
+    {
+     "name": "TRENTON CITY",
+     "description": 5.1228631623368495,
+     "size": 5.1228631623368495
+    },
+    {
+     "name": "ROBBINSVILLE TWP",
+     "description": 2.74473507186838,
+     "size": 2.74473507186838
+    },
+    {
+     "name": "WEST WINDSOR TWP",
+     "description": 2.490332416006051,
+     "size": 2.490332416006051
+    },
+    {
+     "name": "PRINCETON",
+     "description": 2.004087318938653,
+     "size": 2.004087318938653
+    }
+   ]
+  },
+  {
+   "name": "MIDDLESEX",
+   "description": 2.5884512520542735,
+   "children": [
+    {
+     "name": "CARTERET BORO",
+     "description": 2.559093494791286,
+     "size": 2.559093494791286
+    },
+    {
+     "name": "CRANBURY TWP",
+     "description": 1.7154101369426231,
+     "size": 1.7154101369426231
+    },
+    {
+     "name": "DUNELLEN BORO",
+     "description": 3.262147116176866,
+     "size": 3.262147116176866
+    },
+    {
+     "name": "EAST BRUNSWICK TWP",
+     "description": 2.7802140749136655,
+     "size": 2.7802140749136655
+    },
+    {
+     "name": "EDISON TWP",
+     "description": 2.1263348995963685,
+     "size": 2.1263348995963685
+    },
+    {
+     "name": "HELMETTA BORO",
+     "description": 2.6156462828084117,
+     "size": 2.6156462828084117
+    },
+    {
+     "name": "HIGHLAND PARK BORO",
+     "description": 3.4674062236884002,
+     "size": 3.4674062236884002
+    },
+    {
+     "name": "JAMESBURG BORO",
+     "description": 3.3565862453356283,
+     "size": 3.3565862453356283
+    },
+    {
+     "name": "METUCHEN BORO",
+     "description": 2.669737119898878,
+     "size": 2.669737119898878
+    },
+    {
+     "name": "MIDDLESEX BORO",
+     "description": 2.997292034408987,
+     "size": 2.997292034408987
+    },
+    {
+     "name": "MILLTOWN BORO",
+     "description": 2.8978110224986735,
+     "size": 2.8978110224986735
+    },
+    {
+     "name": "MONROE TWP",
+     "description": 2.0522468149829014,
+     "size": 2.0522468149829014
+    },
+    {
+     "name": "NEW BRUNSWICK CITY",
+     "description": 2.372975274236586,
+     "size": 2.372975274236586
+    },
+    {
+     "name": "NORTH BRUNSWICK TWP",
+     "description": 3.0483981068454353,
+     "size": 3.0483981068454353
+    },
+    {
+     "name": "OLD BRIDGE TWP",
+     "description": 2.1018174724946164,
+     "size": 2.1018174724946164
+    },
+    {
+     "name": "PERTH AMBOY CITY",
+     "description": 2.823013170258369,
+     "size": 2.823013170258369
+    },
+    {
+     "name": "PISCATAWAY TWP",
+     "description": 2.176743710640684,
+     "size": 2.176743710640684
+    },
+    {
+     "name": "PLAINSBORO TWP",
+     "description": 2.3168958395494963,
+     "size": 2.3168958395494963
+    },
+    {
+     "name": "SAYREVILLE BORO",
+     "description": 2.432096995348676,
+     "size": 2.432096995348676
+    },
+    {
+     "name": "SOUTH AMBOY CITY",
+     "description": 2.6507228964902376,
+     "size": 2.6507228964902376
+    },
+    {
+     "name": "SOUTH BRUNSWICK TWP",
+     "description": 1.9842493962066414,
+     "size": 1.9842493962066414
+    },
+    {
+     "name": "SOUTH PLAINFIELD BORO",
+     "description": 2.095560657522523,
+     "size": 2.095560657522523
+    },
+    {
+     "name": "SOUTH RIVER BORO",
+     "description": 2.382571449176995,
+     "size": 2.382571449176995
+    },
+    {
+     "name": "SPOTSWOOD BORO",
+     "description": 2.950137191189447,
+     "size": 2.950137191189447
+    },
+    {
+     "name": "WOODBRIDGE TWP",
+     "description": 2.8761736753544427,
+     "size": 2.8761736753544427
+    }
+   ]
+  },
+  {
+   "name": "MONMOUTH",
+   "description": 1.8898819181745605,
+   "children": [
+    {
+     "name": "ABERDEEN TWP",
+     "description": 2.437264224976103,
+     "size": 2.437264224976103
+    },
+    {
+     "name": "ALLENHURST BORO",
+     "description": 0.6775052094680503,
+     "size": 0.6775052094680503
+    },
+    {
+     "name": "ALLENTOWN BORO",
+     "description": 2.8845619112806298,
+     "size": 2.8845619112806298
+    },
+    {
+     "name": "ASBURY PARK CITY",
+     "description": 1.6585580623174845,
+     "size": 1.6585580623174845
+    },
+    {
+     "name": "ATLANTIC HIGHLANDS BORO",
+     "description": 1.9595622170326839,
+     "size": 1.9595622170326839
+    },
+    {
+     "name": "AVON BY THE SEA BORO",
+     "description": 1.0050863502034575,
+     "size": 1.0050863502034575
+    },
+    {
+     "name": "BELMAR BORO",
+     "description": 1.2465817701777304,
+     "size": 1.2465817701777304
+    },
+    {
+     "name": "BRADLEY BEACH BORO",
+     "description": 1.2436933369054033,
+     "size": 1.2436933369054033
+    },
+    {
+     "name": "BRIELLE BORO",
+     "description": 1.6173321754307974,
+     "size": 1.6173321754307974
+    },
+    {
+     "name": "COLTS NECK TOWNSHIP",
+     "description": 1.7283722206943801,
+     "size": 1.7283722206943801
+    },
+    {
+     "name": "DEAL BORO",
+     "description": 0.6188937738462319,
+     "size": 0.6188937738462319
+    },
+    {
+     "name": "EATONTOWN BORO",
+     "description": 2.2084349669000476,
+     "size": 2.2084349669000476
+    },
+    {
+     "name": "ENGLISHTOWN BORO",
+     "description": 2.223665381282643,
+     "size": 2.223665381282643
+    },
+    {
+     "name": "FAIR HAVEN BORO",
+     "description": 1.8650268265410659,
+     "size": 1.8650268265410659
+    },
+    {
+     "name": "FARMINGDALE BORO",
+     "description": 2.2622048258094605,
+     "size": 2.2622048258094605
+    },
+    {
+     "name": "FREEHOLD BORO",
+     "description": 2.6273440369343675,
+     "size": 2.6273440369343675
+    },
+    {
+     "name": "FREEHOLD TWP",
+     "description": 2.1187600665051765,
+     "size": 2.1187600665051765
+    },
+    {
+     "name": "HAZLET TWP",
+     "description": 2.5282511156037,
+     "size": 2.5282511156037
+    },
+    {
+     "name": "HIGHLANDS BORO",
+     "description": 2.5611071256560907,
+     "size": 2.5611071256560907
+    },
+    {
+     "name": "HOLMDEL TWP",
+     "description": 2.0082731918244865,
+     "size": 2.0082731918244865
+    },
+    {
+     "name": "HOWELL TWP",
+     "description": 2.148643404435036,
+     "size": 2.148643404435036
+    },
+    {
+     "name": "INTERLAKEN BORO",
+     "description": 1.1434385001361438,
+     "size": 1.1434385001361438
+    },
+    {
+     "name": "KEANSBURG BORO",
+     "description": 3.1830150849796026,
+     "size": 3.1830150849796026
+    },
+    {
+     "name": "KEYPORT BORO",
+     "description": 2.560725896625903,
+     "size": 2.560725896625903
+    },
+    {
+     "name": "LITTLE SILVER BORO",
+     "description": 1.9660369743769543,
+     "size": 1.9660369743769543
+    },
+    {
+     "name": "LOCH ARBOUR VILLAGE",
+     "description": 0.980993014051456,
+     "size": 0.980993014051456
+    },
+    {
+     "name": "LONG BRANCH CITY",
+     "description": 2.004566003673935,
+     "size": 2.004566003673935
+    },
+    {
+     "name": "MANALAPAN TWP",
+     "description": 1.9240075412590991,
+     "size": 1.9240075412590991
+    },
+    {
+     "name": "MANASQUAN BORO",
+     "description": 1.3284078465032036,
+     "size": 1.3284078465032036
+    },
+    {
+     "name": "MARLBORO TWP",
+     "description": 2.003087558841502,
+     "size": 2.003087558841502
+    },
+    {
+     "name": "MATAWAN BORO",
+     "description": 2.6936675885860724,
+     "size": 2.6936675885860724
+    },
+    {
+     "name": "MIDDLETOWN TWP",
+     "description": 2.1140671847663004,
+     "size": 2.1140671847663004
+    },
+    {
+     "name": "MILLSTONE TWP",
+     "description": 2.1375394989159977,
+     "size": 2.1375394989159977
+    },
+    {
+     "name": "MONMOUTH BEACH BORO",
+     "description": 1.1987886582952487,
+     "size": 1.1987886582952487
+    },
+    {
+     "name": "NEPTUNE TWP",
+     "description": 2.008486103549555,
+     "size": 2.008486103549555
+    },
+    {
+     "name": "NEPTUNE CITY BORO",
+     "description": 2.1905158278801746,
+     "size": 2.1905158278801746
+    },
+    {
+     "name": "OCEAN TWP",
+     "description": 1.964996743649966,
+     "size": 1.964996743649966
+    },
+    {
+     "name": "OCEANPORT BORO",
+     "description": 1.8386671902885436,
+     "size": 1.8386671902885436
+    },
+    {
+     "name": "RED BANK BORO",
+     "description": 2.1557941902371884,
+     "size": 2.1557941902371884
+    },
+    {
+     "name": "ROOSEVELT BORO",
+     "description": 2.9193460185385653,
+     "size": 2.9193460185385653
+    },
+    {
+     "name": "RUMSON BORO",
+     "description": 1.4303321587883617,
+     "size": 1.4303321587883617
+    },
+    {
+     "name": "SEA BRIGHT BORO",
+     "description": 1.1834890771940885,
+     "size": 1.1834890771940885
+    },
+    {
+     "name": "SEA GIRT BORO",
+     "description": 0.6404980752057227,
+     "size": 0.6404980752057227
+    },
+    {
+     "name": "SHREWSBURY BORO",
+     "description": 2.1062314800463233,
+     "size": 2.1062314800463233
+    },
+    {
+     "name": "SHREWSBURY TWP",
+     "description": 2.994315689165957,
+     "size": 2.994315689165957
+    },
+    {
+     "name": "SOUTH BELMAR BORO",
+     "description": 1.4839807326243564,
+     "size": 1.4839807326243564
+    },
+    {
+     "name": "SPRING LAKE BORO",
+     "description": 0.6016981479280715,
+     "size": 0.6016981479280715
+    },
+    {
+     "name": "SPRING LAKE HEIGHTS BOR",
+     "description": 1.3681171586044651,
+     "size": 1.3681171586044651
+    },
+    {
+     "name": "TINTON FALLS BORO",
+     "description": 1.8878068574669467,
+     "size": 1.8878068574669467
+    },
+    {
+     "name": "UNION BEACH BORO",
+     "description": 2.5328340318068943,
+     "size": 2.5328340318068943
+    },
+    {
+     "name": "UPPER FREEHOLD TWP",
+     "description": 2.3039386518782305,
+     "size": 2.3039386518782305
+    },
+    {
+     "name": "WALL TWP",
+     "description": 1.737831469643169,
+     "size": 1.737831469643169
+    },
+    {
+     "name": "WEST LONG BRANCH BORO",
+     "description": 1.9473985139186953,
+     "size": 1.9473985139186953
+    }
+   ]
+  },
+  {
+   "name": "MORRIS",
+   "description": 2.309816912174183,
+   "children": [
+    {
+     "name": "BOONTON TOWN",
+     "description": 2.7224242293378516,
+     "size": 2.7224242293378516
+    },
+    {
+     "name": "BOONTON TWP",
+     "description": 2.105080702433958,
+     "size": 2.105080702433958
+    },
+    {
+     "name": "BUTLER BORO",
+     "description": 2.7832739188412177,
+     "size": 2.7832739188412177
+    },
+    {
+     "name": "CHATHAM BORO",
+     "description": 1.6991734727257928,
+     "size": 1.6991734727257928
+    },
+    {
+     "name": "CHATHAM TWP",
+     "description": 1.6743757505967922,
+     "size": 1.6743757505967922
+    },
+    {
+     "name": "CHESTER BORO",
+     "description": 2.768567716687901,
+     "size": 2.768567716687901
+    },
+    {
+     "name": "CHESTER TWP",
+     "description": 2.3023564405720403,
+     "size": 2.3023564405720403
+    },
+    {
+     "name": "DENVILLE TWP",
+     "description": 2.3274492005971963,
+     "size": 2.3274492005971963
+    },
+    {
+     "name": "DOVER TOWN",
+     "description": 2.5615672654310577,
+     "size": 2.5615672654310577
+    },
+    {
+     "name": "EAST HANOVER TWP",
+     "description": 1.8450014048440357,
+     "size": 1.8450014048440357
+    },
+    {
+     "name": "FLORHAM PARK BORO",
+     "description": 1.5138722401330569,
+     "size": 1.5138722401330569
+    },
+    {
+     "name": "HANOVER TWP",
+     "description": 1.683374994565549,
+     "size": 1.683374994565549
+    },
+    {
+     "name": "HARDING TWP",
+     "description": 1.0302202966692708,
+     "size": 1.0302202966692708
+    },
+    {
+     "name": "JEFFERSON TWP",
+     "description": 2.711063156116304,
+     "size": 2.711063156116304
+    },
+    {
+     "name": "KINNELON BORO",
+     "description": 2.608124806222208,
+     "size": 2.608124806222208
+    },
+    {
+     "name": "LINCOLN PARK BORO",
+     "description": 2.655150366447417,
+     "size": 2.655150366447417
+    },
+    {
+     "name": "MADISON BORO",
+     "description": 1.6113086268775625,
+     "size": 1.6113086268775625
+    },
+    {
+     "name": "MENDHAM BORO",
+     "description": 2.1389060984371437,
+     "size": 2.1389060984371437
+    },
+    {
+     "name": "MENDHAM TWP",
+     "description": 2.179003741561343,
+     "size": 2.179003741561343
+    },
+    {
+     "name": "MINE HILL TWP",
+     "description": 2.498138016373455,
+     "size": 2.498138016373455
+    },
+    {
+     "name": "MONTVILLE TWP",
+     "description": 2.199904926257702,
+     "size": 2.199904926257702
+    },
+    {
+     "name": "MORRIS TWP",
+     "description": 1.7495571713249547,
+     "size": 1.7495571713249547
+    },
+    {
+     "name": "MORRIS PLAINS BORO",
+     "description": 2.156544808986692,
+     "size": 2.156544808986692
+    },
+    {
+     "name": "MORRISTOWN TOWN",
+     "description": 2.117717493762346,
+     "size": 2.117717493762346
+    },
+    {
+     "name": "MOUNTAIN LAKES BORO",
+     "description": 2.571289826483133,
+     "size": 2.571289826483133
+    },
+    {
+     "name": "MOUNT ARLINGTON BORO",
+     "description": 2.2857894936761123,
+     "size": 2.2857894936761123
+    },
+    {
+     "name": "MOUNT OLIVE TWP",
+     "description": 3.006692410419811,
+     "size": 3.006692410419811
+    },
+    {
+     "name": "NETCONG BORO",
+     "description": 3.2659963791118893,
+     "size": 3.2659963791118893
+    },
+    {
+     "name": "PARSIPPANY TR HLS TWP",
+     "description": 2.514173953018482,
+     "size": 2.514173953018482
+    },
+    {
+     "name": "LONG HILL TWP",
+     "description": 2.303497100877638,
+     "size": 2.303497100877638
+    },
+    {
+     "name": "PEQUANNOCK TWP",
+     "description": 2.0472362091061256,
+     "size": 2.0472362091061256
+    },
+    {
+     "name": "RANDOLPH TWP",
+     "description": 2.483364313432132,
+     "size": 2.483364313432132
+    },
+    {
+     "name": "RIVERDALE BORO",
+     "description": 1.826197262442382,
+     "size": 1.826197262442382
+    },
+    {
+     "name": "ROCKAWAY BORO",
+     "description": 3.000049441111472,
+     "size": 3.000049441111472
+    },
+    {
+     "name": "ROCKAWAY TWP",
+     "description": 2.638114452239053,
+     "size": 2.638114452239053
+    },
+    {
+     "name": "ROXBURY TWP",
+     "description": 2.6623116366727233,
+     "size": 2.6623116366727233
+    },
+    {
+     "name": "VICTORY GARDENS BORO",
+     "description": 2.387446719231813,
+     "size": 2.387446719231813
+    },
+    {
+     "name": "WASHINGTON TWP",
+     "description": 2.577310625968711,
+     "size": 2.577310625968711
+    },
+    {
+     "name": "WHARTON BORO",
+     "description": 2.8712329051987937,
+     "size": 2.8712329051987937
+    }
+   ]
+  },
+  {
+   "name": "OCEAN",
+   "description": 1.809424246346554,
+   "children": [
+    {
+     "name": "BARNEGAT TWP",
+     "description": 2.6028269422656964,
+     "size": 2.6028269422656964
+    },
+    {
+     "name": "BARNEGAT LIGHT BORO",
+     "description": 0.8716648370648981,
+     "size": 0.8716648370648981
+    },
+    {
+     "name": "BAY HEAD BORO",
+     "description": 0.8232395416250695,
+     "size": 0.8232395416250695
+    },
+    {
+     "name": "BEACH HAVEN BORO",
+     "description": 1.0212271610129393,
+     "size": 1.0212271610129393
+    },
+    {
+     "name": "BEACHWOOD BORO",
+     "description": 2.2143952744451196,
+     "size": 2.2143952744451196
+    },
+    {
+     "name": "BERKELEY TWP",
+     "description": 1.9939396394874493,
+     "size": 1.9939396394874493
+    },
+    {
+     "name": "BRICK TWP",
+     "description": 2.085249395329759,
+     "size": 2.085249395329759
+    },
+    {
+     "name": "DOVER TWP",
+     "description": 1.9210599991441404,
+     "size": 1.9210599991441404
+    },
+    {
+     "name": "EAGLESWOOD TWP",
+     "description": 2.6471596866055394,
+     "size": 2.6471596866055394
+    },
+    {
+     "name": "HARVEY CEDARS BORO",
+     "description": 0.9340413125771826,
+     "size": 0.9340413125771826
+    },
+    {
+     "name": "ISLAND HEIGHTS BORO",
+     "description": 1.9810909194065676,
+     "size": 1.9810909194065676
+    },
+    {
+     "name": "JACKSON TWP",
+     "description": 2.0539586407876174,
+     "size": 2.0539586407876174
+    },
+    {
+     "name": "LACEY TWP",
+     "description": 2.1353100062951396,
+     "size": 2.1353100062951396
+    },
+    {
+     "name": "LAKEHURST BORO",
+     "description": 2.8175641116975245,
+     "size": 2.8175641116975245
+    },
+    {
+     "name": "LAKEWOOD TWP",
+     "description": 1.8893272066343472,
+     "size": 1.8893272066343472
+    },
+    {
+     "name": "LAVALLETTE BORO",
+     "description": 0.827924038240028,
+     "size": 0.827924038240028
+    },
+    {
+     "name": "LITTLE EGG HARBOR TWP",
+     "description": 2.4501537094261874,
+     "size": 2.4501537094261874
+    },
+    {
+     "name": "LONG BEACH TWP",
+     "description": 0.878063854862556,
+     "size": 0.878063854862556
+    },
+    {
+     "name": "MANCHESTER TWP",
+     "description": 2.1296051246186245,
+     "size": 2.1296051246186245
+    },
+    {
+     "name": "MANTOLOKING BORO",
+     "description": 0.6677624216802184,
+     "size": 0.6677624216802184
+    },
+    {
+     "name": "OCEAN TWP",
+     "description": 1.8867188452898591,
+     "size": 1.8867188452898591
+    },
+    {
+     "name": "OCEAN GATE BORO",
+     "description": 2.3472348818665933,
+     "size": 2.3472348818665933
+    },
+    {
+     "name": "PINE BEACH BORO",
+     "description": 2.0882242701317826,
+     "size": 2.0882242701317826
+    },
+    {
+     "name": "PLUMSTED TWP",
+     "description": 2.0558760725015244,
+     "size": 2.0558760725015244
+    },
+    {
+     "name": "POINT PLEASANT BORO",
+     "description": 1.8956497745065637,
+     "size": 1.8956497745065637
+    },
+    {
+     "name": "PT PLEASANT BEACH BORO",
+     "description": 1.4414324013498436,
+     "size": 1.4414324013498436
+    },
+    {
+     "name": "SEASIDE HEIGHTS BORO",
+     "description": 2.2388301457204203,
+     "size": 2.2388301457204203
+    },
+    {
+     "name": "SEASIDE PARK BORO",
+     "description": 1.45994446210752,
+     "size": 1.45994446210752
+    },
+    {
+     "name": "SHIP BOTTOM BORO",
+     "description": 0.9648919660387164,
+     "size": 0.9648919660387164
+    },
+    {
+     "name": "SOUTH TOMS RIVER BORO",
+     "description": 2.861502926965949,
+     "size": 2.861502926965949
+    },
+    {
+     "name": "STAFFORD TWP",
+     "description": 2.0676912818812654,
+     "size": 2.0676912818812654
+    },
+    {
+     "name": "SURF CITY BORO",
+     "description": 0.8975132756401126,
+     "size": 0.8975132756401126
+    },
+    {
+     "name": "TUCKERTON BORO",
+     "description": 2.559926002229522,
+     "size": 2.559926002229522
+    }
+   ]
+  },
+  {
+   "name": "PASSAIC",
+   "description": 3.1260519423654256,
+   "children": [
+    {
+     "name": "BLOOMINGDALE BORO",
+     "description": 3.728358862557515,
+     "size": 3.728358862557515
+    },
+    {
+     "name": "CLIFTON CITY",
+     "description": 2.7655042397610368,
+     "size": 2.7655042397610368
+    },
+    {
+     "name": "HALEDON BORO",
+     "description": 3.912221943471851,
+     "size": 3.912221943471851
+    },
+    {
+     "name": "HAWTHORNE BORO",
+     "description": 2.8402581510811324,
+     "size": 2.8402581510811324
+    },
+    {
+     "name": "LITTLE FALLS TWP",
+     "description": 2.8721916156960887,
+     "size": 2.8721916156960887
+    },
+    {
+     "name": "NORTH HALEDON BORO",
+     "description": 2.4459863235456742,
+     "size": 2.4459863235456742
+    },
+    {
+     "name": "PASSAIC CITY",
+     "description": 2.734828378581549,
+     "size": 2.734828378581549
+    },
+    {
+     "name": "PATERSON CITY",
+     "description": 3.5276204934977207,
+     "size": 3.5276204934977207
+    },
+    {
+     "name": "POMPTON LAKES BORO",
+     "description": 3.5406321728645307,
+     "size": 3.5406321728645307
+    },
+    {
+     "name": "PROSPECT PARK BORO",
+     "description": 4.0161116850625405,
+     "size": 4.0161116850625405
+    },
+    {
+     "name": "RINGWOOD BORO",
+     "description": 3.205504997864207,
+     "size": 3.205504997864207
+    },
+    {
+     "name": "TOTOWA BORO",
+     "description": 2.3479841297973385,
+     "size": 2.3479841297973385
+    },
+    {
+     "name": "WANAQUE BORO",
+     "description": 3.2762436447842944,
+     "size": 3.2762436447842944
+    },
+    {
+     "name": "WAYNE TWP",
+     "description": 2.6911852939138288,
+     "size": 2.6911852939138288
+    },
+    {
+     "name": "WEST MILFORD TWP",
+     "description": 3.2682159513930324,
+     "size": 3.2682159513930324
+    },
+    {
+     "name": "WEST PATERSON BORO",
+     "description": 2.843983193974464,
+     "size": 2.843983193974464
+    }
+   ]
+  },
+  {
+   "name": "SALEM",
+   "description": 3.4664628537033093,
+   "children": [
+    {
+     "name": "ALLOWAY TOWNSHIP",
+     "description": 2.9639726030512104,
+     "size": 2.9639726030512104
+    },
+    {
+     "name": "CARNEYS POINT TOWNSHIP",
+     "description": 3.379193568956005,
+     "size": 3.379193568956005
+    },
+    {
+     "name": "ELMER BORO",
+     "description": 3.4623188904502467,
+     "size": 3.4623188904502467
+    },
+    {
+     "name": "ELSINBORO TWP",
+     "description": 3.156980767168761,
+     "size": 3.156980767168761
+    },
+    {
+     "name": "LOWER ALLOWAY CREEK TWP",
+     "description": 1.2171460298259256,
+     "size": 1.2171460298259256
+    },
+    {
+     "name": "MANNINGTON TWP",
+     "description": 3.162001058114647,
+     "size": 3.162001058114647
+    },
+    {
+     "name": "OLDMANS TWP",
+     "description": 2.572681033490744,
+     "size": 2.572681033490744
+    },
+    {
+     "name": "PENNS GROVE BORO",
+     "description": 5.208617452251288,
+     "size": 5.208617452251288
+    },
+    {
+     "name": "PENNSVILLE TWP",
+     "description": 4.296346754933528,
+     "size": 4.296346754933528
+    },
+    {
+     "name": "PILESGROVE TWP",
+     "description": 3.3058396316980576,
+     "size": 3.3058396316980576
+    },
+    {
+     "name": "PITTSGROVE TWP",
+     "description": 3.3262212368991984,
+     "size": 3.3262212368991984
+    },
+    {
+     "name": "QUINTON TWP",
+     "description": 3.1303783671786385,
+     "size": 3.1303783671786385
+    },
+    {
+     "name": "SALEM CITY",
+     "description": 6.296147200225392,
+     "size": 6.296147200225392
+    },
+    {
+     "name": "UPPER PITTSGROVE TWP",
+     "description": 2.7462890958166506,
+     "size": 2.7462890958166506
+    },
+    {
+     "name": "WOODSTOWN BORO",
+     "description": 3.7728091154893466,
+     "size": 3.7728091154893466
+    }
+   ]
+  },
+  {
+   "name": "SOMERSET",
+   "description": 2.3388606365051836,
+   "children": [
+    {
+     "name": "BEDMINSTER TWP",
+     "description": 1.3750120376208965,
+     "size": 1.3750120376208965
+    },
+    {
+     "name": "BERNARDS TWP",
+     "description": 2.0223754788333483,
+     "size": 2.0223754788333483
+    },
+    {
+     "name": "BERNARDSVILLE BORO",
+     "description": 2.063285428753945,
+     "size": 2.063285428753945
+    },
+    {
+     "name": "BOUND BROOK BORO",
+     "description": 3.0390395453536803,
+     "size": 3.0390395453536803
+    },
+    {
+     "name": "BRANCHBURG TWP",
+     "description": 2.0826026178085244,
+     "size": 2.0826026178085244
+    },
+    {
+     "name": "BRIDGEWATER TWP",
+     "description": 2.0339183017266373,
+     "size": 2.0339183017266373
+    },
+    {
+     "name": "FAR HILLS BORO",
+     "description": 1.3415945360689423,
+     "size": 1.3415945360689423
+    },
+    {
+     "name": "FRANKLIN TWP",
+     "description": 2.1724926321301288,
+     "size": 2.1724926321301288
+    },
+    {
+     "name": "GREEN BROOK TWP",
+     "description": 2.5832817991304537,
+     "size": 2.5832817991304537
+    },
+    {
+     "name": "HILLSBOROUGH TWP",
+     "description": 2.266067747228446,
+     "size": 2.266067747228446
+    },
+    {
+     "name": "MANVILLE BORO",
+     "description": 3.068799931977715,
+     "size": 3.068799931977715
+    },
+    {
+     "name": "MILLSTONE BORO",
+     "description": 2.3927540731105252,
+     "size": 2.3927540731105252
+    },
+    {
+     "name": "MONTGOMERY TWP",
+     "description": 2.501677802258255,
+     "size": 2.501677802258255
+    },
+    {
+     "name": "NORTH PLAINFIELD BORO",
+     "description": 3.3508864458329692,
+     "size": 3.3508864458329692
+    },
+    {
+     "name": "PEAPACK GLADSTONE BORO",
+     "description": 1.8532270327669866,
+     "size": 1.8532270327669866
+    },
+    {
+     "name": "RARITAN BORO",
+     "description": 2.3901432167847023,
+     "size": 2.3901432167847023
+    },
+    {
+     "name": "ROCKY HILL BORO",
+     "description": 2.340124866273275,
+     "size": 2.340124866273275
+    },
+    {
+     "name": "SOMERVILLE BORO",
+     "description": 3.1925291206032136,
+     "size": 3.1925291206032136
+    },
+    {
+     "name": "SO BOUND BROOK BORO",
+     "description": 2.885391004452186,
+     "size": 2.885391004452186
+    },
+    {
+     "name": "WARREN TWP",
+     "description": 2.051374619597719,
+     "size": 2.051374619597719
+    },
+    {
+     "name": "WATCHUNG BORO",
+     "description": 2.109495128296317,
+     "size": 2.109495128296317
+    }
+   ]
+  },
+  {
+   "name": "SUSSEX",
+   "description": 2.9377141832511433,
+   "children": [
+    {
+     "name": "ANDOVER BORO",
+     "description": 2.9563136736983906,
+     "size": 2.9563136736983906
+    },
+    {
+     "name": "ANDOVER TWP",
+     "description": 3.3929533127415734,
+     "size": 3.3929533127415734
+    },
+    {
+     "name": "BRANCHVILLE BORO",
+     "description": 2.255421962858694,
+     "size": 2.255421962858694
+    },
+    {
+     "name": "BYRAM TWP",
+     "description": 3.3234614842872205,
+     "size": 3.3234614842872205
+    },
+    {
+     "name": "FRANKFORD TWP",
+     "description": 2.4042477382112746,
+     "size": 2.4042477382112746
+    },
+    {
+     "name": "FRANKLIN BORO",
+     "description": 3.7254689146220485,
+     "size": 3.7254689146220485
+    },
+    {
+     "name": "FREDON TWP",
+     "description": 2.9998811470939217,
+     "size": 2.9998811470939217
+    },
+    {
+     "name": "GREEN TWP",
+     "description": 3.234831904528494,
+     "size": 3.234831904528494
+    },
+    {
+     "name": "HAMBURG BORO",
+     "description": 3.879259330756038,
+     "size": 3.879259330756038
+    },
+    {
+     "name": "HAMPTON TWP",
+     "description": 2.653335516200789,
+     "size": 2.653335516200789
+    },
+    {
+     "name": "HARDYSTON TWP",
+     "description": 2.697178623308204,
+     "size": 2.697178623308204
+    },
+    {
+     "name": "HOPATCONG BORO",
+     "description": 2.8134292538955776,
+     "size": 2.8134292538955776
+    },
+    {
+     "name": "LAFAYETTE TWP",
+     "description": 2.610716258453613,
+     "size": 2.610716258453613
+    },
+    {
+     "name": "MONTAGUE TWP",
+     "description": 2.691732154714762,
+     "size": 2.691732154714762
+    },
+    {
+     "name": "NEWTON TOWN",
+     "description": 3.789559979362081,
+     "size": 3.789559979362081
+    },
+    {
+     "name": "OGDENSBURG BORO",
+     "description": 3.6323887958104013,
+     "size": 3.6323887958104013
+    },
+    {
+     "name": "SANDYSTON TWP",
+     "description": 2.433208726161542,
+     "size": 2.433208726161542
+    },
+    {
+     "name": "SPARTA TWP",
+     "description": 3.0946061262661235,
+     "size": 3.0946061262661235
+    },
+    {
+     "name": "STANHOPE BORO",
+     "description": 3.7602098424941306,
+     "size": 3.7602098424941306
+    },
+    {
+     "name": "STILLWATER TWP",
+     "description": 2.805327887261497,
+     "size": 2.805327887261497
+    },
+    {
+     "name": "SUSSEX BORO",
+     "description": 3.06704316541453,
+     "size": 3.06704316541453
+    },
+    {
+     "name": "VERNON TWP",
+     "description": 3.061568019442244,
+     "size": 3.061568019442244
+    },
+    {
+     "name": "WALPACK TWP",
+     "description": 0.5785086241884784,
+     "size": 0.5785086241884784
+    },
+    {
+     "name": "WANTAGE TWP",
+     "description": 2.644487956255801,
+     "size": 2.644487956255801
+    }
+   ]
+  },
+  {
+   "name": "UNION",
+   "description": 3.6132618201053015,
+   "children": [
+    {
+     "name": "BERKELEY HEIGHTS TWP",
+     "description": 2.189551282284948,
+     "size": 2.189551282284948
+    },
+    {
+     "name": "CLARK TWP",
+     "description": 2.341697058101367,
+     "size": 2.341697058101367
+    },
+    {
+     "name": "CRANFORD TWP",
+     "description": 2.295699753317067,
+     "size": 2.295699753317067
+    },
+    {
+     "name": "ELIZABETH CITY",
+     "description": 3.098689449759805,
+     "size": 3.098689449759805
+    },
+    {
+     "name": "FANWOOD BORO",
+     "description": 2.68552079299138,
+     "size": 2.68552079299138
+    },
+    {
+     "name": "GARWOOD BORO",
+     "description": 2.520732634337074,
+     "size": 2.520732634337074
+    },
+    {
+     "name": "HILLSIDE TWP",
+     "description": 3.4668999670561944,
+     "size": 3.4668999670561944
+    },
+    {
+     "name": "KENILWORTH BORO",
+     "description": 2.6146591700281507,
+     "size": 2.6146591700281507
+    },
+    {
+     "name": "LINDEN CITY",
+     "description": 2.972389236535558,
+     "size": 2.972389236535558
+    },
+    {
+     "name": "MOUNTAINSIDE BORO",
+     "description": 2.0199915271361424,
+     "size": 2.0199915271361424
+    },
+    {
+     "name": "NEW PROVIDENCE BORO",
+     "description": 2.3375809933246026,
+     "size": 2.3375809933246026
+    },
+    {
+     "name": "PLAINFIELD CITY",
+     "description": 3.6250321778226633,
+     "size": 3.6250321778226633
+    },
+    {
+     "name": "RAHWAY CITY",
+     "description": 3.315447822850141,
+     "size": 3.315447822850141
+    },
+    {
+     "name": "ROSELLE BORO",
+     "description": 4.195003380393496,
+     "size": 4.195003380393496
+    },
+    {
+     "name": "ROSELLE PARK BORO",
+     "description": 3.4541735446025528,
+     "size": 3.4541735446025528
+    },
+    {
+     "name": "SCOTCH PLAINS TWP",
+     "description": 2.5167300891139197,
+     "size": 2.5167300891139197
+    },
+    {
+     "name": "SPRINGFIELD TWP",
+     "description": 2.8226054770810176,
+     "size": 2.8226054770810176
+    },
+    {
+     "name": "SUMMIT CITY",
+     "description": 1.8361603117775263,
+     "size": 1.8361603117775263
+    },
+    {
+     "name": "UNION TWP",
+     "description": 2.987642836250852,
+     "size": 2.987642836250852
+    },
+    {
+     "name": "WESTFIELD TOWN",
+     "description": 2.194056468953736,
+     "size": 2.194056468953736
+    },
+    {
+     "name": "WINFIELD TWP",
+     "description": 20.388234248493145,
+     "size": 20.388234248493145
+    }
+   ]
+  },
+  {
+   "name": "WARREN",
+   "description": 3.0162276128737604,
+   "children": [
+    {
+     "name": "ALLAMUCHY TWP",
+     "description": 2.5364640763574084,
+     "size": 2.5364640763574084
+    },
+    {
+     "name": "ALPHA BORO",
+     "description": 3.103099623314752,
+     "size": 3.103099623314752
+    },
+    {
+     "name": "BELVIDERE TOWN",
+     "description": 3.7391418103096012,
+     "size": 3.7391418103096012
+    },
+    {
+     "name": "BLAIRSTOWN TWP",
+     "description": 2.4087384524450273,
+     "size": 2.4087384524450273
+    },
+    {
+     "name": "FRANKLIN TWP",
+     "description": 3.075397248029559,
+     "size": 3.075397248029559
+    },
+    {
+     "name": "FRELINGHUYSEN TWP",
+     "description": 2.5403747821006464,
+     "size": 2.5403747821006464
+    },
+    {
+     "name": "GREENWICH TWP",
+     "description": 2.8146323825845934,
+     "size": 2.8146323825845934
+    },
+    {
+     "name": "HACKETTSTOWN TOWN",
+     "description": 3.1053484473125463,
+     "size": 3.1053484473125463
+    },
+    {
+     "name": "HARDWICK TWP",
+     "description": 2.5584023929922783,
+     "size": 2.5584023929922783
+    },
+    {
+     "name": "HARMONY TWP",
+     "description": 2.1500626167497585,
+     "size": 2.1500626167497585
+    },
+    {
+     "name": "HOPE TWP",
+     "description": 2.720995336935113,
+     "size": 2.720995336935113
+    },
+    {
+     "name": "INDEPENDENCE TWP",
+     "description": 2.868513900728296,
+     "size": 2.868513900728296
+    },
+    {
+     "name": "KNOWLTON TWP",
+     "description": 2.8201216096445805,
+     "size": 2.8201216096445805
+    },
+    {
+     "name": "LIBERTY TWP",
+     "description": 2.8589637617382126,
+     "size": 2.8589637617382126
+    },
+    {
+     "name": "LOPATCONG TWP",
+     "description": 2.9216975266206164,
+     "size": 2.9216975266206164
+    },
+    {
+     "name": "MANSFIELD TWP",
+     "description": 3.117513894770472,
+     "size": 3.117513894770472
+    },
+    {
+     "name": "OXFORD TWP",
+     "description": 3.665687595446656,
+     "size": 3.665687595446656
+    },
+    {
+     "name": "PHILLIPSBURG TOWN",
+     "description": 3.84090400079146,
+     "size": 3.84090400079146
+    },
+    {
+     "name": "POHATCONG TWP",
+     "description": 3.7223803233758916,
+     "size": 3.7223803233758916
+    },
+    {
+     "name": "WASHINGTON BORO",
+     "description": 4.220585941636867,
+     "size": 4.220585941636867
+    },
+    {
+     "name": "WASHINGTON TWP",
+     "description": 3.442112264888704,
+     "size": 3.442112264888704
+    },
+    {
+     "name": "WHITE TWP",
+     "description": 2.1258694944496823,
+     "size": 2.1258694944496823
+    }
+   ]
+  }
+ ]
+}
