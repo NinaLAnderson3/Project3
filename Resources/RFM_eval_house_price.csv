@@ -1,0 +1,5 @@
+,RF Accuracy
+Base Train Model,97.219%
+Base Test Model,81.528%
+Tuned Train Model,97.879%
+Tuned Test Model,84.741%
