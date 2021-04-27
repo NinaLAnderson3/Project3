@@ -7,6 +7,10 @@
 #### https://backbenchers-njnewmovers.herokuapp.com/
 
 
+# Our Updated Process
+![Flow](updated_flow_diagram.png)
+
+
 ### Since our intial build we have added the following features to our website:
 1. Tableau Visualizations: Visualizations have been added to the site that highlight data related to crime, poverty, income, and home price trends and future predictions.
 2. The direct tableau public page: https://public.tableau.com/views/HitchHikersGuidetoNJ/NJStory?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
@@ -27,8 +31,6 @@ https://backbenchers-njnewmovers.herokuapp.com/
 # Our Goals
 ## Our goal is to create a guide that would educate potential movers on where to live in New Jersey based on certain criteria such geography, crime rate, education level, and tax rate.
 
-# Our Process
-![Flow](updated_flow_diagram.png)
 
 # Our Challenges & Solutions
 
