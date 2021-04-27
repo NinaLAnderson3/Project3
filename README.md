@@ -2,6 +2,9 @@
 
 ## -- Version 2.0 Update
 
+
+### Updated Heroku Page.
+#### https://backbenchers-njnewmovers.herokuapp.com/
 ### Since our intial build we have added the following features to our website:
 #### 1. Tableau Visualizations: Visualizations have been added to the site that highlight data related to crime, poverty, income, and home price trends and future predictions.
 #### 2. Machine Learning Model: A prediction model, leveraging Zillow home price data, has been built in that allows a user to see the future predicted value of homes in their county of interest, using two different prediction models (Linear Regression and Random Forest).\
