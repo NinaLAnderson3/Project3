@@ -22,10 +22,6 @@
 ### Our Members
 ![Intro](team_photo.png)
 
-# Check Us Out on Heroku!!!
-https://backbenchers-njnewmovers.herokuapp.com/
-
-
 ## Version 1.0
 
 # Our Goals
